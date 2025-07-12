@@ -11,19 +11,11 @@ N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se f
 
 Pour donner un aperçu de ce concept en jeux de rôle, imaginons que les personnages des joueurs tentent de s’infiltrer discrètement dans un manoir gardé. Vous créez alors un minuteur « Les gardes vous surprennent » qui commence avec 8 jetons.  Chaque fois qu’un joueur rate un jet de discrétion, un jeton est retiré. Quand un joueur décide de forcer une serrure plutôt que de chercher la clé, cela génère évidemment du bruit : un jeton de moins. Quand il ne reste plus que trois jetons, on entend des voix qui se rapprochent. À un jeton, un garde commence à faire sa ronde dans leur direction. Quand tous les jetons sont retirés, les personnages sont découverts et doivent fuir au plus vite.
 
-Dans cet exemple, on peut voir que le minuteur rend tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette transparence a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront une meilleur visibilité sur la temporalité et la dynamique de ce qui se passe dans la fiction et donc un meilleur contrôle du résult
-
--> Voir l'effet de ses actions
-
-Matérialiser cette menace permet aux joueurs de rester concentrés sur celle-ci. -> detailler l'effet, utiliser le livre sur le game design
-
--> La tension effet narrarif / effet ludique manque de clarté. Tu devrais peut-être distinguer clairement les 2 fonctions de ces horloges qui ont ce double effet narratif et ludique. prends le tps d'expliquer ces concepts que tu amènes comme une évidence alors que ça n'en est pas une, à mon sens...
+Dans cet exemple, on peut voir que le minuteur rend tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette transparence a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront une meilleur visibilité sur la temporalité et la dynamique de ce qui se passe dans la fiction et donc un meilleur contrôle du résultat de leurs actions.
 
 Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeux coopératifs comme *L'ile interdite* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus tard dans l’univers du jeu de rôle avec *Apocalypse World* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *Blades in the Dark* (BD) de John Harper qui raffine et systématise leur usage ou bien *Ironsworn* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *Everspark*. Une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur compréhension et leur adaptation à n’importe quel système de jeu. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
-
-Note de bas de page? 
 
 Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire plusieurs principes fondamentaux communs à tous. 
 
@@ -278,6 +270,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTk2MDgwMSwtMTY1NjIyMTE3OSw0Nj
-QxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbNTUyOTQ3Mjc5LC0xNjU2MjIxMTc5LDQ2ND
+EwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

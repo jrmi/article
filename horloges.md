@@ -176,7 +176,7 @@ Comme vu précédemment, on peut imaginer que la résolution d’un minuteur inf
 Imaginons trois minuteurs pour représenter le siège d’une ville par des pillards :
 
 - A : « Les défenses cèdent » si les pillards envahissent la ville.
-- B : « Les reforts arrivent » les guerriers du village voisin ont été prévenus et sont en chemin.
+- B : « Les renforts arrivent » les guerriers du village voisin ont été prévenus et sont en chemin.
 - C : « Les villageois sont évacués » quand tous les civils sont sortis par le tunnel d’évacuation secret.
 
 Interactions possibles :
@@ -186,7 +186,8 @@ Interactions possibles :
 
 #### Épreuves en série ou en parallèle
 
-Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur pour rendre la résolution plus mémorable, mais il existe une autre possibilité qui donne plus de variété au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou en bien parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. Cela permet d’inciter les joueurs à diversifier leur actions et à rendre ces obstacle plus intéressants à résoudre. Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel les « boss » sont composés de plusieurs parties qu’il faut attaquer avant de pouvoir attaquer la partie centrale.
+Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur pour rendre la résolution plus mémorable, mais il existe une autre possibilité qui donne plus de variété au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou en bien parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. Chaque minuteur représente un aspect différent du problème. 
+Cela permet d’inciter les joueurs à diversifier leur actions et à rendre ces obstacle plus intéressants à résoudre car. Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel les « boss » sont composés de plusieurs parties qu’il faut attaquer avant de pouvoir attaquer la partie centrale.
 
 #### Scénario à base de minuteurs
 
@@ -205,7 +206,7 @@ Une fois les navettes réparées et les survivants rassemblés, il devient possi
 - « Mise en orbite autours de la planète »
 
 Plus on rassemble de survivants, plus il devient facile de faire progresser la réparation des navettes.
-
+o
 Si le système de maintenance est piraté, Le minuteur du réacteur est reculé car les droids de maintenance vont refroidir le réacteur.
 
 Voilà de quoi assurer quelques heures de jeux !
@@ -264,7 +265,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2ODM0MDU1LDEzMjQwODQyNTksLTQ1MD
+eyJoaXN0b3J5IjpbOTE4MjUwNzc3LDEzMjQwODQyNTksLTQ1MD
 UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
 MF19
 -->

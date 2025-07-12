@@ -98,8 +98,8 @@ Les **Menaces** représentent tous les événements indésirables auxquels les j
 | Situation fictionnelle | Conséquence narrative |
 |--|--|
 | Un dragon endormi menace de se réveiller à chaque fois que l’un personnage fait une action qui produit du bruit. | Le dragon se réveille |
-| La coque du vaisseau est percée et il va falloir la réparer en gaspillant le moins possible l’oxygène. | Plus d'oxygéne |
-| La trousse de premier soins est épuisée. Un des personnages possède cette trousse de premier soin et  mais elle ne pourra pas soigner toutes les blessures. |La trousse de premier soins est épuisée |
+| La coque du vaisseau est percée et il va falloir la réparer en gaspillant le moins possible l’oxygène. | Plus d’oxygène |
+| La trousse de premier soins est épuisée. Un des personnages possède cette trousse de premier soin et  mais elle ne pourra pas soigner toutes les blessures. | La trousse de premier soins est épuisée |
  
 Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Ils peuvent recouvrir le franchissement d'obstacles /  ennemis, des actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou de groupe.
 
@@ -107,8 +107,10 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 | Situation fictionnelle | Conséquence narrative |
 |--|--|
 | Les personnages doivent combattre un dragon afin de continuer leur quête. | Le dragon est vaincu |
+| Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
+| Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | j'ai appris le sort de soin majeur  |
 
-— Le dragon est vaincu. Les personnages doivent combattre un dragon afin de continuer leur quête
+
 
 Les personnages doivent combattre un dragon afin de continuer leur quête -> Le dragon est vaincu.
 
@@ -460,5 +462,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkxNzg3NzQsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbMzYwNzcwNDksLTE3MDAxMzU0MF19
 -->

@@ -17,9 +17,11 @@ Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeu
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur utilisation et adaptation à votre univers. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
-Si vous ne connaissez pas les différents jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique.
+Avant de rentrer dans leSi vous ne connaissez pas les différents jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique.
 
 Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. 
+
+L’intégration des minuteurs dans un jeu passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs.
 
 Mécanique
   - Représentation
@@ -28,10 +30,6 @@ Mécanique
 utilisation
 - Conséquence
 - Déclencheurs
-
-
-L’intégration des minuteurs dans un jeu passe par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis de son utilisation en définissant pour chaque minuteur sa conséquence et ses déclencheurs.
-
 
 
 
@@ -140,12 +138,7 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 | La tempête de sable est sur nous | Toutes les dix minutes en jeu. |
 | Les renforts alliés arrivent | Après chaque événement marquant de la bataille. |
 
-
-## Pour résumer
-
-
-
-## Quelques variations pour enrichir le jeu
+## Quelques variations pour enrichir les minuteurs
 
 La section précédente a permis de disséquer la mécanique et l'utilisation des minuteurs  mais tout ceci ne fait qu’effleurer les possibilités offertes par ce système simple en apparence mais toutefois extrêmement flexible. Il est recommandé de se l’approprier et d’imaginer d’autres possibilités. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus polyvalents. Voici une liste, non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la  tension narrative et/ou l'aspect ludique.
 
@@ -282,7 +275,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDAxMzcxNCwxMzI0MDg0MjU5LC00NT
-A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTEyOTAwODk5NTcsMTMyNDA4NDI1OSwtND
+UwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEz
+NTQwXX0=
 -->

@@ -33,7 +33,7 @@ Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre qu
 
 ### Représenter la progression du minuteur
 
-La représentation est la manière de rendre visible pour les joueurs la progression du minuteur. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
+Un des objectifs premier des minuteurs et de rendre visible pour les joueurs la progression du d'une conséquence, il est donc primordiale de définir sa représentation. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
 
 - Une horloge atomique avec 6 segments qu’on noircit au fur et à mesure (AW)
 - Un cercle découpé en 4, 6 ou 8 cadrans que l’on grise au fur et à mesure (BD)
@@ -284,7 +284,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDEyMjI1NywtNDY2ODcxMzk1LDEzMj
+eyJoaXN0b3J5IjpbMTkwMDE0MjUxMCwtNDY2ODcxMzk1LDEzMj
 QwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1
 MzgsLTE3MDAxMzU0MF19
 -->

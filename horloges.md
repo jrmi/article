@@ -26,7 +26,10 @@ Mécanique
   - Résolution
 
 utilisation
--
+- Conséquence
+- Déclencheurs
+
+
 
 
 
@@ -279,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDc5NTA0OSwxMzI0MDg0MjU5LC00NT
+eyJoaXN0b3J5IjpbLTc4OTY4ODg1MiwxMzI0MDg0MjU5LC00NT
 A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
 NDBdfQ==
 -->

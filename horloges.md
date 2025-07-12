@@ -203,7 +203,7 @@ La tête ne pourra être touchée qu'à condition que les deux pinces soient neu
 
 #### Scénario à base de minuteurs
 
-Pour finir, on peut développer encore davantage la piste précédente pousser le point précédent encore plus loin et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités.
+Pour finir, on peut développer encore davantage la piste précédente pousser le point précédent encore plus loin et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habit
 
 Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
 
@@ -224,7 +224,7 @@ Si le système de maintenance est piraté, Le minuteur du réacteur est reculé 
 
 Les joueurs peuvent décider d'utiliser la réserve d’énergie de la station pour améliorer leurs chances de succès en utilisant des outils puissants lors de leurs actions mais s'il n'y a plus d’énergie, il ne pourront plus utiliser les droids.
 
-Plus il y aura de survivants sauvé, plus 
+Plus il y aura de survivants sauvés, plus ils leur sera facile de survivre sur la planète qu'ils vont rejoindre.
 
 Voilà de quoi assurer quelques heures de jeux !
 
@@ -282,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjQ2NDEyNCwxMzI0MDg0MjU5LC00NT
+eyJoaXN0b3J5IjpbMTQ0NzI5MTQ0NiwxMzI0MDg0MjU5LC00NT
 A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
 NDBdfQ==
 -->

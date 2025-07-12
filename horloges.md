@@ -186,8 +186,12 @@ Interactions possibles :
 
 #### Épreuves en série ou en parallèle
 
-Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur pour rendre la résolution plus mémorable, mais il existe une autre possibilité qui donne plus de variété au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou en bien parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. Chaque minuteur représente un aspect différent du problème. 
-Cela permet d’inciter les joueurs à diversifier leur actions et à rendre ces obstacle plus intéressants à résoudre car. Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel les « boss » sont composés de plusieurs parties qu’il faut attaquer avant de pouvoir attaquer la partie centrale.
+Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur pour rendre la résolution plus mémorable, mais il existe une autre possibilité qui donne plus de variété au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou en bien parallèle. 
+
+Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. Chaque minuteur représente un aspect différent du problème. 
+Cela permet d’inciter les joueurs à diversifier leur actions et à rendre ces obstacle plus intéressants à résoudre car composé de différentes parties qui auront leurs spécificités. 
+
+Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel les « boss » sont composés de plusieurs parties qu’il faut attaquer avant de pouvoir attaquer la partie centrale ou encore quand ils changent de comportement aprés un certai
 
 #### Scénario à base de minuteurs
 
@@ -265,7 +269,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MjUwNzc3LDEzMjQwODQyNTksLTQ1MD
-UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
-MF19
+eyJoaXN0b3J5IjpbLTkyOTEyNDg1MCwxMzI0MDg0MjU5LC00NT
+A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
+NDBdfQ==
 -->

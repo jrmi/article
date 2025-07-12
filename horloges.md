@@ -143,87 +143,48 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 
 ## Pour résumer
 
-  
-
 L’intégration des minuteurs dans un jeu passe par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis de son utilisation en définissant pour chaque minuteur sa conséquence et ses déclencheurs.
 
-  
 
 ## Quelques variations pour enrichir le jeu
 
-  
-
 La section précédente a permis de disséquer la mécanique et l'utilisation des minuteurs  mais tout ceci ne fait qu’effleurer les possibilités offertes par ce système simple en apparence mais toutefois extrêmement flexible. Il est recommandé de se l’approprier et d’imaginer d’autres possibilités. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus polyvalents. Voici une liste, non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la  tension narrative et/ou l'aspect ludique.
 
-  
-
 ### Des durées variables
-
-  
 
 BD ou IS proposent de faire varier la durée des minuteurs. Cette durée peut refléter la complexité de la tâche à accomplir. On peut vouloir qu’un combat contre un dragon soit plus long que contre un gobelin par exemple. Aun
 
 Niveau mécanique, il suffit de faire un minuteur avec plus d’étapes ou de diminuer la vitesse de progression. Toutefois, veillez, sauf cas particulier, à rester dans une durée relativement courte, au risque d’avoir l’effet contraire à celui escompté, à savoir que les joueurs ne voient pas la fin arriver et finissent par se lasser.
 
-  
-
 ### Des durées aléatoires
-
-  
 
 Deux jeux ont une particularité concernant le système de résolution : La durée des Sparks de ES et des pistes de IS (pour une difficulté donnée) ne sont pas prédéterminées. Dans le cas de ES, le jet de dés à chaque progression rend possible la résolution après seulement une étape ou bien au bout de cinq. Pour IS ce sont les joueurs qui décident de tenter une résolution.
 
-  
-
 Cette variante est intéressante  car elle rajoute de l’incertitude que les joueurs doivent prendre en compte dans leur stratégie. Tout en gardant le côté prédictible les choix deviennent plus risqués ce qui peut rendre les réussites ou les échecs plus héroïques.
-
-  
 
 ### Des conséquences intermédiaires
 
-  
-
 Pour le moment nous adons définit une seule conséquence par minuteur lorsque celui-ci se résoud, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. Par exemple, si une bâtisse est en train de s’effondrer, on peut imaginer que l'effondrement soit marqué par des étapes : des morceaux de murs tombent, les aventuriers doivent les éviter.  On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression rendant la situation de plus en plus  complexe.
 
-  
-
 ### Un renversement de situation
-
-  
 
 Il s’agit de définir une condition supplémentaire dans la mécanique des minuteurs, de préférence rare, qui modifie substantiellement voire inverse le résultat initialement attendu lorsqu’elle celle-ci se produit.
 
 Dans ES, cela se produit si l’on trace le cinquième trait de la Spark et que, lorsqu’on lance le dé, on ne touche toujours pas un rayon (on fait 6 sur le dé). Dans ce cas, si ce renversement se produit et que la conséquence initiale est « Le dragon se réveille » on peut imaginer que les personnages se rendent finalement compte que le dragon était mort, ou bien que ce ne sont pas un mais deux dragons qui se réveillent ou encore que le dragon se réveille, mais qu'il est accueillant. Bref, le renversement de situation introduit alors un principe de surprise en se soldant par une conséquence inattendue.
 
-  
-
 ### Des minuteurs à rebours
-
-  
 
 ES, toujours lui, propose également des conditions pour que le minuteur recule au lieu de progresser ou même qu’il revienne à sa valeur initiale. Cela peut être la récompense d’une action particulièrement audacieuse d’un joueur ou bien défini dès la création du minuteur ou encore la conséquence de la résolution d’un autre minuteur.
 
-  
-
-Par exemple, pour un minuteur qui représente l’évolution d’un incendie qui ravage une bibliothéque, on peut imaginer que si les joueurs appellent les pompiers, cela permet de reculer le minuteur d’un certain nombre de cran pour représenter le délais supplémentaire que les pompiers vont apporter avec leur intervention.
-
-  
+Par exemple, pour un minuteur qui représente l’évolution d’un incendie qui ravage une bibliothèque, on peut imaginer que si les joueurs appellent les pompiers, cela permet de reculer le minuteur d’un certain nombre de cran pour représenter le délais supplémentaire que les pompiers vont apporter avec leur intervention.
 
 ### Combiner plusieurs minuteurs
 
-  
-
 La présence d’un minuteur ajoute déjà beaucoup au jeu mais cela devient encore plus intéressant lorsque l’on combine plusieurs minuteurs ensemble.
-
-  
 
 #### 2 minuteur pour faire une compétition.
 
-  
-
 Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un poursuivi, deux groupes qui essayent de s’attirer les faveurs d’une reine, etc… Dans ce cas, il est possible de suivre l’avancement des deux opposants à l’aide de deux minuteurs, une pour chaque camp. Le premier qui se résout indique le résultat de la compétition.
-
-  
 
 Si les personnages tentent de semer les gardes de la ville qui les poursuivent, un minuteur représente la progression des personnages et l’autre des joueurs. Si le premier minuteur se termine avant le second, les personnages sont saufs. Dans le cas contraire, ils n’ont plus qu’a faire face à leurs poursuivants.
 
@@ -401,5 +362,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NzA5MTgzLC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbNzUzNTA4OTI2LC0xNzAwMTM1NDBdfQ==
 -->

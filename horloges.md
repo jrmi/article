@@ -94,7 +94,7 @@ Les conséquences peuvent être catégorisées en trois groupes selon la réacti
 Les **Menaces** représentent tous les événements indésirables auxquels les joueurs font face et qu'ils vont chercher à éviter ou, tout du moins, à ralentir. Chaque "menace" repose ainsi sur une tension entre un danger et des moyens de l'éviter :
 
 | Situation fictionnelle | Conséquence narrative |
-|--|--|
+|:--|:--:|
 | Les personnages sont en présence d'un dragon endormi qui menace de se réveiller à chaque instant. | Le dragon se réveille |
 | La coque du vaisseau vient d'être percée par un astéroïde et il va falloir la réparer en gaspillant le moins possible l’oxygène. | Plus d’oxygène |
 | Un des personnages possède une trousse de premier soin mais elle ne pourra pas soigner toutes les blessures. | La trousse de premier soins est vide |
@@ -103,7 +103,7 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 
 
 | Situation fictionnelle | Conséquence narrative |
-|--|--|
+|:--|:--:|
 | Les personnages doivent combattre un dragon afin de continuer leur quête. | Le dragon est vaincu |
 | Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
 | Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | J'ai appris le sort de soin  |
@@ -278,6 +278,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjU1MzM4MiwtMTY1NjIyMTE3OSw0Nj
-QxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbNTA3NTIyOTkwLC0xNjU2MjIxMTc5LDQ2ND
+EwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

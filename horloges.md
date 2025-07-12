@@ -17,9 +17,9 @@ Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeu
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur compréhension et leur adaptation à n’importe quel système de jeu. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
-Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire plusieurs principes fondamentaux communs à tous. 
+Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. 
 
-Vous pouvez consulter en annexe une description succincte de chaque mécanique si vous souhaitez vous faire une idée.
+Si vous ne connaissez pas les différents jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique.
 
 **details**
 
@@ -270,6 +270,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyOTQ3Mjc5LC0xNjU2MjIxMTc5LDQ2ND
-EwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbMTM0MDg4ODQwMywtMTY1NjIyMTE3OSw0Nj
+QxMDc1MzgsLTE3MDAxMzU0MF19
 -->

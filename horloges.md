@@ -203,7 +203,7 @@ La tête ne pourra être touchée qu'à condition que les deux pinces soient neu
 
 #### Scénario à base de minuteurs
 
-Pour finir, on peut développer encore davantage la piste précédente pousser le point précédent encore plus loin et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habit
+Pour finir, on peut développer encore davantage la piste précédente pousser le point précédent encore plus loin et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
 
 Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
 
@@ -234,17 +234,19 @@ Dans certains cas, il peut être intéressant de ne pas révéler la conséquenc
 
 ### Différentes mécaniques
 
-Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n’empêche d’avoir des mécaniques différentes en fonction de la catégorie de conséquence (Menace, Objectif, Fatalité) ou de tout autre critère. Par exemple, proposer une résolution décidée par les joueurs comme dans IS fonctionnera bien pour les Objectifs mais moins pour les Menaces. Ou encore on pourrait également rendre certain minuteurs aléatoires et conserver des durées fixes pour d’autres.
+Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n’empêche d’avoir des mécaniques différentes en fonction de la catégorie de conséquence (Menace, Objectif, Fatalité) ou de tout autre critère. Par exemple, proposer une résolution décidée par les joueurs comme dans IS fonctionnera bien pour les Opportunités mais moins pour les Menaces. Ou encore on pourrait également rendre certain minuteurs aléatoires et conserver des durées fixes pour d’autres.
 
 ## Conclusion
 
-Le minuteur narratif est une mécanique à la fois simple, flexible et polyvalente qui permet de d’améliorer l’immersion des joueurs. (voir ma proposition de conclusion dans la "conclusion intermédiaire").
+Le minuteur narratif est une mécanique à la fois simple, flexible et polyvalente qui permet de d’améliorer l’immersion des joueurs.
 
 -> mettre le terme de "typologie".
 
 Nous avons cherché dans ce travail à élaborer une typologie visant à mieux décomposer et mieux cerner la manière dont fonctionnent les minuteurs pour mettre au jour à la fois le mécanisme interne et bien huilé de ces horloges tout en ménageant des espaces de liberté et de créativité qui permettent aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel.
 
 Les horloges narratives ont ceci de riche qu'elles répondent à une logique narrative (faire avancer l'action) tout en relevant d'un logique du jeu.
+
+-> on s'approche des mécanique des JDS
 
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
@@ -282,7 +284,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzI5MTQ0NiwxMzI0MDg0MjU5LC00NT
+eyJoaXN0b3J5IjpbLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC00NT
 A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
 NDBdfQ==
 -->

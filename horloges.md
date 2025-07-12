@@ -205,12 +205,13 @@ La tête ne pourra être touchée qu'à condition que les deux pinces soient neu
 
 Pour finir, on peut développer encore davantage la piste précédente pousser le point précédent encore plus loin et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités.
 
-Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer 4 minuteurs en parallèle :
+Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
 
 - « Réparer les navettes »
 - « Rassembler les survivants »
 - « Le système de maintenance est piraté »
 - « Le réacteur explose »
+- « La cuve de refroidissement est vide » les personnage peuvent décider d'utiliser le liquide contenu dans la cuve pour se donner un délais supplé
 
 Une fois les navettes réparées et les survivants rassemblés, il devient possible de résoudre les minuteurs suivants :
 
@@ -277,7 +278,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk5MjU2NzMsMTMyNDA4NDI1OSwtND
-UwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEz
-NTQwXX0=
+eyJoaXN0b3J5IjpbOTY3ODU1MjU4LDEzMjQwODQyNTksLTQ1MD
+UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
+MF19
 -->

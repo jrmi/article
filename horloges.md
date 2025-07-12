@@ -124,21 +124,20 @@ Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d
 
 ### Choisir les déclencheurs
 
-Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage de chaque jour dans la fiction, une action spécifique des joueurs comme tenter une infiltration ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début.
-
-  
+Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage du temps dans la fiction, une action spécifique des joueurs ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début.
 
 Exemples de déclencheurs pour les conséquences décrites dans la section précédente.
 
-  
+| Conséquence narrative | Déclencheurs possibles  |
+|--|--|
+| Le dragon se réveille | À chaque jet de discrétion raté ou en cas d’action particulièrement bruyante. |
+|  |  |
+|  |  |
+ 
 
-Faire une table
 
-  
 
-Conséquence narrative | Déclencheurs possibles
-
-  
+ 
 
 Les Menaces
 
@@ -436,5 +435,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MTkyNzExLC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTE1Njc2NzQsLTE3MDAxMzU0MF19
 -->

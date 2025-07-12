@@ -231,27 +231,15 @@ Voilà de quoi assurer quelques heures de jeux !
 
 ### Des minuteur anonymes
 
-  
-
 Dans certains cas, il peut être intéressant de ne pas révéler la conséquence du minuteur dès sa création. Cela permet d’aller encore plus loin dans le suspense. Les joueurs vont se demander ce qui peut se passer et feront probablement des suppositions. La menace est là  mais elle ne se révélera qu’au dernier moment. À utiliser judicieusement car cela va à l’encontre  entre en contradiction avec le principe de visibilité avec l’objectif de visibilité...
-
-  
 
 ### Différentes mécaniques
 
-  
-
-Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n’empêche d’avoir des mécaniques différentes en fonction de la catégorie de conséquence (Menace, Objectif, Fatalité) ou de tout autre critère. Par exemple, proposer une résolution décidée par les joueurs comme dans Ironsworn fonctionnera bien pour les Objectifs mais moins pour les Menaces. Ou encore on pourrait également rendre certain minuteurs aléatoires et conserver des durées fixes pour d’autres.
-
-  
+Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n’empêche d’avoir des mécaniques différentes en fonction de la catégorie de conséquence (Menace, Objectif, Fatalité) ou de tout autre critère. Par exemple, proposer une résolution décidée par les joueurs comme dans IS fonctionnera bien pour les Objectifs mais moins pour les Menaces. Ou encore on pourrait également rendre certain minuteurs aléatoires et conserver des durées fixes pour d’autres.
 
 ## Conclusion
 
-  
-
 Le minuteur narratif est une mécanique à la fois simple, flexible et polyvalente qui permet de d’améliorer l’immersion des joueurs. (voir ma proposition de conclusion dans la "conclusion intermédiaire").
-
-  
 
 -> mettre le terme de "typologie".
 
@@ -259,71 +247,33 @@ Nous avons cherché dans ce travail à élaborer une typologie visant à mieux d
 
 Les horloges narratives ont ceci de riche qu'elles répondent à une logique narrative (faire avancer l'action) tout en relevant d'un logique du jeu.
 
-  
 
-  
-
-  
-
-  
-
-  
-
-Annexes
-
-  
+## Annexes
 
 Mettre une puce ou un chiffre ? Dans Apocalypse World, il s’agit d’une horloge dite « atomique », héritage direct de la guerre froide. Elle contient 4 segments mais le dernier segment est divisé en 3, ce qui donne 6 segments au total.
 
-  
 
 <image>
-
-  
 
 L’horloge avance d’un segment à chaque fois que les conditions définies par le MJ sont remplies. On marque le progrès en noircissant un segment et l'horloge se résout quand tous les segments sont remplis. Elles sont en particulier utilisées notamment pour définir les menaces globales et fonctionnent comme une sorte d’indicateur qui va donner le du rythme à la campagne et permettre de guider l’action des joueurs.
 
-  
-
 Dans Blades in the Dark, les minuteurs se nomment « horloges de progression » (progress clock) (mettre le nom en anglais et traduire entre parenthèses ?) et sont représentées par des cercles divisés en 4, 6 ou 8 cadrans.
 
-  
-
 <image>
-
-  
 
 Elles avancent d’un cadran à chaque fois que la narration ou les actions des joueurs le justifient. Le nombre de cadrans dépend de la complexité du problème représenté. On marque le progrès en noircissant un cadran, et l’horloge de progression est terminée lorsque tous les cadrans ont été noircis quand on a noirci tous les cadrans. Elles permettent notamment de suivre la progression d’un effort contre un obstacle narratif ou bien d’afficher la progression de l’approche d’un problème.
 
-  
-
 Dans Ironsworn, les pistes de progrès sont associées à des objectifs que le ou les joueurs se sont donnés (les vœux de fer). Elles sont représentées par une suite de 10 cases que l’on va cocher à chaque fois que la fiction le justifie.
 
-  
-
 <image>
-
-  
 
 En fonction de la difficulté de la tâche, le remplissage de la piste sera plus ou moins rapide. Quand les joueurs le décident, ils peuvent tester vérifier si la tâche est accomplie en comparant un jet de dés à 10 faces avec la valeur actuelle de la piste. En cas de succès, la piste est résolue et l’événement associé également. Dans le cas contraire, elle est remise à zéro, car la difficulté de la tâche s’est révélée sous-estimée.
 
-  
-
 Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par des étoiles à 5 branches sur une note auto-collante. Elles sont utilisées dans de très nombreuses situations : obstacle, menace, ressource, compétition, amélioration des personnages…
-
-  
 
 <image>
 
-  
-
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
-
-  
-
-  
-
-Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTcyMjgxOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbNDY0MTA3NTM4LC0xNzAwMTM1NDBdfQ==
 -->

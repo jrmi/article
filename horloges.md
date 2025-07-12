@@ -149,9 +149,9 @@ Pour le moment nous avons définit une seule conséquence par minuteur lorsque c
 
 ### Un renversement de situation
 
-Il s’agit de définir une condition supplémentaire dans la mécanique des minuteurs, de préférence rare, qui modifie substantiellement voire inverse le résultat initialement attendu lorsqu’elle celle-ci se produit.
+Variante particulièrement intéressante car il s’agit de définir une condition supplémentaire dans la mécanique des minuteurs, de préférence rare, qui modifie substantiellement voire inverse le résultat initialement attendu lorsqu’elle celle-ci se produit, créant une possibilit
 
-Dans ES, cela se produit si l’on trace le cinquième trait de la Spark et que, lorsqu’on lance le dé, on ne touche toujours pas un rayon (on fait 6 sur le dé). Dans ce cas, si ce renversement se produit et que la conséquence initiale est « Le dragon se réveille » on peut imaginer que les personnages se rendent finalement compte que le dragon était mort, ou bien que ce ne sont pas un mais deux dragons qui se réveillent ou encore que le dragon se réveille, mais qu'il est accueillant. Bref, le renversement de situation introduit alors un principe de surprise en se soldant par une conséquence inattendue.
+Dans ES, cela se produit si l’on trace le cinquième trait de la Spark et que, lorsqu’on lance le dé, on ne touche toujours pas un rayon (on fait 6 sur le dé). Dans ce cas, si ce renversement se produit et que la conséquence initiale est « Le dragon se réveille » on peut imaginer que les personnages se rendent finalement compte que le dragon était mort, ou bien que ce ne sont pas un mais deux dragons qui se réveillent ou encore que le dragon se réveille, mais qu'il a une attitude amicale. Bref, le renversement de situation introduit alors un principe de surprise en se soldant par une conséquence inattendue.
 
 ### Des minuteurs à rebours
 
@@ -264,7 +264,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjg2ODY2MywxMzI0MDg0MjU5LC00NT
-A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
-NDBdfQ==
+eyJoaXN0b3J5IjpbNjU4NTU1Njk5LDEzMjQwODQyNTksLTQ1MD
+UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
+MF19
 -->

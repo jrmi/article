@@ -115,7 +115,7 @@ Comme ces Opportunités ont pour vocation, notamment de suivre des projets perso
 Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
 
 | Situation fictionnelle | Conséquence narrative |  
-|--|--|  
+|:--|:--:|  
 | Un volcan est en train d’entrer en éruption, ce n’est qu’une question de temps avant que la lave ne jaillisse. | Le volcan entre en éruption |
 | Au loin, de gros nuages de sable annoncent une tempête de sable. | La tempête de sable est sur nous |
 | La bataille bat son plein et des alliés sont attendus avec fébrilité. | Les alliés arrivent |
@@ -127,7 +127,7 @@ Pour chaque minuteur, il faut veiller à définir au moins une condition qui va 
 Exemples de déclencheurs pour les conséquences décrites dans la section précédente.
 
 | Conséquence narrative | Déclencheurs possibles  |
-|--|--|
+|:--|:--|
 | Le dragon se réveille | À chaque jet de discrétion raté ou en cas d’action particulièrement bruyante. |
 | Plus d'oxygène | À chaque tour de jeu et en cas d’action physique ou à chaque échec critique |
 | La trousse de premier soins est vide | À chaque utilisation. |
@@ -278,6 +278,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NTIyOTkwLC0xNjU2MjIxMTc5LDQ2ND
+eyJoaXN0b3J5IjpbMTgyNjcyNTM4LC0xNjU2MjIxMTc5LDQ2ND
 EwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

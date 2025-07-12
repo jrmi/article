@@ -41,18 +41,12 @@ Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais 
 
 Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre que pour faire fonctionner un minuteur il faut définir au minimum deux éléments :
 
-— La manière de représenter la progression du minuteur
-— La manière dont on décide de la résolution du minuteur
-
-  
+- La manière de représenter la progression du minuteur
+- La manière dont on décide de la résolution du minuteur
 
 ### Représenter la progression du minuteur
 
-  
-
 La représentation est la manière de rendre visible pour les joueurs la progression du minuteur. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
-
-  
 
 — Une horloge atomique avec 6 segments qu’on noircit au fur et à mesure (AW)
 
@@ -518,5 +512,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NTA5NjY5LC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MDI5NzQ1MTMsLTE3MDAxMzU0MF19
 -->

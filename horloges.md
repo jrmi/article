@@ -149,19 +149,19 @@ Pour le moment nous avons définit une seule conséquence par minuteur lorsque c
 
 ### Un renversement de situation
 
-Variante particulièrement intéressante car il s’agit de définir une condition supplémentaire dans la mécanique des minuteurs, de préférence rare, qui modifie substantiellement voire inverse le résultat initialement attendu lorsqu’elle celle-ci se produit, créant une possibilit
+Variante particulièrement intéressante car il s’agit de définir une condition supplémentaire dans la mécanique des minuteurs, de préférence rare, qui modifie substantiellement voire inverse le résultat initialement attendu lorsqu’elle celle-ci se produit.
 
 Dans ES, cela se produit si l’on trace le cinquième trait de la Spark et que, lorsqu’on lance le dé, on ne touche toujours pas un rayon (on fait 6 sur le dé). Dans ce cas, si ce renversement se produit et que la conséquence initiale est « Le dragon se réveille » on peut imaginer que les personnages se rendent finalement compte que le dragon était mort, ou bien que ce ne sont pas un mais deux dragons qui se réveillent ou encore que le dragon se réveille, mais qu'il a une attitude amicale. Bref, le renversement de situation introduit alors un principe de surprise en se soldant par une conséquence inattendue.
 
 ### Des minuteurs à rebours
 
-ES, toujours lui, propose également des conditions pour que le minuteur recule au lieu de progresser ou même qu’il revienne à sa valeur initiale. Cela peut être la récompense d’une action particulièrement audacieuse d’un joueur ou bien défini dès la création du minuteur ou encore la conséquence de la résolution d’un autre minuteur.
+ES, propose également des conditions pour que le minuteur recule au lieu de progresser ou même qu’il revienne à sa valeur initiale. Cela peut être la récompense d’une action particulièrement audacieuse d’un joueur ou bien défini dès la création du minuteur ou encore la conséquence de la résolution d’un autre minuteur.
 
 Par exemple, pour un minuteur qui représente l’évolution d’un incendie qui ravage une bibliothèque, on peut imaginer que si les joueurs appellent les pompiers, cela permet de reculer le minuteur d’un certain nombre de cran pour représenter le délais supplémentaire que les pompiers vont apporter avec leur intervention.
 
 ### Combiner plusieurs minuteurs
 
-La présence d’un minuteur ajoute déjà beaucoup au jeu mais cela devient encore plus intéressant lorsque l’on combine plusieurs minuteurs ensemble.
+La présence d’un minuteur apporte déjà beaucoup aux sessions mais cela devient encore plus intéressant lorsque l’on combine plusieurs minuteurs ensemble.
 
 #### 2 minuteur pour faire une compétition.
 
@@ -264,7 +264,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NTU1Njk5LDEzMjQwODQyNTksLTQ1MD
+eyJoaXN0b3J5IjpbNTk2ODM0MDU1LDEzMjQwODQyNTksLTQ1MD
 UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
 MF19
 -->

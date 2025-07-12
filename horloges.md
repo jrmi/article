@@ -133,13 +133,13 @@ En réalité les sections précédentes n'ont fait qu’effleurer les possibilit
 
 ### Des durées variables
 
-BD ou IS proposent de faire varier la durée des minuteurs. Cette durée peut refléter la complexité de la tâche à accomplir. On peut vouloir qu’un combat contre un dragon soit plus long que contre un gobelin par exemple. Aun
+BD ou IS proposent de faire varier la durée des minuteurs. Cette durée peut refléter la complexité de la tâche à accomplir ou le délais avant la conséquence. On peut vouloir qu’un combat contre un dragon soit plus long que contre un gobelin par exemple. Niveau mécanique, il suffit de faire un minuteur avec plus d’étapes ou de diminuer la vitesse de progression. 
 
-Niveau mécanique, il suffit de faire un minuteur avec plus d’étapes ou de diminuer la vitesse de progression. Toutefois, veillez, sauf cas particulier, à rester dans une durée relativement courte, au risque d’avoir l’effet contraire à celui escompté, à savoir que les joueurs ne voient pas la fin arriver et finissent par se lasser.
+Toutefois, veillez, sauf cas particulier, à rester dans une durée relativement courte, au risque d’avoir l’effet contraire à celui escompté, à savoir que les joueurs ne voient pas la fin arriver et finissent par se lasser.
 
 ### Des durées aléatoires
 
-Deux jeux ont une particularité concernant le système de résolution : La durée des Sparks de ES et des pistes de IS (pour une difficulté donnée) ne sont pas prédéterminées. Dans le cas de ES, le jet de dés à chaque progression rend possible la résolution après seulement une étape ou bien au bout de cinq. Pour IS ce sont les joueurs qui décident de tenter une résolution.
+Deux jeux ont une particularité concernant le système de résolution : la durée des Sparks de ES et des pistes de IS (pour une difficulté donnée) ne sont pas prédéterminées. Dans le cas de ES, le jet de dés à chaque progression rend possible la résolution après seulement une étape ou bien au bout de cinq. Pour IS ce sont les joueurs qui décident de tenter une résolution.
 
 Cette variante est intéressante  car elle rajoute de l’incertitude que les joueurs doivent prendre en compte dans leur stratégie. Tout en gardant le côté prédictible les choix deviennent plus risqués ce qui peut rendre les réussites ou les échecs plus héroïques.
 
@@ -264,7 +264,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NjgwNTQwLDEzMjQwODQyNTksLTQ1MD
+eyJoaXN0b3J5IjpbNzE1ODYyNzY1LDEzMjQwODQyNTksLTQ1MD
 UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
 MF19
 -->

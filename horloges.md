@@ -129,7 +129,7 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 
 ## Quelques variations pour enrichir les minuteurs
 
-En réalité les sections précédentes n'ont fait qu’effleurer les possibilités offertes par ce système simple en apparence mais toutefois extrêmement flexible. Il est recommandé de se l’approprier et d’imaginer d’autres possibilités. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus polyvalents. Voici une liste, non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la  tension narrative et/ou l'aspect ludique.
+En réalité les sections précédentes n'ont fait qu’effleurer les possibilités offertes par ce système simple en apparence mais toutefois extrêmement flexible. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus riche. Voici une liste, non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la  tension narrative et/ou l'aspect ludique.
 
 ### Des durées variables
 
@@ -264,7 +264,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzM5OTUxMSwxMzI0MDg0MjU5LC00NT
-A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
-NDBdfQ==
+eyJoaXN0b3J5IjpbMjU1NjgwNTQwLDEzMjQwODQyNTksLTQ1MD
+UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
+MF19
 -->

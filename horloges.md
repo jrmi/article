@@ -21,7 +21,7 @@ Avant de rentrer dans le vif du sujet et  si vous ne connaissez pas les 4 jeux c
 
 Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. 
 
-Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes possible pour rendre vos minuteurs encore plus efficaces.
+Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes possibles pour rendre vos minuteurs encore plus riches.
 
 ## La mécanique des minuteurs
 
@@ -284,7 +284,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC00NT
-A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
-NDBdfQ==
+eyJoaXN0b3J5IjpbMTY5MDEyMjI1NywtNDY2ODcxMzk1LDEzMj
+QwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1
+MzgsLTE3MDAxMzU0MF19
 -->

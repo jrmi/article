@@ -188,22 +188,14 @@ Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un pou
 
 Si les personnages tentent de semer les gardes de la ville qui les poursuivent, un minuteur représente la progression des personnages et l’autre des joueurs. Si le premier minuteur se termine avant le second, les personnages sont saufs. Dans le cas contraire, ils n’ont plus qu’a faire face à leurs poursuivants.
 
-  
-
 #### Influence entre minuteur
 
-  
-
 Comme vu précédemment, on peut imaginer que la résolution d’un minuteur influence la progression d’un autre, par exemple une remise à zéro ou encore l’excès de progression d’un minuteur peut “déborder” sur un autre minuteur. Un minuteur peut également avoir des conséquences intermédiaires, changer le rythme ou générer d’autres minuteurs.
-
-  
 
 Imaginons trois minuteurs pour représenter le siège d’une ville par des pillards :
 
 - A : « Les défenses cèdent » si les pillards envahissent la ville.
-
 - B : « Les reforts arrivent » les guerriers du village voisin ont été prévenus et sont en chemin.
-
 - C : « Les villageois sont évacués » quand tous les civils sont sortis par le tunnel d’évacuation secret.
 
 Si C se termine, on peut imaginer que les combatants peuvent se concentrer sur la défense et que cela va reculer le minuteur A.
@@ -362,5 +354,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNTA4OTI2LC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbLTYyODc5OTYxOCwtMTcwMDEzNTQwXX0=
 -->

@@ -199,7 +199,7 @@ Nous pouvons par exemple imaginer un combat contre un scorpion géant pour leque
 - Le tête est touchée
 - La queue est blessée
 
-
+La tête ne pourra être touchée qu'à condition que les deux pinces soit hors d'état de nuire.  
 
 #### Scénario à base de minuteurs
 
@@ -218,7 +218,7 @@ Une fois les navettes réparées et les survivants rassemblés, il devient possi
 - « Mise en orbite autours de la planète »
 
 Plus on rassemble de survivants, plus il devient facile de faire progresser la réparation des navettes.
-o
+
 Si le système de maintenance est piraté, Le minuteur du réacteur est reculé car les droids de maintenance vont refroidir le réacteur.
 
 Voilà de quoi assurer quelques heures de jeux !
@@ -277,7 +277,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODU1NjQwMCwxMzI0MDg0MjU5LC00NT
+eyJoaXN0b3J5IjpbLTI0Nzc4NTE2MiwxMzI0MDg0MjU5LC00NT
 A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
 NDBdfQ==
 -->

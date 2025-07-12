@@ -13,7 +13,7 @@ Pour donner un aperçu de ce concept en jeux de rôle, imaginons que les personn
 
 Dans cet exemple, on peut voir que le minuteur rend tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette transparence a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront une meilleur visibilité sur la temporalité et la dynamique de ce qui se passe dans la fiction et donc un meilleur contrôle du résultat de leurs actions.
 
-Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeux coopératifs comme *[L'ile interdite](https://fr.wikipedia.org/wiki/L%27%C3%AEle_interdite)* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus tard dans l’univers du jeu de rôle avec *[Apocalypse World](http://apocalypse-world.com/)* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *[Blades in the Dark](https://bladesinthedark.com/)* (BD) de John Harper qui raffine et systématise leur usage ou bien *[Ironsworn](https://tomkinpress.com/pages/ironsworn)* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *Everspark*. Une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
+Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeux coopératifs comme *[L'ile interdite](https://fr.wikipedia.org/wiki/L%27%C3%AEle_interdite)* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus tard dans l’univers du jeu de rôle avec *[Apocalypse World](http://apocalypse-world.com/)* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *[Blades in the Dark](https://bladesinthedark.com/)* (BD) de John Harper qui raffine et systématise leur usage ou bien *[Ironsworn](https://tomkinpress.com/pages/ironsworn)* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *[Everspark](https://capacle.itch.io/everspark)*. Une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur compréhension et leur adaptation à n’importe quel système de jeu. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
@@ -50,7 +50,7 @@ D'autres représentation seraient tout à fait envisageable :
 - un paquet de 6 cartes qui contient une carte fin qu’on mélange avec les autres
 - …
 
-En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur Dread de Epidiah Ravachol propose par exemple une idée originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple qu'il est possible d'utiliser le minuteur pour renforcer l'immersion des joueurs dans la fiction.
+En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur *[Dread](https://www.tiltingatwindmills.net/games/dread/) de Epidiah Ravachol propose par exemple une idée originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple qu'il est possible d'utiliser le minuteur pour renforcer l'immersion des joueurs dans la fiction.
 
 De manière générale, n'hésitez pas à aller chercher du côté de vos jeux de société ou jeux vidéo favoris afin d'en extraire tout ce qui ressemble à un minuteur qui pourrait être utilisé pour votre jeu.
 
@@ -270,6 +270,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjk5MjU5OSwtMTY1NjIyMTE3OSw0Nj
-QxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTE3OTExNTczNTUsLTE2NTYyMjExNzksND
+Y0MTA3NTM4LC0xNzAwMTM1NDBdfQ==
 -->

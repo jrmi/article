@@ -2,27 +2,15 @@
 
 # Les horloges narratives dans les JDR : comment mieux réguler la tension ?
 
-  
-
 Le minuteur narratif ou comment gérer la tension dans vos sessions
 
-  
-
 TODO
-
 — Liens
-
 — Dégenrer
 
-  
-
-## Génèse des minuteurs narratifs dans le jeu de rôle
-
-  
+## Genèse des minuteurs narratifs dans le jeu de rôle
 
 Imaginez :  la caméra se focalise sur le minuteur d'une bombe sur le point d'exploser. Que ressentez-vous ? La respiration s'accélère et la tension augmente. N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se focalise sur le minuteur d’une bombe sur le point d’exploser ? Cette technique cinématographique, qui a pour objectif de tenir le spectateur en haleine en matérialisant visuellement l’escalade de la tension, trouve son équivalent dans l’univers du jeu de rôle sous la forme des minuteurs narratifs.
-
-  
 
 Cet article propose une analyse de la pratique...
 
@@ -548,5 +536,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbOTczODMzMDA0LC0xNzAwMTM1NDBdfQ==
 -->

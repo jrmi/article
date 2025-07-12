@@ -48,57 +48,32 @@ Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre qu
 
 La représentation est la manière de rendre visible pour les joueurs la progression du minuteur. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
 
-— Une horloge atomique avec 6 segments qu’on noircit au fur et à mesure (AW)
-
-— Un cercle découpé en 4, 6 ou 8 cadrans que l’on grise au fur et à mesure (BD)
-
-— Une piste linéaire de 10 cases que l’on coche (IS)
-
-— Une étoile à cinq branches. Une branche est dessinée à chaque progression (ES)
-
-  
+- Une horloge atomique avec 6 segments qu’on noircit au fur et à mesure (AW)
+- Un cercle découpé en 4, 6 ou 8 cadrans que l’on grise au fur et à mesure (BD)
+- Une piste linéaire de 10 cases que l’on coche (IS)
+- Une étoile à cinq branches. Une branche est dessinée à chaque progression (ES)
 
 D'autres représentation seraient tout à fait envisageable :
 
-  
+- des jetons/pièces/cailloux disposés sur la table ou sur une carte que l’on enlève un par un, technique empruntée aux jeux de société
+- un chiffre sur un post-it que l’on barre pour écrire la nouvelle valeur
+- un dé posé sur la table qui affiche la valeur actuelle et que l’on tourne au fur et à mesure de la progression,
+- des minuteurs mécaniques du commerce ou fait maison en carton
+- une horloge sans pile dont on déplace les aiguilles manuellement, une heure par progrès
+- un paquet de 6 cartes qui contient une carte fin qu’on mélange avec les autres
+- …
 
-— des jetons/pièces/cailloux disposés sur la table ou sur une carte que l’on enlève un par un, technique empruntée aux jeux de société
+En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur Dread de Epidiah Ravachol propose par exemple une idée originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple qu'il est possible d'utiliser le minuteur pour renforcer l'immersion des joueurs dans la fiction.
 
-— un chiffre sur un post-it que l’on barre pour écrire la nouvelle valeur
-
-— un dé posé sur la table qui affiche la valeur actuelle et que l’on tourne au fur et à mesure de la progression,
-
-— des minuteurs mécaniques du commerce ou fait maison en carton
-
-— une horloge sans pile dont on déplace les aiguilles manuellement, une heure par progrès
-
-— un paquet de 6 cartes qui contient une carte fin qu’on mélange avec les autres
-
-— …
-
-  
-
-En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur Dread de Epidiah Ravachol propose par exemple une idée originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet example qu'il est possible d'utiliser le minuteur pour renforcer l'immersion des joueurs dans la fiction.
-
-  
-
-De manière générale, n'hésitez pas à aller chercher du côté de vos jeux de société ou jeux video favoris afin d'en extraire tout ce qui ressemble à un minuteur qui pourrait être utilisé pour votre jeu.
-
-  
+De manière générale, n'hésitez pas à aller chercher du côté de vos jeux de société ou jeux vidéo favoris afin d'en extraire tout ce qui ressemble à un minuteur qui pourrait être utilisé pour votre jeu.
 
 ### Résoudre vos minuteurs
 
-  
-
 La mécanique du minuteur doit également définir les conditions qui déclenchent la fin du minuteur et donc le donc l’événement narratif associé à celui-ci. Les jeux déjà mentionnés proposent les conditions de fin suivantes :
 
-  
-
-— Tous les segments de l'horloge sont remplis (AW)
-
-— Tous les cadrans de l'horloge sont remplis (BD)
-
-— Les joueurs décident de faire un test de résolution quand ils le désirent sachant que plus la piste a progressé plus il y a de chances que cela se termine. (IS)
+- Tous les segments de l'horloge sont remplis (AW)
+-  Tous les cadrans de l'horloge sont remplis (BD)
+- Les joueurs décident de faire un test de résolution quand ils le désirent sachant que plus la piste a progressé plus il y a de chances que cela se termine. (IS)
 
 — On lance 1d6  à chaque évolution et la résolution survient si le résultat est égal ou inférieur au nombre de rayons tracés (ES)
 
@@ -512,5 +487,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI5NzQ1MTMsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTIwNjc0NDkxOSwtMTcwMDEzNTQwXX0=
 -->

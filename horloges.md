@@ -17,11 +17,11 @@ Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeu
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur utilisation et adaptation à votre univers. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
-Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. 
-
 Si vous ne connaissez pas les différents jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique.
 
-**details**
+Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. 
+
+
 
 ## La mécanique des minuteurs
 
@@ -67,7 +67,7 @@ Il est important de noter que les minuteurs ne doivent pas nécessairement être
 
 ## L’utilisation en jeu des minuteurs
 
-Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Il est nécessaire de définir les deux éléments suivants pour chaque minuteurs :
+Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Il est nécessaire de définir les deux éléments suivants pour chaque minuteurs :
 
 - la conséquence narrative activée par la résolution du minuteur
 - les conditions qui permettent de le faire progresser
@@ -270,6 +270,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNj
-U2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbNTkxOTA2MjE0LDEzMjQwODQyNTksLTQ1MD
+UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
+MF19
 -->

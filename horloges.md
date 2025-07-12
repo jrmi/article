@@ -110,12 +110,11 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 | Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
 | Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | j'ai appris le sort de soin  |
 
-Veillez à bien garder ces conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définis et formulés avec soin de manière à offrir un maximum de liberté d'action. « Crocheter la serrure » n’apporte en effet que peu de possibilités d'action  au regard de « Voler les plans dans la cabine », expression elle-même plus restrictive que « Voler les plans de Lord Bismuth »
+Veillez à bien garder ces conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définis et formulées avec soin de manière à offrir un maximum de liberté d'action. « Crocheter la serrure » n’apporte en effet que peu de possibilités d'action  au regard de « Voler les plans dans la cabine », expression elle-même plus restrictive que « Voler les plans de Lord Bismuth »
 
-Comme ces Opportunités ont pour vocation notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux même la création de leurs minuteurs
+Comme ces Opportunités ont pour vocation notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux même la création de leurs minuteurs.
 
-
-Pour finir, il  existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les "Fatalités". Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
+Pour finir, il  existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
 
   
 
@@ -443,5 +442,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIxMzQ5MjksLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTE5NDY2MzM0NzQsLTE3MDAxMzU0MF19
 -->

@@ -30,6 +30,7 @@ utilisation
 - Déclencheurs
 
 
+L’intégration des minuteurs dans un jeu passe par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis de son utilisation en définissant pour chaque minuteur sa conséquence et ses déclencheurs.
 
 
 
@@ -142,7 +143,6 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 
 ## Pour résumer
 
-L’intégration des minuteurs dans un jeu passe par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis de son utilisation en définissant pour chaque minuteur sa conséquence et ses déclencheurs.
 
 
 ## Quelques variations pour enrichir le jeu
@@ -282,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTY4ODg1MiwxMzI0MDg0MjU5LC00NT
+eyJoaXN0b3J5IjpbLTk1MDAxMzcxNCwxMzI0MDg0MjU5LC00NT
 A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
 NDBdfQ==
 -->

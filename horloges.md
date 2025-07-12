@@ -14,15 +14,9 @@ Imaginez :  la caméra se focalise sur le minuteur d'une bombe sur le point d'ex
 
 Cet article propose une analyse de la pratique...
 
-  
-
 Transposons maintenant ce concept en jeu de rôle : les personnages des joueurs....Pour illustrer ce concept en jeux de rôle, imaginons que les personnages des joueurs tentent de s’infiltrer discrètement dans un manoir gardé. Vous créez alors un minuteur « Les gardes vous surprennent » qui commence avec 8 jetons.  Chaque fois qu’un joueur rate un jet de discrétion, un jeton est retiré. Quand un joueur décide de forcer une serrure plutôt que de chercher la clé, cela génère évidemment du bruit : un jeton de moins. Quand il ne reste plus que trois jetons, on entend des voix qui se rapprochent. À un jeton, un garde commence à faire sa ronde dans leur direction. Quand tous les jetons sont retirés, les personnages sont découverts et doivent fuir au plus vite.
 
-  
-
 Dans cet exemple, on peut voir que le minuteur rend  tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient  eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette retour d'information a pour objectif in fine d’améliorer l’expérience ludique des joueurs.
-
-  
 
 -> Voir l'effet de ses actions
 
@@ -30,36 +24,24 @@ Materialiser cette menace permet aux joueurs de rester concentrés sur celle-ci.
 
 -> La tension effet narrarif / effet ludique manque de clarté. Tu devrais peut-être distinguer clairement les 2 fonctions de ces horloges qui ont ce double effet narratif et ludique. prends le tps d'expliquer ces concepts que tu amènes comme une évidence alors que ça n'en est pas une, à mon sens...
 
-  
-
 par exemple, L'île interdite et son marqueur de montée des eaux.
-
-  
 
 Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeux coopératifs comme l'ile interdite de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’enemi à vaincre, ces minuteurs ne sont introduits que plus tard dans l’univers du jeu de rôle avec Apocalypse World (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que Blades in the Dark (BD) de John Harper qui raffine et systématise leur usage ou bien Ironsworn (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu Everspark. Une véritable mine d'or de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
-  
-
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur compréhension et leur adaptation à n’importe quel système de jeu. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
-  
+Note de bas de page? Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le plus à votre univers.
 
-Note de bas de page? Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le plus à votre univers.
+Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire plusieurs principes fondamentaux communs à tous. Vous pouvez consulter en annexe une description succincte de chaque mécanique si vous souhaitez vous faire une idée.
 
-  
-
-Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire plusieurs principes fondamentaux communs à tous. Vous pouvez consulter en annexe une description succinte de chaque mécanique si vous souhaitez vous faire une idée.
-
-  
+**details**
 
 ## La mécanique des minuteurs
 
-  
 
 Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre que pour faire fonctionner un minuteur il faut définir au minimum deux éléments :
 
 — La manière de représenter la progression du minuteur
-
 — La manière dont on décide de la résolution du minuteur
 
   
@@ -536,5 +518,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczODMzMDA0LC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbNTM0NTA5NjY5LC0xNzAwMTM1NDBdfQ==
 -->

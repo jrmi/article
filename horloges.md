@@ -9,9 +9,9 @@
 
 N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se focalise sur le minuteur d’une bombe sur le point d’exploser ? Que ressentez-vous ? La respiration s'accélère et la tension augmente. Cette technique cinématographique, qui a pour objectif de tenir le spectateur en haleine en matérialisant visuellement l’escalade de la tension, trouve son équivalent dans l’univers du jeu de rôle sous la forme des minuteurs narratifs.[^1] 
 
-Pour illustrer ce concept en jeux de rôle, imaginons que les personnages des joueurs tentent de s’infiltrer discrètement dans un manoir gardé. Vous créez alors un minuteur « Les gardes vous surprennent » qui commence avec 8 jetons.  Chaque fois qu’un joueur rate un jet de discrétion, un jeton est retiré. Quand un joueur décide de forcer une serrure plutôt que de chercher la clé, cela génère évidemment du bruit : un jeton de moins. Quand il ne reste plus que trois jetons, on entend des voix qui se rapprochent. À un jeton, un garde commence à faire sa ronde dans leur direction. Quand tous les jetons sont retirés, les personnages sont découverts et doivent fuir au plus vite.
+Pour donner un aperçu de ce concept en jeux de rôle, imaginons que les personnages des joueurs tentent de s’infiltrer discrètement dans un manoir gardé. Vous créez alors un minuteur « Les gardes vous surprennent » qui commence avec 8 jetons.  Chaque fois qu’un joueur rate un jet de discrétion, un jeton est retiré. Quand un joueur décide de forcer une serrure plutôt que de chercher la clé, cela génère évidemment du bruit : un jeton de moins. Quand il ne reste plus que trois jetons, on entend des voix qui se rapprochent. À un jeton, un garde commence à faire sa ronde dans leur direction. Quand tous les jetons sont retirés, les personnages sont découverts et doivent fuir au plus vite.
 
-Dans cet exemple, on peut voir que le minuteur rend  tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient  eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette retour d'information a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront (engagement)
+Dans cet exemple, on peut voir que le minuteur rend tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette retour d'information a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront (engagement)
 
 -> Voir l'effet de ses actions
 
@@ -278,6 +278,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNTU2NDMzLC0xNjU2MjIxMTc5LDQ2ND
-EwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbMTM0NzAxNjM1MSwtMTY1NjIyMTE3OSw0Nj
+QxMDc1MzgsLTE3MDAxMzU0MF19
 -->

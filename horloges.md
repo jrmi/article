@@ -198,65 +198,36 @@ Imaginons trois minuteurs pour représenter le siège d’une ville par des pill
 - B : « Les reforts arrivent » les guerriers du village voisin ont été prévenus et sont en chemin.
 - C : « Les villageois sont évacués » quand tous les civils sont sortis par le tunnel d’évacuation secret.
 
-Si C se termine, on peut imaginer que les combatants peuvent se concentrer sur la défense et que cela va reculer le minuteur A.
-
-Si B se résoud, cela arrête complétement les pillards.
-
-Si A s’approche de la fin, C progresse plus vite car la panique gagne les villageois.
-
-  
+Interactions possibles :
+- Si C se termine, on peut imaginer que les combattants peuvent se concentrer sur la défense et que cela va reculer le minuteur A.
+- Si B se résout, cela arrête complètement les pillards.
+- Si A s’approche de la fin, C progresse plus vite car la panique gagne les villageois.
 
 #### Épreuves en série ou en parallèle
 
-  
-
-Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur pour rendre la résolution plus mémorable, mais il existe une autre possibilité qui donne plus de variété au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou en bien parallèle. Les minuteurs en parrallèle pourront évoluer indépendament les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. Cela permet d’inciter les joueurs à diversifier leur actions et à rendre ces obstacle plus intéressants à résoudre. Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel les « boss » sont composés de plusieurs parties qu’il faut attaquer avant de pouvoir attaquer la partie centrale.
-
-  
+Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur pour rendre la résolution plus mémorable, mais il existe une autre possibilité qui donne plus de variété au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou en bien parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. Cela permet d’inciter les joueurs à diversifier leur actions et à rendre ces obstacle plus intéressants à résoudre. Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel les « boss » sont composés de plusieurs parties qu’il faut attaquer avant de pouvoir attaquer la partie centrale.
 
 #### Scénario à base de minuteurs
 
-  
-
 Pour finir, on peut développer encore davantage la piste précédente pousser le point précédent encore plus loin et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités.
 
-  
-
-Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer 4 minuteurs en parrallèle :
-
-  
+Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer 4 minuteurs en parallèle :
 
 - « Réparer les navettes »
-
 - « Rassembler les survivants »
-
-- « Le systéme de maintenance est piraté »
-
+- « Le système de maintenance est piraté »
 - « Le réacteur explose »
-
-  
-
-  
 
 Une fois les navettes réparées et les survivants rassemblés, il devient possible de résoudre les minuteurs suivants :
 
-  
-
-- « Décollage coordonée »
-
-- « Mise en orbite autours de la planéte »
-
-  
+- « Décollage coordonnée »
+- « Mise en orbite autours de la planète »
 
 Plus on rassemble de survivants, plus il devient facile de faire progresser la réparation des navettes.
 
 Si le système de maintenance est piraté, Le minuteur du réacteur est reculé car les droids de maintenance vont refroidir le réacteur.
 
-  
-
 Voilà de quoi assurer quelques heures de jeux !
-
-  
 
 ### Des minuteur anonymes
 
@@ -354,5 +325,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODc5OTYxOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbMTQ3OTcyMjgxOCwtMTcwMDEzNTQwXX0=
 -->

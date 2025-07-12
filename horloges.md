@@ -192,11 +192,14 @@ Dans cette variante, chaque minuteur représente un aspect différent du problè
 
 Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel les « boss » sont composés de plusieurs parties qu’il faut attaquer avant de pouvoir attaquer la partie centrale ou encore quand ils changent de comportement après un certain nombre de dégâts.
 
-Nous pouvons par exemple imaginer un combat contre un scorpion pour lequel nous créerons les minuteurs suivants :
+Nous pouvons par exemple imaginer un combat contre un scorpion géant pour lequel nous créerons les minuteurs suivants :
 
-- Pince gauche
-- Pince Droite
-- Tete
+- La pince gauche est blessée
+- La pince Droite est blessée
+- Le tête est touchée
+- La queue est blessée
+
+
 
 #### Scénario à base de minuteurs
 
@@ -274,7 +277,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjgwODU4NCwxMzI0MDg0MjU5LC00NT
+eyJoaXN0b3J5IjpbLTQyODU1NjQwMCwxMzI0MDg0MjU5LC00NT
 A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
 NDBdfQ==
 -->

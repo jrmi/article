@@ -120,7 +120,7 @@ Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d
 |--|--|  
 | Un volcan est en train d’entrer en éruption, ce n’est qu’une question de temps avant que la lave ne jaillisse. | Le volcan entre en éruption |
 | Au loin, de gros nuages de sable annoncent une tempête de sable. | La tempête de sable est sur nous |
-| Le combat bat son plein et les alliés sont attendus avec fébrilité. | Les alliés arrivent sur le champ de bataille |
+| La bataille bat son plein et des alliés sont attendus avec fébrilité. | Les alliés arrivent |
 
 ### Choisir les déclencheurs
 
@@ -136,20 +136,10 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 | Le dragon est vaincu | Quand une action de combat est réussie par deux joueurs dans le tour de jeu. |
 | Le vaisseau est réparé | À chaque jet de réparation réussit |
 | J'ai appris le sort de soin | à chaque session avec un grand maître de la magie ou à chaque méditation suffisamment longue. |
-| Le volcan entre en éruption |  |
+| Le volcan entre en éruption | Chaque jour qui passe dans la fiction. |
 | La tempête de sable est sur nous | Toutes les dix minutes en jeu. |
 | Les renforts alliés arrivent | Après chaque événement marquant de la bataille. |
 
-  
-  
-
-— Le volcan entre en éruption. Chaque jour qui passe dans la fiction.
-
-— La tempête de sable arrive. Toutes les dix minutes de jeu. (on rejoint ici le temps réel et non celui de la fiction)
-
-— Les renforts alliés arrivent sur le champ de bataille. Après chaque événement marquant de la bataille.
-
-  
 
 ## Pour résumer
 
@@ -411,5 +401,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDkzMTk1LC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbMjM2NzA5MTgzLC0xNzAwMTM1NDBdfQ==
 -->

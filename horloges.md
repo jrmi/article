@@ -17,11 +17,11 @@ Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeu
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur utilisation et adaptation à votre univers. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
-Avant de rentrer dans leSi vous ne connaissez pas les différents jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique.
+Avant de rentrer dans le vif du sujet et  si vous ne connaissez pas les 4 jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique pour vous faire une idée.
 
 Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. 
 
-L’intégration des minuteurs dans un jeu passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs.
+Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes possible pour 
 
 Mécanique
   - Représentation
@@ -275,7 +275,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAwODk5NTcsMTMyNDA4NDI1OSwtND
-UwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEz
-NTQwXX0=
+eyJoaXN0b3J5IjpbMTM1MDMzODcxNiwxMzI0MDg0MjU5LC00NT
+A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
+NDBdfQ==
 -->

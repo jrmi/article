@@ -21,6 +21,15 @@ Si vous ne connaissez pas les différents jeux cités, n'hésitez pas à aller c
 
 Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. 
 
+Mécanique
+  - Représentation
+  - Résolution
+
+utilisation
+-
+
+
+
 
 
 ## La mécanique des minuteurs
@@ -270,7 +279,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxOTA2MjE0LDEzMjQwODQyNTksLTQ1MD
-UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
-MF19
+eyJoaXN0b3J5IjpbMTM1MDc5NTA0OSwxMzI0MDg0MjU5LC00NT
+A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
+NDBdfQ==
 -->

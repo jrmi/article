@@ -108,9 +108,9 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 |--|--|
 | Les personnages doivent combattre un dragon afin de continuer leur quête. | Le dragon est vaincu |
 | Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
-| Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | j'ai appris le sort de soin  |
+| Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | J'ai appris le sort de soin  |
 
-Veillez à bien garder ces conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définis et formulées avec soin de manière à offrir un maximum de liberté d'action. « Crocheter la serrure » n’apporte en effet que peu de possibilités d'action  au regard de « Voler les plans dans la cabine », expression elle-même plus restrictive que « Voler les plans de Lord Bismuth »
+Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « La porte est ouverte » n’apporte en effet que peu de possibilités d'action au regard de « Les  », conséquence elle-même plus restrictive que « Voler les plans de Lord Bismuth »
 
 Comme ces Opportunités ont pour vocation notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux même la création de leurs minuteurs.
 
@@ -438,5 +438,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzAzODc2NSwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbMzY0NTk4NDc0LC0xNzAwMTM1NDBdfQ==
 -->

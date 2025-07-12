@@ -7,9 +7,7 @@
 *[IS]: Ironsworn
 *[ES]: Everspark
 
-
-Imaginez :  la caméra se focalise sur le minuteur d'une bombe sur le point d'exploser. Que ressentez-vous ? La respiration s'accélère et la tension augmente. N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se focalise sur le minuteur d’une bombe sur le point d’exploser ? Cette technique cinématographique, qui a pour objectif de tenir le spectateur en haleine en matérialisant visuellement l’escalade de la tension, trouve son équivalent dans l’univers du jeu de rôle sous la forme des minuteurs narratifs[^1].
-
+N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se focalise sur le minuteur d’une bombe sur le point d’exploser ? Que ressentez-vous ? La respiration s'accélère et la tension augmente. Cette technique cinématographique, qui a pour objectif de tenir le spectateur en haleine en matérialisant visuellement l’escalade de la tension, trouve son équivalent dans l’univers du jeu de rôle sous la forme des minuteurs narratifs.[^1] Dans cette article nous allons essayer d'extraire les composantes principale.
 
 ## Genèse des minuteurs narratifs dans le jeu de rôle
 
@@ -288,6 +286,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzNTEzNjgyLC0xNjU2MjIxMTc5LDQ2ND
+eyJoaXN0b3J5IjpbOTA3NzIzNDkzLC0xNjU2MjIxMTc5LDQ2ND
 EwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

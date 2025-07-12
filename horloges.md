@@ -97,8 +97,8 @@ Les **Menaces** représentent tous les événements indésirables auxquels les j
 
 | Situation fictionnelle | Conséquence narrative |
 |--|--|
-| Un dragon endormi menace de se réveiller à chaque fois que l’un personnage fait une action qui produit du bruit. | Le dragon se réveille |
-| La coque du vaisseau est percée et il va falloir la réparer en gaspillant le moins possible l’oxygène. | Plus d’oxygène |
+| Les personnages sont en présence d'un dragon endormi qui menace de se réveiller à chaque instant. | Le dragon se réveille |
+| La coque du vaisseau vient d'être percée par une météorit et il va falloir la réparer en gaspillant le moins possible l’oxygène. | Plus d’oxygène |
 | La trousse de premier soins est épuisée. Un des personnages possède cette trousse de premier soin et  mais elle ne pourra pas soigner toutes les blessures. | La trousse de premier soins est épuisée |
  
 Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Ils peuvent recouvrir le franchissement d'obstacles /  ennemis, des actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou de groupe.
@@ -119,14 +119,8 @@ Pour finir, il  existe des événements sur lesquels les joueurs n’auront pas 
 | Situation fictionnelle | Conséquence narrative |  
 |--|--|  
 | Un volcan est en train d’entrer en éruption, ce n’est qu’une question de temps avant que la lave ne jaillisse. | Le volcan entre en éruption |
-| Au loin, de gros nuages de sable annoncent une tempête de sable. | La tempête de sable arrive |
-|  |  |
-
-— La tempête de sable arrive. Au loin, de gros nuages de sable annoncent la tempête.
-
-— Les alliés arrivent sur le champ de bataille. Le combat bat son plein et les alliés sont attendus avec fébrilité.
-
-  
+| Au loin, de gros nuages de sable annoncent une tempête de sable. | La tempête de sable est sur nous |
+| Le combat bat son plein et les alliés sont attendus avec fébrilité. | Les alliés arrivent sur le champ de bataille |
 
 ### Choisir les déclencheurs
 
@@ -444,5 +438,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODU4NjMyNiwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTcwNzk5MzE4NSwtMTcwMDEzNTQwXX0=
 -->

@@ -1,17 +1,17 @@
 
 
-# Les horloges narratives dans les JDR : comment mieux réguler la tension ?
-
-Le minuteur narratif ou comment gérer la tension dans vos sessions
+# Les minuteurs narratifs dans les JDR : comment mieux gérer la tension ?
 
 *[AW]: Apocalypse World
 *[BD]: Blades in the dark  
 *[IS]: Ironsworn
 *[ES]: Everspark
 
-## Genèse des minuteurs narratifs dans le jeu de rôle
 
 Imaginez :  la caméra se focalise sur le minuteur d'une bombe sur le point d'exploser. Que ressentez-vous ? La respiration s'accélère et la tension augmente. N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se focalise sur le minuteur d’une bombe sur le point d’exploser ? Cette technique cinématographique, qui a pour objectif de tenir le spectateur en haleine en matérialisant visuellement l’escalade de la tension, trouve son équivalent dans l’univers du jeu de rôle sous la forme des minuteurs narratifs[^1].
+
+
+## Genèse des minuteurs narratifs dans le jeu de rôle
 
 Cet article propose une analyse de la pratique...
 
@@ -288,6 +288,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjkwMzIyMCwtMTY1NjIyMTE3OSw0Nj
-QxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbOTQzNTEzNjgyLC0xNjU2MjIxMTc5LDQ2ND
+EwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

@@ -134,20 +134,13 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 | Plus d'oxygène | À chaque tour de jeu et en cas d’action physique ou à chaque échec critique |
 | La trousse de premier soins est vide | À chaque utilisation. |
 | Le dragon est vaincu | Quand une action de combat est réussie par deux joueurs dans le tour de jeu. |
-| Le vaisseau est réparé | à chaque étape de réparation. |
-|  |  |
-|  |  |
-
-
-
-— Le vaisseau est réparé : à chaque étape de réparation.
-
-— Je connais le sort de soin majeur : à chaque session avec un grand maître de la magie.
+| Le vaisseau est réparé | À chaque jet de réparation réussit |
+| J'ai appris le sort de soin | à chaque session avec un grand maître de la magie ou à chaque méditation suffisamment longue. |
+| Le volcan entre en éruption |  |
+| La tempête de sable est sur nous | Toutes les dix minutes en jeu. |
+| Les renforts alliés arrivent | Après chaque événement marquant de la bataille. |
 
   
-
-Les Fatalités
-
   
 
 — Le volcan entre en éruption. Chaque jour qui passe dans la fiction.
@@ -418,5 +411,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2OTk0NzE5LC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbMjA4NDkzMTk1LC0xNzAwMTM1NDBdfQ==
 -->

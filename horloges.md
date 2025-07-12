@@ -82,41 +82,24 @@ Il est important de noter que les minuteurs ne doivent pas nécessairement être
 
 Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Il est nécessaire de définir les deux éléments suivants pour chaque minuteurs :
 
-— la conséquence narrative activée par la résolution du minuteur
-
-— les conditions qui permettent de le faire progresser
-
-  
+- la conséquence narrative activée par la résolution du minuteur
+- les conditions qui permettent de le faire progresser
 
 ### Définir la conséquence narrative
 
-  
-
 La conséquence narrative est la raison d’être des minuteurs. Il s’agit de l’événement dramatique (au sens de drama, l'action) qui sera déclenché lorsque celui-ci aura atteint ses conditions de résolution.
-
-  
 
 Cette conséquence est en général une phrase du type : « le volcan entre en éruption » ou encore « Les renforts arrivent ».  Dans l'idéal, la conséquence doit décrire ce qui va arriver si le minuteur est résolu mais, pour des soucis de simplicité et de brièveté, vous pouvez également nommer le minuteur « L’éruption » ou « Les renforts ».
 
-  
-
 Les conséquences peuvent être catégorisées en trois groupes selon la réaction qu'elles suscitent chez les joueurs : les Menaces (à éviter), les Opportunités (à atteindre) et les Fatalités (inévitables).
-
-  
 
 Les "Menaces" représentent tous les événements indésirables auxquels les joueurs font face et qu'ils vont chercher à éviter ou, tout du moins, à ralentir. Chaque "menace" repose ainsi sur une tension entre un danger et des moyens de l'éviter :
 
-  
-
 Faire une table
 
-  
-
-Situation fictionelle -> Conséquence narrative
-
-  
-
-— Le dragon se réveille. Un dragon endormi menace de se réveiller à chaque fois que l’un personnage fait une action qui produit du bruit.
+| Situation fictionnelle | Conséquence narrative |
+|--|--|
+| Un dragon endormi menace de se réveiller à chaque fois que l’un personnage fait une action qui produit du bruit. | Le dragon se réveille |
 
 — Il n’y a plus d’oxygène dans les combinaisons spatiales. La coque du vaisseau est percée et il va falloir la réparer en gaspillant le moins possible l’oxygène.
 
@@ -480,5 +463,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYxNTQzODQsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTY2OTMxNTQ3OSwtMTcwMDEzNTQwXX0=
 -->

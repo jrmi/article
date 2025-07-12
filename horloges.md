@@ -145,7 +145,7 @@ Cette variante est intéressante  car elle rajoute de l’incertitude que les jo
 
 ### Des conséquences intermédiaires
 
-Pour le moment nous adons définit une seule conséquence par minuteur lorsque celui-ci se résoud, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. Par exemple, si une bâtisse est en train de s’effondrer, on peut imaginer que l'effondrement soit marqué par des étapes : des morceaux de murs tombent, les aventuriers doivent les éviter.  On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression rendant la situation de plus en plus  complexe.
+Pour le moment nous avons définit une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. Par exemple, si une bâtisse est en train de s’effondrer, on peut imaginer que l'effondrement soit marqué par des étapes : des morceaux de murs tombent, les aventuriers doivent les éviter.  On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression rendant la situation de plus en plus complexe au fur et à mesure de la progression du minuteur.
 
 ### Un renversement de situation
 
@@ -264,7 +264,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1ODYyNzY1LDEzMjQwODQyNTksLTQ1MD
-UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
-MF19
+eyJoaXN0b3J5IjpbLTcyNjg2ODY2MywxMzI0MDg0MjU5LC00NT
+A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
+NDBdfQ==
 -->

@@ -211,7 +211,7 @@ Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spati
 - « Rassembler les survivants »
 - « Le système de maintenance est piraté »
 - « Le réacteur explose »
-- « La cuve de refroidissement est vide »
+- « Il n'y a plus de  »
 
 Une fois les navettes réparées et les survivants rassemblés, il devient possible de résoudre les minuteurs suivants :
 
@@ -220,7 +220,7 @@ Une fois les navettes réparées et les survivants rassemblés, il devient possi
 
 Plus on rassemble de survivants, plus il devient facile de faire progresser la réparation des navettes.
 
-les personnage peuvent décider d'utiliser le liquide contenu dans la cuve pour se donner un délais supplémentaire par rapport à l'explosion du réacteur. Une fois la cu
+
 
 Si le système de maintenance est piraté, Le minuteur du réacteur est reculé car les droids de maintenance vont refroidir le réacteur.
 
@@ -280,7 +280,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc4NjgwMjQsMTMyNDA4NDI1OSwtND
+eyJoaXN0b3J5IjpbLTEyNzg0OTg4NjYsMTMyNDA4NDI1OSwtND
 UwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEz
 NTQwXX0=
 -->

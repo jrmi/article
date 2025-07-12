@@ -4,10 +4,6 @@
 
 Le minuteur narratif ou comment gérer la tension dans vos sessions
 
-TODO
-— Liens
-— Dégenrer
-
 ## Genèse des minuteurs narratifs dans le jeu de rôle
 
 Imaginez :  la caméra se focalise sur le minuteur d'une bombe sur le point d'exploser. Que ressentez-vous ? La respiration s'accélère et la tension augmente. N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se focalise sur le minuteur d’une bombe sur le point d’exploser ? Cette technique cinématographique, qui a pour objectif de tenir le spectateur en haleine en matérialisant visuellement l’escalade de la tension, trouve son équivalent dans l’univers du jeu de rôle sous la forme des minuteurs narratifs.
@@ -16,17 +12,17 @@ Cet article propose une analyse de la pratique...
 
 Transposons maintenant ce concept en jeu de rôle : les personnages des joueurs....Pour illustrer ce concept en jeux de rôle, imaginons que les personnages des joueurs tentent de s’infiltrer discrètement dans un manoir gardé. Vous créez alors un minuteur « Les gardes vous surprennent » qui commence avec 8 jetons.  Chaque fois qu’un joueur rate un jet de discrétion, un jeton est retiré. Quand un joueur décide de forcer une serrure plutôt que de chercher la clé, cela génère évidemment du bruit : un jeton de moins. Quand il ne reste plus que trois jetons, on entend des voix qui se rapprochent. À un jeton, un garde commence à faire sa ronde dans leur direction. Quand tous les jetons sont retirés, les personnages sont découverts et doivent fuir au plus vite.
 
-Dans cet exemple, on peut voir que le minuteur rend  tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient  eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette retour d'information a pour objectif in fine d’améliorer l’expérience ludique des joueurs.
+Dans cet exemple, on peut voir que le minuteur rend  tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient  eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette retour d'information a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront (engagement)
 
 -> Voir l'effet de ses actions
 
-Materialiser cette menace permet aux joueurs de rester concentrés sur celle-ci. -> detailler l'effet, utiliser le livre sur le game design
+Matérialiser cette menace permet aux joueurs de rester concentrés sur celle-ci. -> detailler l'effet, utiliser le livre sur le game design
 
 -> La tension effet narrarif / effet ludique manque de clarté. Tu devrais peut-être distinguer clairement les 2 fonctions de ces horloges qui ont ce double effet narratif et ludique. prends le tps d'expliquer ces concepts que tu amènes comme une évidence alors que ça n'en est pas une, à mon sens...
 
 par exemple, L'île interdite et son marqueur de montée des eaux.
 
-Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeux coopératifs comme l'ile interdite de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’enemi à vaincre, ces minuteurs ne sont introduits que plus tard dans l’univers du jeu de rôle avec Apocalypse World (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que Blades in the Dark (BD) de John Harper qui raffine et systématise leur usage ou bien Ironsworn (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu Everspark. Une véritable mine d'or de conseils et d'exemples pour ceux qui veulent aller plus loin.
+Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeux coopératifs comme *L'ile interdite* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus tard dans l’univers du jeu de rôle avec *Apocalypse World* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que Blades in the Dark (BD) de John Harper qui raffine et systématise leur usage ou bien Ironsworn (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu Everspark. Une véritable mine d'or de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur compréhension et leur adaptation à n’importe quel système de jeu. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
@@ -280,6 +276,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM4MTM3NzMsLTE2NTYyMjExNzksND
+eyJoaXN0b3J5IjpbLTEwODU5MzI1NTgsLTE2NTYyMjExNzksND
 Y0MTA3NTM4LC0xNzAwMTM1NDBdfQ==
 -->

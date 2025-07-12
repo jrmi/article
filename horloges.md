@@ -267,7 +267,7 @@ Elles avancent d’un cadran à chaque fois que la narration ou les actions des 
 
 Dans **Ironsworn**, les pistes de progrès sont associées à des objectifs que le ou les joueurs se sont donnés (les vœux de fer). Elles sont représentées par une suite de 10 cases que l’on va cocher à chaque fois que la fiction le justifie.
 
-![enter image description here](https://github.com/jrmi/article/blob/master/progressTrack.png?raw=true)
+![enter image description here](https://github.com/jrmi/article/blob/master/progressTrck-v2.png?raw=true)
 
 En fonction de la difficulté de la tâche, le remplissage de la piste sera plus ou moins rapide. Quand les joueurs le décident, ils peuvent tester vérifier si la tâche est accomplie en comparant un jet de dés à 10 faces avec la valeur actuelle de la piste. En cas de succès, la piste est résolue et l’événement associé également. Dans le cas contraire, elle est remise à zéro, car la difficulté de la tâche s’est révélée sous-estimée.
 
@@ -279,6 +279,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDg2MDY1OSw0NjQxMDc1MzgsLTE3MD
-AxMzU0MF19
+eyJoaXN0b3J5IjpbLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNz
+AwMTM1NDBdfQ==
 -->

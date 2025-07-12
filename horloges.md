@@ -194,12 +194,12 @@ Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel
 
 Nous pouvons par exemple imaginer un combat contre un scorpion géant pour lequel nous créerons les minuteurs suivants :
 
-- La pince gauche est blessée
-- La pince Droite est blessée
+- La pince gauche est neutralisée
+- La pince droite est neutralisée
 - Le tête est touchée
-- La queue est blessée
+- La queue est neutralisé
 
-La tête ne pourra être touchée qu'à condition que les deux pinces soit hors d'état de nuire.  
+La tête ne pourra être touchée qu'à condition que les deux pinces soit hors d'état de nuire.  Tant que la queue ne sera pas neutralisée le scorpion pourra continuer a attaquer les personnages avec so
 
 #### Scénario à base de minuteurs
 
@@ -277,7 +277,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzc4NTE2MiwxMzI0MDg0MjU5LC00NT
-A1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODkzMDAwNTYsMTMyNDA4NDI1OSwtND
+UwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEz
+NTQwXX0=
 -->

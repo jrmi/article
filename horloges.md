@@ -98,10 +98,10 @@ Les **Menaces** représentent tous les événements indésirables auxquels les j
 | Situation fictionnelle | Conséquence narrative |
 |--|--|
 | Les personnages sont en présence d'un dragon endormi qui menace de se réveiller à chaque instant. | Le dragon se réveille |
-| La coque du vaisseau vient d'être percée par une météorit et il va falloir la réparer en gaspillant le moins possible l’oxygène. | Plus d’oxygène |
-| La trousse de premier soins est épuisée. Un des personnages possède cette trousse de premier soin et  mais elle ne pourra pas soigner toutes les blessures. | La trousse de premier soins est épuisée |
+| La coque du vaisseau vient d'être percée par un astéroïde et il va falloir la réparer en gaspillant le moins possible l’oxygène. | Plus d’oxygène |
+| Un des personnages possède une trousse de premier soin mais elle ne pourra pas soigner toutes les blessures. | La trousse de premier soins est vide |
  
-Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Ils peuvent recouvrir le franchissement d'obstacles /  ennemis, des actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou de groupe.
+Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Elles peuvent recouvrir le franchissement d'obstacles /  ennemis, des actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou pour le groupe.
 
 
 | Situation fictionnelle | Conséquence narrative |
@@ -438,5 +438,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzk5MzE4NSwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTY3NzAzODc2NSwtMTcwMDEzNTQwXX0=
 -->

@@ -131,31 +131,14 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 | Conséquence narrative | Déclencheurs possibles  |
 |--|--|
 | Le dragon se réveille | À chaque jet de discrétion raté ou en cas d’action particulièrement bruyante. |
+| Plus d'oxygène | À chaque tour de jeu et en cas d’action physique ou à chaque échec critique |
+| La trousse de premier soins est vide | À chaque utilisation. |
+| Le dragon est vaincu | Quand une action de combat est réussie par deux joueurs dans le tour de jeu. |
+| Le vaisseau est réparé | à chaque étape de réparation. |
 |  |  |
 |  |  |
- 
 
 
-
- 
-
-Les Menaces
-
-  
-
-— Le dragon se réveille : [À chaque jet de discrétion raté ou en cas d’action particulièrement bruyante.]
-
-— Il n’y a plus d’oxygène dans les combinaisons spatiales : [à chaque tour de jeu et en cas d’action physique ou à chaque échec critique]
-
-— La trousse de premier soins est épuisée : [à chaque utilisation.]
-
-  
-
-Les Objectifs
-
-  
-
-— Le dragon est vaincu : quand une action de combat est réussie par deux joueurs dans le tour de jeu
 
 — Le vaisseau est réparé : à chaque étape de réparation.
 
@@ -435,5 +418,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE1Njc2NzQsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbNzk2OTk0NzE5LC0xNzAwMTM1NDBdfQ==
 -->

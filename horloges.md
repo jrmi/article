@@ -74,18 +74,11 @@ La mécanique du minuteur doit également définir les conditions qui déclenche
 - Tous les segments de l'horloge sont remplis (AW)
 -  Tous les cadrans de l'horloge sont remplis (BD)
 - Les joueurs décident de faire un test de résolution quand ils le désirent sachant que plus la piste a progressé plus il y a de chances que cela se termine. (IS)
-
-— On lance 1d6  à chaque évolution et la résolution survient si le résultat est égal ou inférieur au nombre de rayons tracés (ES)
-
-  
+- On lance 1d6  à chaque évolution et la résolution survient si le résultat est égal ou inférieur au nombre de rayons tracés (ES)
 
 Il est important de noter que les minuteurs ne doivent pas nécessairement être menés à terme, ils peuvent devenir obsolète car les circonstances fictionnelles ont rendu leur progression inutile. Si, par exemple, un minuteur représente un combat contre une créature mais que ce combat n’est plus nécessaire  car les joueurs ont trouvé un moyen de contourner la difficulté, ce minuteur n’a plus lieu d’être.  Un minuteur ne se solde donc pas nécessairement par sa résolution mais peut aussi être simplement retiré du jeu quand cela est nécessaire.
 
-  
-
 ## L’utilisation en jeu des minuteurs
-
-  
 
 Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Il est nécessaire de définir les deux éléments suivants pour chaque minuteurs :
 
@@ -487,5 +480,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc0NDkxOSwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTExNTYxNTQzODQsLTE3MDAxMzU0MF19
 -->

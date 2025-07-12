@@ -11,7 +11,7 @@ N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se f
 
 Pour donner un aperçu de ce concept en jeux de rôle, imaginons que les personnages des joueurs tentent de s’infiltrer discrètement dans un manoir gardé. Vous créez alors un minuteur « Les gardes vous surprennent » qui commence avec 8 jetons.  Chaque fois qu’un joueur rate un jet de discrétion, un jeton est retiré. Quand un joueur décide de forcer une serrure plutôt que de chercher la clé, cela génère évidemment du bruit : un jeton de moins. Quand il ne reste plus que trois jetons, on entend des voix qui se rapprochent. À un jeton, un garde commence à faire sa ronde dans leur direction. Quand tous les jetons sont retirés, les personnages sont découverts et doivent fuir au plus vite.
 
-Dans cet exemple, on peut voir que le minuteur rend tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette retour d'information a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront (engagement)
+Dans cet exemple, on peut voir que le minuteur rend tangible l’évolution de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette transparence a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront une meilleur visibilité sur la temporalité et la dynamique de ce qui se passe dans la fiction et donc un meilleur contrôle du résult
 
 -> Voir l'effet de ses actions
 
@@ -278,6 +278,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzAxNjM1MSwtMTY1NjIyMTE3OSw0Nj
+eyJoaXN0b3J5IjpbMTkyNTk2MDgwMSwtMTY1NjIyMTE3OSw0Nj
 QxMDc1MzgsLTE3MDAxMzU0MF19
 -->

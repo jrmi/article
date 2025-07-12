@@ -44,13 +44,13 @@ D'autres représentation seraient tout à fait envisageable :
 
 - des jetons/pièces/cailloux disposés sur la table ou sur une carte que l’on enlève un par un, technique empruntée aux jeux de société
 - un chiffre sur un post-it que l’on barre pour écrire la nouvelle valeur
-- un dé posé sur la table qui affiche la valeur actuelle et que l’on tourne au fur et à mesure de la progression,
+- un dé posé sur la table qui affiche la valeur actuelle et que l’on tourne au fur et à mesure de la progression
 - des minuteurs mécaniques du commerce ou fait maison en carton
 - une horloge sans pile dont on déplace les aiguilles manuellement, une heure par progrès
-- un paquet de 6 cartes qui contient une carte fin qu’on mélange avec les autres
+- un paquet de cartes qui contient une carte de fin que l’on mélange
 - …
 
-En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur *[Dread](https://www.tiltingatwindmills.net/games/dread/)* de Epidiah Ravachol propose par exemple une idée originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple qu'il est possible d'utiliser le minuteur pour renforcer l'immersion des joueurs dans la fiction.
+En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur *[Dread](https://www.tiltingatwindmills.net/games/dread/)* de Epidiah Ravachol propose par exemple une idée originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple que le minuteur est utilisé pour renforcer l'immersion des joueurs dans la fiction.
 
 De manière générale, n'hésitez pas à aller chercher du côté de vos jeux de société ou jeux vidéo favoris afin d'en extraire tout ce qui ressemble à un minuteur qui pourrait être utilisé pour votre jeu.
 
@@ -284,7 +284,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDE0MjUxMCwtNDY2ODcxMzk1LDEzMj
+eyJoaXN0b3J5IjpbMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMj
 QwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1
 MzgsLTE3MDAxMzU0MF19
 -->

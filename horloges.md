@@ -199,7 +199,7 @@ Nous pouvons par exemple imaginer un combat contre un scorpion géant pour leque
 - Le tête est touchée
 - La queue est neutralisé
 
-La tête ne pourra être touchée qu'à condition que les deux pinces soient neutralisées.  Tant que la queue ne sera pas neutralisée le scorpion pourra continuer a attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie donnant la possibilité d'envisager plusieurs stratégies.
+La tête ne pourra être touchée qu'à condition que les deux pinces soient neutralisées. Tant que la queue ne sera pas neutralisée le scorpion pourra continuer a attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie du scorpion ce qui laisse la possibilité d'envisager plusieurs stratégies.
 
 #### Scénario à base de minuteurs
 
@@ -277,7 +277,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MDIwMTE5LDEzMjQwODQyNTksLTQ1MD
-UyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0
-MF19
+eyJoaXN0b3J5IjpbLTE4Mjk5MjU2NzMsMTMyNDA4NDI1OSwtND
+UwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEz
+NTQwXX0=
 -->

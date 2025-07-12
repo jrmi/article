@@ -252,7 +252,7 @@ Les horloges narratives ont ceci de riche qu'elles répondent à une logique nar
 
 Mettre une puce ou un chiffre ? Dans Apocalypse World, il s’agit d’une horloge dite « atomique », héritage direct de la guerre froide. Elle contient 4 segments mais le dernier segment est divisé en 3, ce qui donne 6 segments au total.
 
-
+![Holorge ](https://github.com/jrmi/article/blob/72d8c1d5148ba4f337847f706f8b368881047eb1/aw-clock.png)
 <image>
 
 L’horloge avance d’un segment à chaque fois que les conditions définies par le MJ sont remplies. On marque le progrès en noircissant un segment et l'horloge se résout quand tous les segments sont remplis. Elles sont en particulier utilisées notamment pour définir les menaces globales et fonctionnent comme une sorte d’indicateur qui va donner le du rythme à la campagne et permettre de guider l’action des joueurs.
@@ -275,5 +275,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0MTA3NTM4LC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTU2ODk3MjUsNDY0MTA3NTM4LC0xNz
+AwMTM1NDBdfQ==
 -->

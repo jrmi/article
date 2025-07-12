@@ -110,11 +110,11 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 | Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
 | Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | J'ai appris le sort de soin  |
 
-Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « La porte est ouverte » n’apporte en effet que peu de possibilités d'action au regard de « Les  », conséquence elle-même plus restrictive que « Voler les plans de Lord Bismuth »
+Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « La porte est ouverte » n’apporte en effet que peu de possibilités d'action au regard de « Les plans dans cabine sont récupérés », conséquence elle-même plus restrictive que « Nous possédons les plans de lord Bistmuth »
 
-Comme ces Opportunités ont pour vocation notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux même la création de leurs minuteurs.
+Comme ces Opportunités ont pour vocation, notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux même la création de leurs minuteurs.
 
-Pour finir, il  existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
+Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
 
 | Situation fictionnelle | Conséquence narrative |  
 |--|--|  
@@ -123,8 +123,6 @@ Pour finir, il  existe des événements sur lesquels les joueurs n’auront pas 
 | Le combat bat son plein et les alliés sont attendus avec fébrilité. | Les alliés arrivent sur le champ de bataille |
 
 ### Choisir les déclencheurs
-
-  
 
 Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage de chaque jour dans la fiction, une action spécifique des joueurs comme tenter une infiltration ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début.
 
@@ -438,5 +436,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NTk4NDc0LC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbMjI5MTkyNzExLC0xNzAwMTM1NDBdfQ==
 -->

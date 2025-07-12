@@ -22,13 +22,15 @@ Matérialiser cette menace permet aux joueurs de rester concentrés sur celle-ci
 
 par exemple, L'île interdite et son marqueur de montée des eaux.
 
-Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeux coopératifs comme *L'ile interdite* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus tard dans l’univers du jeu de rôle avec *Apocalypse World* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que Blades in the Dark (BD) de John Harper qui raffine et systématise leur usage ou bien Ironsworn (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu Everspark. Une véritable mine d'or de conseils et d'exemples pour ceux qui veulent aller plus loin.
+Couramment utilisés dans les jeux de sociétés, et en particulier pour les jeux coopératifs comme *L'ile interdite* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus tard dans l’univers du jeu de rôle avec *Apocalypse World* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *Blades in the Dark* (BD) de John Harper qui raffine et systématise leur usage ou bien *Ironsworn* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *Everspark*. Une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur compréhension et leur adaptation à n’importe quel système de jeu. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
-Note de bas de page? Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le plus à votre univers.
+Note de bas de page? Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 
-Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire plusieurs principes fondamentaux communs à tous. Vous pouvez consulter en annexe une description succincte de chaque mécanique si vous souhaitez vous faire une idée.
+Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire plusieurs principes fondamentaux communs à tous. 
+
+Vous pouvez consulter en annexe une description succincte de chaque mécanique si vous souhaitez vous faire une idée.
 
 **details**
 
@@ -276,6 +278,6 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU5MzI1NTgsLTE2NTYyMjExNzksND
-Y0MTA3NTM4LC0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbMTYxNjU1MzM4MiwtMTY1NjIyMTE3OSw0Nj
+QxMDc1MzgsLTE3MDAxMzU0MF19
 -->

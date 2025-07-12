@@ -116,9 +116,11 @@ Comme ces Opportunités ont pour vocation notamment de suivre des projets person
 
 Pour finir, il  existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
 
-  
-
-— Le volcan entre en éruption. Un volcan est en train d’entrer en éruption, ce n’est qu’une question de temps avant que la lave ne jaillisse.
+| Situation fictionnelle | Conséquence narrative |  
+|--|--|  
+| Un volcan est en train d’entrer en éruption, ce n’est qu’une question de temps avant que la lave ne jaillisse. | Le volcan entre en éruption |
+| Au loin, de gros nuages de sable annoncent une tempête de sable. | La tempête de sable arrive |
+|  |  |
 
 — La tempête de sable arrive. Au loin, de gros nuages de sable annoncent la tempête.
 
@@ -442,5 +444,5 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 Tu pourrais imaginer à la fin du tableau de faire en système d'annexes de fin d'article, en complément, et où tu reprendrais chaucun de tes descriptions de manière textuelle.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY2MzM0NzQsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTMxODU4NjMyNiwtMTcwMDEzNTQwXX0=
 -->

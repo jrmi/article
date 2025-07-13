@@ -128,11 +128,11 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 
 ## Quelques variations pour enrichir les minuteurs
 
-En réalité, les sections précédentes n'ont fait qu’effleurer les possibilités offertes par ce système simple en apparence mais extrêmement flexible. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus riches. Voici une liste, non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la tension narrative et/ou l'aspect ludique.
+En réalité, les sections précédentes n'ont fait qu’effleurer les possibilités offertes par ce système simple en apparence mais extrêmement flexible. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus riches. Voici une liste non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la tension narrative et/ou l'aspect ludique.
 
 ### Des durées variables
 
-BD ou IS proposent de faire varier la durée des minuteurs à leur création. Cette durée peut refléter la complexité de l’obstacle ou le délai avant la conséquence. On peut vouloir qu’un combat contre un dragon soit plus long que contre un gobelin par exemple. Niveau mécanique, il suffit de faire un minuteur avec plus d’étapes ou de diminuer la vitesse de progression. 
+BD ou IS proposent de faire varier la durée des minuteurs à leur création. Cette durée peut refléter la complexité de l’obstacle ou le délai avant la conséquence. On peut vouloir qu’un combat contre un dragon soit plus long que contre un gobelin par exemple. Au niveau mécanique, il suffit de faire un minuteur avec plus d’étapes ou de diminuer la vitesse de progression. 
 
 Toutefois, veillez, sauf cas particulier, à rester dans une durée relativement courte, au risque d’avoir l’effet contraire à celui escompté, à savoir que les joueurs ne voient pas la fin arriver et finissent par se lasser.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTIzNzQ5NywyMTE3MDA0NzI1LDIwNz
-A2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMyOTQ4MiwtMjA1NjY3
-MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MTA2LC01NDI0NDYxOT
-IsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0NjI1LDEx
-Njg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC00NTA1Mj
-Y5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1NDBd
-fQ==
+eyJoaXN0b3J5IjpbMjY4OTEwNjQ5LDIxMTcwMDQ3MjUsMjA3MD
+Y3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2Njcw
+Mjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5Mi
+wtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2
+ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNj
+k3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
+
 -->

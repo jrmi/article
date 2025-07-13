@@ -20,7 +20,7 @@ Ainsi, le présent article se veut proposer une analyse du fonctionnement des mi
 
 Si vous ne connaissez pas les quatre jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de leur minuteur.
 
-Si chacun de ces quatre jeux a développé sa propre approche des minuteurs, en optant pour des choix visuels et mécaniques différents, nous pouvons toutefois extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur.  puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes proposées par les jeux pour rendre vos minuteurs encore plus riches.
+Si chacun de ces quatre jeux a développé sa propre approche des minuteurs, en optant pour des choix visuels et mécaniques différents, nous pouvons toutefois extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit l représentation et le mode de résolution d’un minuteur. Nous nous pencherons ensuite sur leur utilisation pour définir, pour chaque minuteur, sa conséquence et ses déclencheurs. Enfin, nous examinerons les multiples variantes proposées par les jeux pour rendre vos minuteurs encore plus riches.
 
 ## La mécanique des minuteurs
 
@@ -282,10 +282,10 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg3MTM3MDAsMjA3MDY3MzI4MywxND
-E3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQz
-Mzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MT
-U4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwt
-NDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1Nj
-IyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbMjAxNzA1NDIyNCwyMDcwNjczMjgzLDE0MT
+c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
+ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
+g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00
+NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2Mj
+IxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

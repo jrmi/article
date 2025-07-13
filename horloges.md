@@ -66,16 +66,16 @@ Il est important de noter que les minuteurs ne doivent pas nécessairement être
 
 ## L’utilisation en jeu des minuteurs
 
-Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Il est nécessaire de définir les deux éléments suivants pour chaque minuteur :
+Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Deux éléments permettent de définir chaque minuteur :
 
 - la conséquence narrative activée par la résolution du minuteur
 - les conditions qui permettent de le faire progresser
 
 ### Définir la conséquence narrative
 
-La conséquence narrative est la raison d’être des minuteurs. Il s’agit de l’événement dramatique (au sens de drama, l'action) qui sera déclenché lorsque celui-ci aura atteint ses conditions de résolution.
+La conséquence narrative est la raison d’être des minuteurs. Elle désigne l’événement dramatique (au sens de *drama, l'action) qui sera déclenché lorsque celui-ci aura atteint ses conditions de résolution.
 
-Cette conséquence est en général une phrase du type : « le volcan entre en éruption » ou encore « Les renforts arrivent ».  Dans l'idéal, la conséquence doit décrire ce qui va arriver si le minuteur est résolu mais, pour des soucis de simplicité et de brièveté, vous pouvez également nommer le minuteur « L’éruption » ou « Les renforts ».
+Cette conséquence est en général une phrase du type : « le volcan entre en éruption » ou encore « les renforts arrivent ».  Dans l'idéal, la conséquence doit décrire ce qui va arriver si le minuteur est résolu mais, pour des soucis de simplicité et de brièveté, vous pouvez également nommer le minuteur « L’éruption » ou « Les renforts ».
 
 Les conséquences peuvent être catégorisées en trois groupes selon la réaction qu'elles suscitent chez les joueurs : les Menaces (à éviter), les Opportunités (à atteindre) et les Fatalités (inévitables).
 
@@ -282,10 +282,10 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDU1ODEwMSwyMDcwNjczMjgzLDE0MT
-c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
-ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
-g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00
-NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2Mj
-IxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTE0NTc3NDk0NzcsMjA3MDY3MzI4MywxND
+E3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQz
+Mzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MT
+U4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwt
+NDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1Nj
+IyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
 -->

@@ -61,7 +61,7 @@ La mécanique du minuteur doit également définir les conditions qui déclenche
 - Les joueurs décident de faire un test de résolution quand ils le désirent sachant que plus la piste a progressé plus il y a de chances que cela se termine. (IS)
 - On lance 1d6  à chaque évolution et la résolution survient si le résultat est égal ou inférieur au nombre de rayons tracés (ES)
 
-Il est important de noter que les minuteurs ne doivent pas nécessairement être menés à terme ; ils peuvent devenir obsolètes car les circonstances fictionnelles ont rendu leur progression inutile. Si, par exemple, un minuteur représente un combat contre une créature mais que ce combat n’est plus nécessaire car les joueurs ont trouvé un moyen de contourner la créature, ce minuteur n’a plus lieu d’être.  Un minuteur ne se solde donc pas nécessairement par sa résolution mais peut aussi être simplement retiré du jeu si cela s'avère nécessaire.
+Il est important de noter que les minuteurs ne doivent pas nécessairement être menés à terme ; ils peuvent devenir obsolètes parce que les circonstances fictionnelles ont rendu leur progression inutile. Si, par exemple, un minuteur représente un combat contre une créature mais que ce combat n’est plus nécessaire car les joueurs ont trouvé un moyen de contourner la créature, ce minuteur n’a plus lieu d’être.  Un minuteur ne se solde donc pas nécessairement par sa résolution mais peut aussi être simplement retiré du jeu si cela s'avère nécessaire.
 
 ## L’utilisation en jeu des minuteurs
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjg0NzY0Nyw2MjUzODE3MjUsMTcyMT
-Y0OTc3NSw5MTE0ODUwNzYsLTQwMjE3MjIyNCwtMTIxNDIyODAy
-NCwxMzg0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMT
-cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5
-NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMD
-YsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0
-MjkzODQ2MjVdfQ==
+eyJoaXN0b3J5IjpbLTExNDUyNTI2MjMsNjI1MzgxNzI1LDE3Mj
+E2NDk3NzUsOTExNDg1MDc2LC00MDIxNzIyMjQsLTEyMTQyMjgw
+MjQsMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OTE5Mzk5OSwyMT
+E3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMy
+OTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MT
+A2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgs
+NDI5Mzg0NjI1XX0=
 -->

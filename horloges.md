@@ -140,11 +140,11 @@ Toutefois, veillez, sauf cas particulier, à rester dans une durée relativement
 
 Deux jeux ont une particularité concernant le système de résolution : la durée avant résolution des Sparks de ES et des pistes de IS (pour une difficulté donnée) ne sont pas prédéterminées. Dans le cas de ES, le jet de dés à chaque progression rend possible la résolution après seulement une étape ou bien au bout de cinq. Pour IS ce sont les joueurs qui décident de tenter une résolution quand ils pensent qu'ils ont suffisamment progressé et un jet de dés permettra de vérifier que la piste se termine ou non.
 
-Cette variante rajoute de l’incertitude que les joueurs doivent prendre en compte dans leur stratégie. Tout en gardant le côté prédictible les choix deviennent plus risqués ce qui peut rendre les réussites ou les échecs plus héroïques.
+Cette variante rajoute une incertitude que les joueurs doivent prendre en compte dans leur stratégie. Tout en gardant le côté prédictible, les choix deviennent plus risqués ce qui peut rendre les réussites ou les échecs plus héroïques.
 
 ### Des conséquences intermédiaires
 
-Pour le moment nous avons défini une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. 
+Pour le moment, nous avons défini une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. 
 
 Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que la progression soit marquée par des étapes : des fumées se répandent dans le bâtiment forçant les personnages à progresser plus lentement, puis des gaz toxiques envahissent certaines salles rendant le cheminement plus complexe et dangereux.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4OTEwNjQ5LDIxMTcwMDQ3MjUsMjA3MD
-Y3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2Njcw
-Mjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5Mi
-wtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2
-ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNj
-k3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
-
+eyJoaXN0b3J5IjpbLTE2OTA4MzM0NTUsMjExNzAwNDcyNSwyMD
+cwNjczMjgzLDE0MTc4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2
+NzAyNzcsLTkzNDMzODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MT
+kyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwx
+MTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNT
+I2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQw
+XX0=
 -->

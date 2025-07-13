@@ -95,7 +95,7 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 | Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
 | Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | J'ai appris le sort de soin  |
 
-Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « La porte est ouverte » n’apporte en effet que peu de possibilités d'action au regard de « Les plans dans cabine sont récupérés », conséquence elle-même plus restrictive que « Nous possédons les plans de lord Bistmuth »
+Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « La porte de la cabine est ouverte » n’apporte en effet que peu de possibilités d'action au regard de « Les plans dans la cabine sont récupérés », conséquence elle-même plus restrictive que « Nous possédons les plans de lord Bistmuth »
 
 Comme ces Opportunités ont pour vocation, notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux même la création de leurs minuteurs.
 
@@ -282,8 +282,8 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIyNjkwNjgsNDI5Mzg0NjI1LDExNj
-g2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC00NTA1MjY5
-NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1NDBdfQ
-==
+eyJoaXN0b3J5IjpbODE1MTI2NTA1LC0xNTQyMjY5MDY4LDQyOT
+M4NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1
+OSwtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMT
+cwMDEzNTQwXX0=
 -->

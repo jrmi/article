@@ -116,13 +116,13 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 | Conséquence narrative | Déclencheurs possibles  |
 |:--|:--|
 | Le dragon se réveille | À chaque jet de discrétion raté ou en cas d’action particulièrement bruyante. |
-| Plus d'oxygène | À chaque tour de jeu et en cas d’action physique ou à chaque échec critique |
-| La trousse de premier soins est vide | À chaque utilisation. |
+| Plus d'oxygène | À chaque tour de jeu et en cas d’action physique ou à chaque échec critique. |
+| La trousse de premier soins est vide | À chaque utilisation voir deux fois pour des blessures particulièrement grave. |
 | Le dragon est vaincu | Quand une action de combat est réussie par deux joueurs dans le tour de jeu. |
-| Le vaisseau est réparé | À chaque jet de réparation réussit |
+| Le vaisseau est réparé | À chaque jet de réparation réussit. |
 | J'ai appris le sort de soin | à chaque session avec un grand maître de la magie ou à chaque méditation suffisamment longue. |
 | Le volcan entre en éruption | Chaque jour qui passe dans la fiction. |
-| La tempête de sable est sur nous | Toutes les dix minutes en jeu. |
+| La tempête de sable est sur nous | Toutes les dix minutes de jeu réel. |
 | Les renforts alliés arrivent | Après chaque événement marquant de la bataille. |
 
 ## Quelques variations pour enrichir les minuteurs
@@ -282,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjcyMzY2MywtMTU0MjI2OTA2OCw0Mj
+eyJoaXN0b3J5IjpbMTY1NTU4NTM3OSwtMTU0MjI2OTA2OCw0Mj
 kzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQy
 NTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLT
 E3MDAxMzU0MF19

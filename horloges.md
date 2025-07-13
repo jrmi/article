@@ -240,7 +240,7 @@ Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n
 
 ## Conclusion
 
-Nous avons cherché dans ce travail à définir ce qui compose le cœur des minuteurs narratif visant à mieux cerner la manière dont fonctionnent la mécanique interne tout en ménageant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel par leur biais. Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (faire état de la situation) tout en relevant d'une logique du jeu (faire avancer la situation). Ces minuteurs agissent presque comme un pont entre le jeu de rôle et le jeu de société
+Nous avons cherché dans ce travail à définir ce qui compose le cœur des minuteurs narratifs visant à mieux cerner leur fonctionnement interne tout en préservant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux s'immerger dans l'univers fictionnel. Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (représenter la situation) tout en relevant d'une logique luq (faire avancer la situation). Ces minuteurs agissent presque comme un pont entre le jeu de rôle et le jeu de société
 
 Ils ont également une grande flexibilité qui leur permettra d'être convoqués dans des situations très diverses, que ce soit pour compléter les manques un système de règles très riches ou pour représenter toutes les situations complexes dans un système plus léger.  De plus ces minuteurs ont montrés leur efficacité aussi bien en jeux avec meneur qu'en jeu en coopératif ou en solo.
 
@@ -283,9 +283,9 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTkxNzA5MCwtMTIyMjQ5NjEwNiwtNT
-QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
-NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
-wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
-MDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTE5Nzc4NDc5NTMsLTEyMjI0OTYxMDYsLT
+U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
+ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
+ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3
+MDAxMzU0MF19
 -->

@@ -207,7 +207,7 @@ La tête ne pourra être attaquée qu'à condition que les deux pinces soient ne
 
 Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, ce qui permet de construire des scénarios complexes avec de multiples possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
 
-Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
+Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur !). Il est possible d’imaginer ces minuteurs en parallèle :
 
 - « Les navettes de secours sont fonctionnelles »
 - « Tous les survivants sont rassemblés »
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxNzEzMjEwLDEwMjYzMzYxNzksNjI1Mz
-gxNzI1LDE3MjE2NDk3NzUsOTExNDg1MDc2LC00MDIxNzIyMjQs
-LTEyMTQyMjgwMjQsMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OT
-E5Mzk5OSwyMTE3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3
-OCwtMjA0NjMyOTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC
-0xMjIyNDk2MTA2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1
-NDIyNjkwNjhdfQ==
+eyJoaXN0b3J5IjpbLTEyMjUzNjI5MzIsMTAyNjMzNjE3OSw2Mj
+UzODE3MjUsMTcyMTY0OTc3NSw5MTE0ODUwNzYsLTQwMjE3MjIy
+NCwtMTIxNDIyODAyNCwxMzg0NTgxNTA5LDE2NTAzODY3OTYsLT
+k5MTkzOTk5LDIxMTcwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2
+Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1Nj
+QsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwt
+MTU0MjI2OTA2OF19
 -->

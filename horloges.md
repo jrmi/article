@@ -54,7 +54,7 @@ De manière générale, n'hésitez pas à aller chercher du côté de vos jeux d
 
 ### Résoudre vos minuteurs
 
-La mécanique du minuteur doit également définir les conditions qui déclenchent la fin du minuteur et donc le donc l’événement narratif associé à celui-ci. Les jeux déjà mentionnés proposent les conditions de fin suivantes :
+La mécanique du minuteur doit également définir les conditions qui déclenchent la fin du minuteur et donc l’événement narratif associé à celui-ci. Les jeux mentionnés proposent les conditions de fin suivantes :
 
 - Tous les segments de l'horloge sont remplis (AW)
 -  Tous les cadrans de l'horloge sont remplis (BD)
@@ -282,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMyNTA2MzMsMTE2ODYxNjgwMCwtND
-Y2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIy
-MTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbNDI5Mzg0NjI1LDExNjg2MTY4MDAsLTQ2Nj
+g3MTM5NSwxMzI0MDg0MjU5LC00NTA1MjY5NzEsLTE2NTYyMjEx
+NzksNDY0MTA3NTM4LC0xNzAwMTM1NDBdfQ==
 -->

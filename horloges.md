@@ -93,12 +93,12 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 | Situation fictionnelle | Conséquence narrative |
 |:--|:--:|
 | Les personnages doivent combattre un dragon afin de continuer leur quête. | Le dragon est vaincu. |
-| Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
-| Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | J'ai appris le sort de soin  |
+| Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé. |  
+| Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers. | J'ai appris le sort de soin.  |
 
 Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « Les câbles du système central sont débranchés » n’apporte en effet que peu de possibilités d'action au regard de « Le serveur central est neutralisé », conséquence elle-même plus restrictive que « La sécurité du bâtiment est contournée »
 
-Comme ces Opportunités ont pour vocation, notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux-même la création de leurs minuteurs.
+Comme ces Opportunités ont notamment pour vocation de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux-même la création de leurs minuteurs.
 
 Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
 
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODAyMzE5OSwyMDcwNjczMjgzLDE0MT
+eyJoaXN0b3J5IjpbMTI1NTg4MTQ3NywyMDcwNjczMjgzLDE0MT
 c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
 ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
 g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00

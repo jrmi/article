@@ -188,7 +188,7 @@ Interactions possibles :
 
 #### Épreuves en série ou en parallèle
 
-Lorsque l’on affronte un obstacle majeur, il est possible de rallonger le minuteur comme vu précédemment pour rendre la résolution plus longue et donc plus mémorable. Mais il existe une autre possibilité qui donne plus de relief au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou bien en parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis.
+Lorsque l’on affronte un obstacle majeur, il est possible de rallonger le minuteur, comme vu précédemment, pour rendre la résolution plus longue et donc plus mémorable. Mais il existe une autre possibilité qui donne plus de relief au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou bien en parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis.
 
 Dans cette variante, chaque minuteur représente un aspect différent du problème. Cela permet de rendre ces obstacles plus intéressants à résoudre car ils se décomposent en plusieurs sous obstacles qui auront leurs propres spécificités donnant ainsi à chaque personnage la possibilité de briller.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTA0OTM4OCwxMDI2MzM2MTc5LDYyNT
-M4MTcyNSwxNzIxNjQ5Nzc1LDkxMTQ4NTA3NiwtNDAyMTcyMjI0
-LC0xMjE0MjI4MDI0LDEzODQ1ODE1MDksMTY1MDM4Njc5NiwtOT
-kxOTM5OTksMjExNzAwNDcyNSwyMDcwNjczMjgzLDE0MTc4NTYz
-NzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NC
-wtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0x
-NTQyMjY5MDY4XX0=
+eyJoaXN0b3J5IjpbOTQxNzEzMjEwLDEwMjYzMzYxNzksNjI1Mz
+gxNzI1LDE3MjE2NDk3NzUsOTExNDg1MDc2LC00MDIxNzIyMjQs
+LTEyMTQyMjgwMjQsMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OT
+E5Mzk5OSwyMTE3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3
+OCwtMjA0NjMyOTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC
+0xMjIyNDk2MTA2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1
+NDIyNjkwNjhdfQ==
 -->

@@ -145,9 +145,9 @@ Cette variante est intéressante  car elle rajoute de l’incertitude que les jo
 
 Pour le moment nous avons définit une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. 
 
-Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que la progression soit marqué par des étapes : des fumées se répandent dans le bâtiment forçant les personnages à progresser plus lentement, puis des gaz toxiques envahissent certaines salles rendant le cheminement plus complexe.
+Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que la progression soit marqué par des étapes : des fumées se répandent dans le bâtiment forçant les personnages à progresser plus lentement, puis des gaz toxiques envahissent certaines salles rendant le cheminement plus complexe et dangereux.
 
-On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression rendant la situation de plus en plus complexe au fur et à mesure de la progression du minuteur.
+On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression augmentant les enjeux au fur et à mesure de la progression du minuteur.
 
 ### Un renversement de situation
 
@@ -286,8 +286,8 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDMxNTYzNywtNTQyNDQ2MTkyLC0xMT
-I5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2
-ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC
-0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMT
+EyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYx
+NjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MS
+wtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
 -->

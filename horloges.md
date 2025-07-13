@@ -62,7 +62,7 @@ La mécanique du minuteur doit également définir les conditions qui déclenche
 - Les joueurs décident de faire un test de résolution quand ils le désirent sachant que plus la piste a progressé plus il y a de chances que cela se termine. (IS)
 - On lance 1d6  à chaque évolution et la résolution survient si le résultat est égal ou inférieur au nombre de rayons tracés (ES)
 
-Il est important de noter que les minuteurs ne doivent pas nécessairement être menés à terme, ils peuvent devenir obsolète car les circonstances fictionnelles ont rendu leur progression inutile. Si, par exemple, un minuteur représente un combat contre une créature mais que ce combat n’est plus nécessaire  car les joueurs ont trouvé un moyen de contourner la difficulté, ce minuteur n’a plus lieu d’être.  Un minuteur ne se solde donc pas nécessairement par sa résolution mais peut aussi être simplement retiré du jeu quand cela est nécessaire.
+Il est important de noter que les minuteurs ne doivent pas nécessairement être menés à terme ; ils peuvent devenir obsolètes car les circonstances fictionnelles ont rendu leur progression inutile. Si, par exemple, un minuteur représente un combat contre une créature mais que ce combat n’est plus nécessaire car les joueurs ont trouvé un moyen de contourner la créature, ce minuteur n’a plus lieu d’être.  Un minuteur ne se solde donc pas nécessairement par sa résolution mais peut aussi être simplement retiré du jeu si cela s'avère nécessaire.
 
 ## L’utilisation en jeu des minuteurs
 
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDk2Nzg2MCwyMDcwNjczMjgzLDE0MT
+eyJoaXN0b3J5IjpbMTY2NDU1ODEwMSwyMDcwNjczMjgzLDE0MT
 c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
 ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
 g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00

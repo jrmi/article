@@ -165,9 +165,9 @@ Par exemple, pour un minuteur qui représente l’évolution d’un incendie qui
 
 La présence d’un minuteur apporte déjà beaucoup aux sessions mais cela devient encore plus intéressant lorsque l’on combine plusieurs minuteurs ensemble.
 
-#### 2 minuteurs pour faire une compétition.
+#### Compétition de minuteurs
 
-Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un poursuivi, deux groupes qui essayent de s’attirer les faveurs d’une reine, … Dans ce cas, il est possible de suivre l’avancement des deux opposants à l’aide de deux minuteurs, une pour chaque camp. Le premier qui se résout indique le résultat de la compétition.
+Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un poursuivi, deux groupes qui essayent de s’attirer les faveurs d’un prince, … Dans ce cas, il est possible de suivre l’avancement des deux opposants à l’aide de deux minuteurs, une pour chaque camp. Le premier qui se résout indique le résultat de la compétition.
 
 Si les personnages tentent de semer les gardes de la ville qui les poursuivent, un minuteur représente la progression des personnages et l’autre des joueurs. Si le premier minuteur se termine avant le second, les personnages sont saufs. Dans le cas contraire, ils n’ont plus qu’à faire face à leurs poursuivants.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjMzNjE3OSw2MjUzODE3MjUsMTcyMT
-Y0OTc3NSw5MTE0ODUwNzYsLTQwMjE3MjIyNCwtMTIxNDIyODAy
-NCwxMzg0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMT
-cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5
-NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMD
-YsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0
-MjkzODQ2MjVdfQ==
+eyJoaXN0b3J5IjpbMTMyMTA0OTM4OCwxMDI2MzM2MTc5LDYyNT
+M4MTcyNSwxNzIxNjQ5Nzc1LDkxMTQ4NTA3NiwtNDAyMTcyMjI0
+LC0xMjE0MjI4MDI0LDEzODQ1ODE1MDksMTY1MDM4Njc5NiwtOT
+kxOTM5OTksMjExNzAwNDcyNSwyMDcwNjczMjgzLDE0MTc4NTYz
+NzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NC
+wtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0x
+NTQyMjY5MDY4XX0=
 -->

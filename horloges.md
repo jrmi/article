@@ -168,7 +168,7 @@ La présence d’un minuteur apporte déjà beaucoup aux sessions mais cela devi
 
 #### 2 minuteurs pour faire une compétition.
 
-Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un poursuivi, deux groupes qui essayent de s’attirer les faveurs d’une reine, *etc*… Dans ce cas, il est possible de suivre l’avancement des deux opposants à l’aide de deux minuteurs, une pour chaque camp. Le premier qui se résout indique le résultat de la compétition.
+Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un poursuivi, deux groupes qui essayent de s’attirer les faveurs d’une reine, … Dans ce cas, il est possible de suivre l’avancement des deux opposants à l’aide de deux minuteurs, une pour chaque camp. Le premier qui se résout indique le résultat de la compétition.
 
 Si les personnages tentent de semer les gardes de la ville qui les poursuivent, un minuteur représente la progression des personnages et l’autre des joueurs. Si le premier minuteur se termine avant le second, les personnages sont saufs. Dans le cas contraire, ils n’ont plus qu’à faire face à leurs poursuivants.
 
@@ -283,11 +283,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjE3MjIyNCwtMTIxNDIyODAyNCwxMz
-g0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMTcwMDQ3
-MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5NDgyLC
-0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMDYsLTU0
-MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzOD
-Q2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTks
-LTQ1MDUyNjk3MV19
+eyJoaXN0b3J5IjpbLTg5NzcyNTUwMCwtNDAyMTcyMjI0LC0xMj
+E0MjI4MDI0LDEzODQ1ODE1MDksMTY1MDM4Njc5NiwtOTkxOTM5
+OTksMjExNzAwNDcyNSwyMDcwNjczMjgzLDE0MTc4NTYzNzgsLT
+IwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NCwtMTIy
+MjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMj
+Y5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUs
+MTMyNDA4NDI1OV19
 -->

@@ -32,7 +32,7 @@ Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre qu
 
 ### Représenter la progression du minuteur
 
-Un des objectifs premier des minuteurs et de rendre visible pour les joueurs la progression d'une conséquence narrative, il est donc primordial de définir sa représentation. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
+Un des objectifs premier des minuteurs et de rendre visible pour les joueurs la progression d'une conséquence narrative. Il est donc primordial de définir sa représentation. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
 
 - Une horloge atomique avec 6 segments qu’on noircit au fur et à mesure (AW)
 - Un cercle découpé en 4, 6 ou 8 cadrans que l’on grise au fur et à mesure (BD)
@@ -44,9 +44,9 @@ D'autres représentations seraient tout à fait envisageables :
 - des jetons/pièces/cailloux disposés sur la table ou sur une carte que l’on enlève un par un, technique empruntée aux jeux de société
 - un chiffre sur un post-it que l’on barre pour écrire la nouvelle valeur
 - un dé posé sur la table qui affiche la valeur actuelle et que l’on tourne au fur et à mesure de la progression
-- des minuteurs mécaniques du commerce ou fait maison en carton
-- une horloge sans pile dont on déplace les aiguilles manuellement, une heure par progrès
-- un paquet de cartes qui contient une carte de fin que l’on mélange
+- des minuteurs mécaniques du commerce ou faits maison en carton
+- une horloge sans pile dont on déplacerait les aiguilles manuellement, une heure par progrès
+- un paquet de cartes qui contient une carte de fin que l’on place au hasard du pa
 - …
 
 En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur *[Dread](https://www.tiltingatwindmills.net/games/dread/)* de Epidiah Ravachol propose par exemple une idée originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple que le minuteur est utilisé pour renforcer l'immersion des joueurs dans la fiction.
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzU4ODY3OCwyMDcwNjczMjgzLDE0MT
+eyJoaXN0b3J5IjpbMTMwNDUxNTA4NiwyMDcwNjczMjgzLDE0MT
 c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
 ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
 g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00

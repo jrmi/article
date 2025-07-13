@@ -45,11 +45,11 @@ D'autres représentations seraient tout à fait envisageables :
 - un chiffre sur un post-it que l’on barre pour écrire la nouvelle valeur
 - un dé posé sur la table qui affiche la valeur actuelle et que l’on tourne au fur et à mesure de la progression
 - des minuteurs mécaniques du commerce ou faits maison en carton
-- une horloge sans pile dont on déplacerait les aiguilles manuellement, une heure par progrès
-- un paquet de cartes qui contient une carte de fin que l’on place au hasard du pa
+- une horloge sans pile dont on déplace les aiguilles manuellement, une heure par progrès
+- un paquet de cartes qui contient une carte de fin que l’on place au hasard dans le paquet
 - …
 
-En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur *[Dread](https://www.tiltingatwindmills.net/games/dread/)* de Epidiah Ravachol propose par exemple une idée originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple que le minuteur est utilisé pour renforcer l'immersion des joueurs dans la fiction.
+En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur *[Dread](https://www.tiltingatwindmills.net/games/dread/)* de Epidiah Ravachol propose une idée tout à fait originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple que le minuteur est utilisé pour renforcer l'immersion des joueurs dans la fiction.
 
 De manière générale, n'hésitez pas à aller chercher du côté de vos jeux de société ou jeux vidéo favoris afin d'en extraire tout ce qui ressemble à un minuteur qui pourrait être utilisé pour votre jeu.
 
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDUxNTA4NiwyMDcwNjczMjgzLDE0MT
+eyJoaXN0b3J5IjpbMTg4NDk2Nzg2MCwyMDcwNjczMjgzLDE0MT
 c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
 ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
 g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00

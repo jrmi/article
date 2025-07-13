@@ -75,17 +75,17 @@ Une fois la mécanique définie, analysons désormais leur utilisation en jeu. D
 
 La conséquence narrative est la raison d’être des minuteurs. Elle désigne l’événement dramatique (au sens de *drama, l'action) qui sera déclenché lorsque celui-ci aura atteint ses conditions de résolution.
 
-Cette conséquence est en général une phrase du type : « le volcan entre en éruption » ou encore « les renforts arrivent ».  Dans l'idéal, la conséquence doit décrire ce qui va arriver si le minuteur est résolu mais, pour des soucis de simplicité et de brièveté, vous pouvez également nommer le minuteur « L’éruption » ou « Les renforts ».
+Cette conséquence est en général une phrase du type : « Le volcan entre en éruption » ou encore « Les renforts arrivent ».  Dans l'idéal, la conséquence doit décrire ce qui va arriver si le minuteur est résolu mais, pour des soucis de simplicité et de brièveté, vous pouvez également nommer le minuteur « L’éruption » ou « Les renforts ».
 
 Les conséquences peuvent être catégorisées en trois groupes selon la réaction qu'elles suscitent chez les joueurs : les Menaces (à éviter), les Opportunités (à atteindre) et les Fatalités (inévitables).
 
-Les **Menaces** représentent tous les événements indésirables auxquels les joueurs font face et qu'ils vont chercher à éviter ou, tout du moins, à ralentir. Chaque "menace" repose ainsi sur une tension entre un danger et des moyens de l'éviter :
+Les **Menaces** représentent tous les événements indésirables auxquels les joueurs font face et qu'ils vont chercher à éviter ou, tout du moins, à ralentir. Chaque "menace" repose ainsi sur une tension entre un danger et les moyens de l'éviter :
 
 | Situation fictionnelle | Conséquence du minuteur |
 |:--|:--:|
 | Les personnages sont en présence d'un dragon endormi qui menace de se réveiller à chaque instant. | Le dragon se réveille |
-| La coque du vaisseau vient d'être percée par un astéroïde et la cabine est dépressurisé. Il faut colmater la fuite et rétablir la pression en gaspillant le moins possible l’oxygène des combinaisons. | Plus d’oxygène |
-| Le groupe possède une trousse de premier soin mais elle ne pourra soigner qu'un nombre limité de blessures. | La trousse de premier soins est vide |
+| La coque du vaisseau vient d'être percée par un astéroïde et la cabine est dépressurisée. Il faut colmater la fuite et rétablir la pression en gaspillant le moins possible l’oxygène des combinaisons. | Plus d’oxygène |
+| Le groupe possède une trousse de premiers soins mais elle ne pourra soigner qu'un nombre limité de blessures. | La trousse de premiers soins est vide |
  
 Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Elles peuvent recouvrir le franchissement d'obstacles /  d'ennemis, des actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou pour le groupe.
 
@@ -282,10 +282,10 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc3NDk0NzcsMjA3MDY3MzI4MywxND
-E3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQz
-Mzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MT
-U4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwt
-NDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1Nj
-IyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTY1ODUyODkzOSwyMDcwNjczMjgzLDE0MT
+c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
+ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
+g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00
+NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2Mj
+IxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

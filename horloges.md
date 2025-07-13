@@ -131,7 +131,7 @@ En réalité les sections précédentes n'ont fait qu’effleurer les possibilit
 
 ### Des durées variables
 
-BD ou IS proposent de faire varier la durée des minuteurs. Cette durée peut refléter la complexité de la tâche à accomplir ou le délais avant la conséquence. On peut vouloir qu’un combat contre un dragon soit plus long que contre un gobelin par exemple. Niveau mécanique, il suffit de faire un minuteur avec plus d’étapes ou de diminuer la vitesse de progression. 
+BD ou IS proposent de faire varier la durée des minuteurs à leur création. Cette durée peut refléter la complexité de l’obstacle ou le délais avant la conséquence. On peut vouloir qu’un combat contre un dragon soit plus long que contre un gobelin par exemple. Niveau mécanique, il suffit de faire un minuteur avec plus d’étapes ou de diminuer la vitesse de progression. 
 
 Toutefois, veillez, sauf cas particulier, à rester dans une durée relativement courte, au risque d’avoir l’effet contraire à celui escompté, à savoir que les joueurs ne voient pas la fin arriver et finissent par se lasser.
 
@@ -282,8 +282,8 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTU4NTM3OSwtMTU0MjI2OTA2OCw0Mj
-kzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQy
-NTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLT
-E3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsND
+I5Mzg0NjI1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0
+MjU5LC00NTA1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC
+0xNzAwMTM1NDBdfQ==
 -->

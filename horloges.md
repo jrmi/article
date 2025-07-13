@@ -120,8 +120,8 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 | Plus d'oxygène | À chaque tour de jeu et en cas d’action physique ou à chaque échec critique. |
 | La trousse de premier soins est vide | À chaque utilisation voir deux fois pour des blessures particulièrement grave. |
 | Le dragon est vaincu | Quand une action de combat est réussie par deux joueurs dans le tour de jeu. |
-| Le vaisseau est réparé | À chaque jet de réparation réussit. |
-| J'ai appris le sort de soin | à chaque session avec un grand maître de la magie ou à chaque méditation suffisamment longue. |
+| Le vaisseau est réparé | À chaque jet de réparation réussi. |
+| J'ai appris le sort de soin | A chaque session avec un grand maître de la magie ou à chaque méditation suffisamment longue. |
 | Le volcan entre en éruption | Chaque jour qui passe dans la fiction. |
 | La tempête de sable est sur nous | Toutes les dix minutes de jeu réel. |
 | Les renforts alliés arrivent | Après chaque événement marquant de la bataille. |
@@ -282,10 +282,10 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQzNjQzMzIsMjA3MDY3MzI4MywxND
-E3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQz
-Mzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MT
-U4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwt
-NDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1Nj
-IyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbMjExNzAwNDcyNSwyMDcwNjczMjgzLDE0MT
+c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
+ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
+g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00
+NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2Mj
+IxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

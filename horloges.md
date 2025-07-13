@@ -38,7 +38,7 @@ Un des objectifs premier des minuteurs et de rendre visible pour les joueurs la 
 - Une piste linéaire de 10 cases que l’on coche (IS)
 - Une étoile à cinq branches. Une branche est dessinée à chaque progression (ES)
 
-D'autres représentations seraient dureste tout à fait envisageables :
+D'autres représentations seraient du reste tout à fait envisageables :
 
 - des jetons/pièces/cailloux disposés sur la table ou sur une carte que l’on enlève un par un, technique empruntée aux jeux de société
 - un chiffre sur un post-it que l’on barre pour écrire la nouvelle valeur
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODg3MTA3NSw2MjUzODE3MjUsMTcyMT
-Y0OTc3NSw5MTE0ODUwNzYsLTQwMjE3MjIyNCwtMTIxNDIyODAy
-NCwxMzg0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMT
-cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5
-NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMD
-YsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0
-MjkzODQ2MjVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjY4Njg1NDMsNjI1MzgxNzI1LDE3Mj
+E2NDk3NzUsOTExNDg1MDc2LC00MDIxNzIyMjQsLTEyMTQyMjgw
+MjQsMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OTE5Mzk5OSwyMT
+E3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMy
+OTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MT
+A2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgs
+NDI5Mzg0NjI1XX0=
 -->

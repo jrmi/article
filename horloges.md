@@ -95,7 +95,7 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 | Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
 | Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | J'ai appris le sort de soin  |
 
-Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « Les câbles du système central sont débranchés » n’apporte en effet que peu de possibilités d'action au regard de « Le serveur central est neutralisé », conséquence elle-même plus restrictive que « La sécurité du bâtiment est neutralisée »
+Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « Les câbles du système central sont débranchés » n’apporte en effet que peu de possibilités d'action au regard de « Le serveur central est neutralisé », conséquence elle-même plus restrictive que « La sécurité du bâtiment est contournée »
 
 Comme ces Opportunités ont pour vocation, notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux même la création de leurs minuteurs.
 
@@ -104,7 +104,7 @@ Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d
 | Situation fictionnelle | Conséquence narrative |  
 |:--|:--:|  
 | Un volcan est en train d’entrer en éruption, ce n’est qu’une question de temps avant que la lave ne jaillisse. | Le volcan entre en éruption |
-| Au loin, de gros nuages de sable annoncent une tempête de sable. | La tempête de sable est sur nous |
+| Au loin, de gros nuages de sable annoncent une tempête. | La tempête de sable est sur nous |
 | La bataille bat son plein et des alliés sont attendus avec fébrilité. | Les alliés arrivent |
 
 ### Choisir les déclencheurs
@@ -282,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDI4MjAyNywtMTU0MjI2OTA2OCw0Mj
+eyJoaXN0b3J5IjpbLTUyNTM4OTMxNCwtMTU0MjI2OTA2OCw0Mj
 kzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQy
 NTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLT
 E3MDAxMzU0MF19

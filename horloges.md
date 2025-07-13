@@ -205,7 +205,7 @@ La tête ne pourra être attaquée qu'à condition que les deux pinces soient ne
 
 #### Scénario à base de minuteurs
 
-Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude. On s'approche alors de ce que l'on pourrait trouver dans un jeux de société tout en restant dans le jeux de rôle.
+Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
 
 Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
 
@@ -240,9 +240,11 @@ Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n
 
 ## Conclusion
 
-Nous avons cherché dans ce travail à élaborer définir le coeur de ce qui compose les minuteurs narratif visant à mieux cerner la manière dont fonctionnent les minuteurs pour mettre au jour à la fois le mécanisme interne et bien huilé de ces minuteurs tout en ménageant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel. Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (faire avancer l'action) tout en relevant d'une logique du jeu.
+Nous avons cherché dans ce travail à définir ce qui compose le coeur des minuteurs narratif visant à mieux cerner la manière dont fonctionnent ceux-ci pour mettre au jour à la fois le mécanisme interne et bien huilé tout en ménageant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel. 
 
+Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (faire état de la situationon) tout en relevant d'une logique du jeu. 
 
+On s'approche alors de ce que l'on pourrait trouver dans un jeux de société tout en restant dans le jeux de rôle.
 mécanique générique
 approche JDS
 
@@ -281,9 +283,9 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5NDQwMDE2LC0xMjIyNDk2MTA2LC01ND
-I0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0
-NjI1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC
-00NTA1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAw
-MTM1NDBdfQ==
+eyJoaXN0b3J5IjpbMTAyMDcwMzc4MSwtMTIyMjQ5NjEwNiwtNT
+QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
+NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
+wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
+MDEzNTQwXX0=
 -->

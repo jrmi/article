@@ -25,7 +25,7 @@ Si chacun de ces quatre jeux a développé sa propre approche des minuteurs, en 
 ## La mécanique des minuteurs
 
 
-Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre que pour faire fonctionner un minuteur il faut définir au minimum deux éléments :
+Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre que, pour faire fonctionner un minuteur, il faut définir au minimum deux éléments :
 
 - La manière de représenter la progression du minuteur
 - La manière dont on décide de la résolution du minuteur
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODYxMDkyMiwyMDcwNjczMjgzLDE0MT
+eyJoaXN0b3J5IjpbMTAyNzU4ODY3OCwyMDcwNjczMjgzLDE0MT
 c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
 ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
 g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00

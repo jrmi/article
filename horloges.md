@@ -188,9 +188,9 @@ Interactions possibles :
 
 #### Épreuves en série ou en parallèle
 
-Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur comme vu plus haut pour rendre la résolution plus longue et donc plus mémorable. Mais il existe une autre possibilité qui donne plus de relief au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou bien en parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. 
+Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur comme vu plus haut pour rendre la résolution plus longue et donc plus mémorable. Mais il existe une autre possibilité qui donne plus de relief au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou bien en parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis.
 
-Dans cette variante, chaque minuteur représente un aspect différent du problème. Cela permet de rendre ces obstacles plus intéressants à résoudre car ils se décomposent en plusieurs sous obstacles qui auront leurs propre spécificités donnant ainsi à chaque personnages la possibilité de briller.
+Dans cette variante, chaque minuteur représente un aspect différent du problème. Cela permet de rendre ces obstacles plus intéressants à résoudre car ils se décomposent en plusieurs sous obstacles qui auront leurs propres spécificités donnant ainsi à chaque personnage la possibilité de briller.
 
 Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel les « boss » sont composés de plusieurs parties qu’il faut attaquer avant de pouvoir attaquer la partie centrale ou encore quand ils changent de comportement après un certain nombre de dégâts.
 
@@ -198,8 +198,8 @@ Nous pouvons par exemple imaginer un combat contre un scorpion géant pour leque
 
 - « La pince gauche est neutralisée »
 - « La pince droite est neutralisée »
-- « Le tête est touchée »
-- « La queue est neutralisé »
+- « La tête est touchée »
+- « La queue est neutralisée »
 
 La tête ne pourra être attaquée qu'à condition que les deux pinces soient neutralisées. Tant que la queue ne sera pas neutralisée le scorpion pourra continuer à attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie du scorpion ce qui permet d'envisager plusieurs stratégies.
 
@@ -207,13 +207,13 @@ La tête ne pourra être attaquée qu'à condition que les deux pinces soient ne
 
 Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
 
-Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
+Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
 
 - « Les navettes de secours sont fonctionnelles »
 - « Tous les survivants sont rassemblés »
 - « Le système de maintenance est piraté »
 - « Le réacteur explose »
-- « Il n'y a plus de d’énergie dans les réserves de secours »
+- « Il n'y a plus d’énergie dans les réserves de secours »
 
 Une fois les navettes réparées et les survivants rassemblés, il devient possible de résoudre les minuteurs suivants :
 
@@ -281,9 +281,9 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc5OTM4OTYsLTEyMjI0OTYxMDYsLT
-U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
-ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
-ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3
-MDAxMzU0MF19
+eyJoaXN0b3J5IjpbMTA1NzA1NTQzNSwtMTIyMjQ5NjEwNiwtNT
+QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
+NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
+wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
+MDEzNTQwXX0=
 -->

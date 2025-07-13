@@ -233,7 +233,7 @@ Voilà de quoi assurer quelques heures de jeux !
 
 ### Des minuteurs anonymes
 
-Dans certains cas, il peut être intéressant de ne pas révéler la conséquence du minuteur dès sa création. Cela permet d’aller encore plus loin dans le suspense. Les joueurs vont se demander ce qui peut se passer et feront probablement des suppositions. La menace est là  mais elle ne se révélera qu’au dernier moment. À utiliser judicieusement car cela va à l’encontre  entre en contradiction avec le principe de visibilité avec l’objectif de visibilité...
+Dans certains cas, il peut être intéressant de ne pas révéler la conséquence du minuteur dès sa création. Cela permet d’aller encore plus loin dans le suspense. Les joueurs vont se demander ce qui peut se passer et feront probablement des suppositions. La menace est là  mais elle ne se révélera qu’au dernier moment. À utiliser judicieusement car cela entre en contradiction avec le principe de visibilité avec l’objectif de visibilité...
 
 ### Différentes mécaniques
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ1MTI2NTgsLTk5MTkzOTk5LDIxMT
-cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5
-NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMD
-YsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0
-MjkzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwOD
-QyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1Mzgs
-LTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTY2NjgyMDcwMiwtOTkxOTM5OTksMjExNz
+AwNDcyNSwyMDcwNjczMjgzLDE0MTc4NTYzNzgsLTIwNDYzMjk0
+ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NCwtMTIyMjQ5NjEwNi
+wtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQy
+OTM4NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4ND
+I1OSwtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwt
+MTcwMDEzNTQwXX0=
 -->

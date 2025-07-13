@@ -168,9 +168,9 @@ La présence d’un minuteur apporte déjà beaucoup aux sessions mais cela devi
 
 #### 2 minuteurs pour faire une compétition.
 
-Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un poursuivi, deux groupes qui essayent de s’attirer les faveurs d’une reine, etc… Dans ce cas, il est possible de suivre l’avancement des deux opposants à l’aide de deux minuteurs, une pour chaque camp. Le premier qui se résout indique le résultat de la compétition.
+Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un poursuivi, deux groupes qui essayent de s’attirer les faveurs d’une reine, *etc*… Dans ce cas, il est possible de suivre l’avancement des deux opposants à l’aide de deux minuteurs, une pour chaque camp. Le premier qui se résout indique le résultat de la compétition.
 
-Si les personnages tentent de semer les gardes de la ville qui les poursuivent, un minuteur représente la progression des personnages et l’autre des joueurs. Si le premier minuteur se termine avant le second, les personnages sont saufs. Dans le cas contraire, ils n’ont plus qu’a faire face à leurs poursuivants.
+Si les personnages tentent de semer les gardes de la ville qui les poursuivent, un minuteur représente la progression des personnages et l’autre des joueurs. Si le premier minuteur se termine avant le second, les personnages sont saufs. Dans le cas contraire, ils n’ont plus qu’à faire face à leurs poursuivants.
 
 #### Influence entre minuteur
 
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDE2Mjg5MywtOTkxOTM5OTksMjExNz
+eyJoaXN0b3J5IjpbMTQ4Nzk1Njk2MCwtOTkxOTM5OTksMjExNz
 AwNDcyNSwyMDcwNjczMjgzLDE0MTc4NTYzNzgsLTIwNDYzMjk0
 ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NCwtMTIyMjQ5NjEwNi
 wtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQy

@@ -240,10 +240,11 @@ Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n
 
 ## Conclusion
 
-Nous avons cherché dans ce travail à élaborer définir le coeur de ce qui compose les minuteurs narratif visant à mieux cerner la manière dont fonctionnent les minuteurs pour mettre au jour à la fois le mécanisme interne et bien huilé de ces horloges tout en ménageant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel. Les horloges narratives ont ceci de riche qu'elles répondent à une logique narrative (faire avancer l'action) tout en relevant d'un logique du jeu.
+Nous avons cherché dans ce travail à élaborer définir le coeur de ce qui compose les minuteurs narratif visant à mieux cerner la manière dont fonctionnent les minuteurs pour mettre au jour à la fois le mécanisme interne et bien huilé de ces minuteurs tout en ménageant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel. Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (faire avancer l'action) tout en relevant d'une logique du jeu.
 
--> on s'approche des mécanique des JDS
 
+mécanique générique
+approche JDS
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 
@@ -280,7 +281,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MTQ1OTMyLC0xMjIyNDk2MTA2LC01ND
+eyJoaXN0b3J5IjpbODM5NDQwMDE2LC0xMjIyNDk2MTA2LC01ND
 I0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0
 NjI1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC
 00NTA1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAw

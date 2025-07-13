@@ -152,7 +152,7 @@ On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque p
 
 ### Un renversement de situation
 
-Variante particulièrement intéressante car il s’agit de définir une condition supplémentaire dans la mécanique des minuteurs, de préférence rare, qui modifie substantiellement voire inverse le résultat initialement attendu lorsqu’elle celle-ci se produit.
+Le renversement de situation constitue une variante particulièrement intéressante car il s’agit de définir une condition supplémentaire dans la mécanique des minuteurs, de préférence rare, qui modifie substantiellement voire inverse le résultat initialement attendu lorsqu’elle celle-ci se produit.
 
 Dans ES, cela se produit si l’on trace le cinquième trait de la Spark et que, lorsqu’on lance le dé, on ne touche toujours pas un rayon (on fait 6 sur le dé). Dans ce cas, si ce renversement se produit et que la conséquence initiale est « Le dragon se réveille » on peut imaginer que les personnages se rendent finalement compte que le dragon était mort, ou bien que ce ne sont pas un mais deux dragons qui se réveillent ou encore que le dragon se réveille, mais qu'il a une attitude amicale. Bref, le renversement de situation introduit alors un principe de surprise en se soldant par une conséquence inattendue.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA4MzM0NTUsMjExNzAwNDcyNSwyMD
-cwNjczMjgzLDE0MTc4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2
-NzAyNzcsLTkzNDMzODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MT
-kyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwx
-MTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNT
-I2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQw
-XX0=
+eyJoaXN0b3J5IjpbLTk5MTkzOTk5LDIxMTcwMDQ3MjUsMjA3MD
+Y3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2Njcw
+Mjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5Mi
+wtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2
+ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNj
+k3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
+
 -->

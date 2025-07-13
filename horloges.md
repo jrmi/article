@@ -104,15 +104,15 @@ Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d
 
 | Situation fictionnelle | Conséquence narrative |  
 |:--|:--:|  
-| Un volcan est en train d’entrer en éruption, ce n’est qu’une question de temps avant que la lave ne jaillisse. | Le volcan entre en éruption |
-| Au loin, de gros nuages de sable annoncent une tempête. | La tempête de sable est sur nous |
-| La bataille bat son plein et des alliés sont attendus avec fébrilité. | Les alliés arrivent |
+| Un volcan est en train d’entrer en éruption, ce n’est qu’une question de temps avant que la lave ne jaillisse. | Le volcan entre en éruption. |
+| Au loin, de gros nuages de sable annoncent une tempête. | La tempête de sable est sur nous. |
+| La bataille bat son plein et des alliés sont attendus avec fébrilité. | Les alliés arrivent. |
 
 ### Choisir les déclencheurs
 
-Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage du temps dans la fiction, une action spécifique des joueurs ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début, il est possible d'attendre que ces conditions se produisent dans la fiction.
+Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage du temps dans la fiction, une action spécifique des joueurs ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début. Il est en effet possible d'attendre que ces conditions se produisent dans la fiction.
 
-Exemples de déclencheurs pour les conséquences décrites dans la section précédente.
+Exemples de déclencheurs pour les conséquences décrites dans la section précédente :
 
 | Conséquence narrative | Déclencheurs possibles  |
 |:--|:--|
@@ -282,10 +282,10 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTg4MTQ3NywyMDcwNjczMjgzLDE0MT
-c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
-ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
-g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00
-NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2Mj
-IxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTIwMTQzNjQzMzIsMjA3MDY3MzI4MywxND
+E3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQz
+Mzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MT
+U4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwt
+NDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1Nj
+IyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
 -->

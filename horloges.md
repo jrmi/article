@@ -139,13 +139,13 @@ Toutefois, veillez, sauf cas particulier, à rester dans une durée relativement
 
 Deux jeux ont une particularité concernant le système de résolution : la durée avant résolution des Sparks de ES et des pistes de IS (pour une difficulté donnée) ne sont pas prédéterminées. Dans le cas de ES, le jet de dés à chaque progression rend possible la résolution après seulement une étape ou bien au bout de cinq. Pour IS ce sont les joueurs qui décident de tenter une résolution quand ils pensent qu'ils ont suffisamment progressé et un jet de dés permettra de vérifier que la piste se termine ou non.
 
-Cette variante est intéressante  car elle rajoute de l’incertitude que les joueurs doivent prendre en compte dans leur stratégie. Tout en gardant le côté prédictible les choix deviennent plus risqués ce qui peut rendre les réussites ou les échecs plus héroïques.
+Cette variante rajoute de l’incertitude que les joueurs doivent prendre en compte dans leur stratégie. Tout en gardant le côté prédictible les choix deviennent plus risqués ce qui peut rendre les réussites ou les échecs plus héroïques.
 
 ### Des conséquences intermédiaires
 
 Pour le moment nous avons défini une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. 
 
-Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que la progression soit marqué par des étapes : des fumées se répandent dans le bâtiment forçant les personnages à progresser plus lentement, puis des gaz toxiques envahissent certaines salles rendant le cheminement plus complexe et dangereux.
+Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que la progression soit marquée par des étapes : des fumées se répandent dans le bâtiment forçant les personnages à progresser plus lentement, puis des gaz toxiques envahissent certaines salles rendant le cheminement plus complexe et dangereux.
 
 On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression augmentant les enjeux au fur et à mesure de la progression du minuteur.
 
@@ -159,13 +159,13 @@ Dans ES, cela se produit si l’on trace le cinquième trait de la Spark et que,
 
 ES, propose également des conditions pour que le minuteur recule au lieu de progresser ou même qu’il revienne à sa valeur initiale. Cela peut être la récompense d’une action particulièrement audacieuse d’un joueur ou bien défini dès la création du minuteur ou encore la conséquence de la résolution d’un autre minuteur.
 
-Par exemple, pour un minuteur qui représente l’évolution d’un incendie qui ravage une bibliothèque, on peut imaginer que si les joueurs appellent les pompiers, cela permet de reculer le minuteur d’un certain nombre de cran pour représenter le délais supplémentaire que les pompiers vont apporter avec leur intervention.
+Par exemple, pour un minuteur qui représente l’évolution d’un incendie qui ravage une bibliothèque, on peut imaginer que si les joueurs appellent les pompiers, cela permet de reculer le minuteur d’un certain nombre de cran pour représenter le délai supplémentaire que les pompiers vont apporter avec leur intervention.
 
 ### Combiner plusieurs minuteurs
 
 La présence d’un minuteur apporte déjà beaucoup aux sessions mais cela devient encore plus intéressant lorsque l’on combine plusieurs minuteurs ensemble.
 
-#### 2 minuteur pour faire une compétition.
+#### 2 minuteurs pour faire une compétition.
 
 Il est courant d’avoir deux forces qui s’opposent : un poursuivant et un poursuivi, deux groupes qui essayent de s’attirer les faveurs d’une reine, etc… Dans ce cas, il est possible de suivre l’avancement des deux opposants à l’aide de deux minuteurs, une pour chaque camp. Le premier qui se résout indique le résultat de la compétition.
 
@@ -281,7 +281,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI2NzYyNjQsLTEyMjI0OTYxMDYsLT
+eyJoaXN0b3J5IjpbLTE2Mzc5OTM4OTYsLTEyMjI0OTYxMDYsLT
 U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
 ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
 ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3

@@ -128,7 +128,7 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 
 ## Quelques variations pour enrichir les minuteurs
 
-En réalité les sections précédentes n'ont fait qu’effleurer les possibilités offertes par ce système simple en apparence mais extrêmement flexible. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus riches. Voici une liste, non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la tension narrative et/ou l'aspect ludique.
+En réalité, les sections précédentes n'ont fait qu’effleurer les possibilités offertes par ce système simple en apparence mais extrêmement flexible. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus riches. Voici une liste, non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la tension narrative et/ou l'aspect ludique.
 
 ### Des durées variables
 
@@ -282,10 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzAwNDcyNSwyMDcwNjczMjgzLDE0MT
-c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
-ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
-g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00
-NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2Mj
-IxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbMTMyOTIzNzQ5NywyMTE3MDA0NzI1LDIwNz
+A2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMyOTQ4MiwtMjA1NjY3
+MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MTA2LC01NDI0NDYxOT
+IsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0NjI1LDEx
+Njg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC00NTA1Mj
+Y5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMTM1NDBd
+fQ==
 -->

@@ -66,7 +66,7 @@ Il est important de noter que les minuteurs ne doivent pas nécessairement être
 
 ## L’utilisation en jeu des minuteurs
 
-Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Deux éléments permettent de définir chaque minuteur :
+Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Deux éléments sont nécessaire à la création de chaque minuteur :
 
 - la conséquence narrative activée par la résolution du minuteur
 - les conditions qui permettent de le faire progresser
@@ -283,11 +283,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQyMjgwMjQsMTM4NDU4MTUwOSwxNj
-UwMzg2Nzk2LC05OTE5Mzk5OSwyMTE3MDA0NzI1LDIwNzA2NzMy
-ODMsMTQxNzg1NjM3OCwtMjA0NjMyOTQ4MiwtMjA1NjY3MDI3Ny
-wtOTM0MzM4NTY0LC0xMjIyNDk2MTA2LC01NDI0NDYxOTIsLTEx
-Mjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0NjI1LDExNjg2MT
-Y4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC00NTA1MjY5NzEs
-LTE2NTYyMjExNzldfQ==
+eyJoaXN0b3J5IjpbMTI4OTU5NDYxMSwtMTIxNDIyODAyNCwxMz
+g0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMTcwMDQ3
+MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5NDgyLC
+0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMDYsLTU0
+MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzOD
+Q2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTks
+LTQ1MDUyNjk3MV19
 -->

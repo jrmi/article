@@ -1,6 +1,7 @@
 
 
 # Les minuteurs narratifs dans les JDR : comment mieux gérer la tension ?
+Titre à trouver
 
 *[AW]: Apocalypse World
 *[BD]: Blades in the dark  
@@ -281,9 +282,9 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY2NzAyNzcsLTkzNDMzODU2NCwtMT
-IyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQy
-MjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOT
-UsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2
-NDEwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLT
+kzNDMzODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5
+ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2OD
+AwLC00NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0x
+NjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

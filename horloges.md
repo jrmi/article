@@ -79,7 +79,7 @@ Cette conséquence est en général une phrase du type : « Le volcan entre en �
 
 Les conséquences peuvent être catégorisées en trois groupes selon la réaction qu'elles suscitent chez les joueurs : les Menaces (à éviter), les Opportunités (à atteindre) et les Fatalités (inévitables).
 
-Les **Menaces** représentent tous les événements indésirables auxquels les joueurs font face et qu'ils vont chercher à éviter ou, tout du moins, à ralentir. Chaque "menace" repose ainsi sur une tension entre un danger et les moyens de l'éviter :
+Les **Menaces** représentent tous les événements indésirables auxquels les joueurs font face et qu'ils vont chercher à éviter ou, tout du moins, à ralentir. Chaque Menace repose ainsi sur une tension entre un danger et les moyens de l'éviter :
 
 | Situation fictionnelle | Conséquence du minuteur |
 |:--|:--:|
@@ -283,11 +283,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTU5NDYxMSwtMTIxNDIyODAyNCwxMz
-g0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMTcwMDQ3
-MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5NDgyLC
-0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMDYsLTU0
-MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzOD
-Q2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTks
-LTQ1MDUyNjk3MV19
+eyJoaXN0b3J5IjpbLTIxMTQ5MTM5NzcsLTEyMTQyMjgwMjQsMT
+M4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OTE5Mzk5OSwyMTE3MDA0
+NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMyOTQ4Mi
+wtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MTA2LC01
+NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mz
+g0NjI1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5
+LC00NTA1MjY5NzFdfQ==
 -->

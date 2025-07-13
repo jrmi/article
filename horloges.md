@@ -205,12 +205,12 @@ La tête ne pourra être attaquée qu'à condition que les deux pinces soient ne
 
 #### Scénario à base de minuteurs
 
-Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
+Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude. On s'approche alors de ce que l'on pourrait trouver dans un jeux de société tout en restant dans le jeux de rôle.
 
 Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
 
-- « Réparer les navettes »
-- « Rassembler les survivants »
+- « Les navettes de secours sont fonctionnelles »
+- « Tous les survivants sont rassemblés »
 - « Le système de maintenance est piraté »
 - « Le réacteur explose »
 - « Il n'y a plus de d’énergie »
@@ -286,7 +286,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjEwMjM4NDcsLTEyMjI0OTYxMDYsLT
+eyJoaXN0b3J5IjpbLTEzMTQ3MjkzMDQsLTEyMjI0OTYxMDYsLT
 U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
 ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
 ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3

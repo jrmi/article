@@ -13,15 +13,13 @@ Pour donner un aperçu de ce concept en jeux de rôle, imaginons que les personn
 
 Dans cet exemple, on peut voir que le minuteur rend tangible l’approche de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui autrement n’auraient eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette transparence a pour objectif in fine d’améliorer l’expérience ludique des joueurs qui auront une meilleur visibilité sur la temporalité et la dynamique de ce qui se passe dans la fiction et donc un meilleur contrôle du résultat de leurs actions.
 
-Couramment utilisés dans les jeux de sociétés, et en particulier les jeux coopératifs comme *[L'ile interdite](https://fr.wikipedia.org/wiki/L%27%C3%AEle_interdite)* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits plus tard dans l’univers du jeu de rôle avec *[Apocalypse World](http://apocalypse-world.com/)* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *[Blades in the Dark](https://bladesinthedark.com/)* (BD) de John Harper qui raffine et systématise leur usage ou bien *[Ironsworn](https://tomkinpress.com/pages/ironsworn)* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *[Everspark](https://capacle.itch.io/everspark)*. Une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
+Couramment utilisés dans les jeux de sociétés, et en particulier les jeux coopératifs comme *[L'ile interdite](https://fr.wikipedia.org/wiki/L%27%C3%AEle_interdite)* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits plus récemment dans l’univers du jeu de rôle avec *[Apocalypse World](http://apocalypse-world.com/)* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *[Blades in the Dark](https://bladesinthedark.com/)* (BD) de John Harper qui raffine et systématise leur usage ou bien *[Ironsworn](https://tomkinpress.com/pages/ironsworn)* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *[Everspark](https://capacle.itch.io/everspark)*. Une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
 Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces quatre jeux afin de faciliter leur utilisation et adaptation à votre univers. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
 
 Avant de rentrer dans le vif du sujet et  si vous ne connaissez pas les 4 jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique pour vous faire une idée.
 
-Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. 
-
-Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes possibles pour rendre vos minuteurs encore plus riches.
+Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes possibles pour rendre vos minuteurs encore plus riches.
 
 ## La mécanique des minuteurs
 
@@ -284,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDEzNTU1NSwxMTY4NjE2ODAwLC00Nj
-Y4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2MjIx
-MTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTE5MzM4NzA3NjQsMTE2ODYxNjgwMCwtND
+Y2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIy
+MTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
 -->

@@ -16,11 +16,11 @@ A travers cet exemple, on peut voir que le minuteur apporte une plus-value par r
 
 Couramment utilisés dans les jeux de sociétés, et en particulier les jeux coopératifs comme *[L'Île interdite](https://fr.wikipedia.org/wiki/L%27%C3%AEle_interdite)* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus récemment dans l’univers du jeu de rôle avec *[Apocalypse World](http://apocalypse-world.com/)* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *[Blades in the Dark](https://bladesinthedark.com/)* (BD) de John Harper qui raffine et systématise leur usage ou bien *[Ironsworn](https://tomkinpress.com/pages/ironsworn)* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *[Everspark](https://capacle.itch.io/everspark)*. Ses réflexions constituent une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
-Ainsi, le présent article se veut proposer une analyse du fonctionnement des minuteurs à partir de l'étude de ces quatre jeux. La description des mécanismes a alors pour but d'en dégager les principales lignes de force afin de permettre d'intégrer et d'adapter ces minuteurs à n'importe quel univers. ~~En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.~~
+Ainsi, le présent article se veut proposer une analyse du fonctionnement des minuteurs à partir de l'étude de ces quatre jeux. La description des mécanismes a alors pour but d'en dégager les principales lignes de force afin de permettre d'intégrer et d'adapter ces minuteurs à n'importe quel univers.
 
 Si vous ne connaissez pas les quatre jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de leur minuteur.
 
-Si chacun de ces quatre jeux a développé sa propre approche des minuteurs, en optant pour des choix visuels et mécaniques différents, nous pouvons toutefois extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit leur représentation ainsi que leur mode de résolution. Nous nous pencherons ensuite sur leur utilisation pour définir, pour chaque minuteur, sa conséquence et ses déclencheurs. Enfin, nous envisagerons les multiples variantes proposées par les jeux pour rendre vos minuteurs encore plus riches et flexibles.
+Si chacun de ces quatre jeux a développé sa propre approche des minuteurs, en optant pour des choix visuels et mécaniques différents, nous pouvons toutefois extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit leur représentation ainsi que leur mode de résolution. Nous nous pencherons ensuite sur leur utilisation en définissant, pour chaque minuteur, sa conséquence et ses déclencheurs. Enfin, nous envisagerons les multiples variantes proposées par les jeux pour rendre vos minuteurs encore plus riches et flexibles.
 
 ## La mécanique des minuteurs
 
@@ -283,11 +283,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OT
-E5Mzk5OSwyMTE3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3
-OCwtMjA0NjMyOTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC
-0xMjIyNDk2MTA2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1
-NDIyNjkwNjgsNDI5Mzg0NjI1LDExNjg2MTY4MDAsLTQ2Njg3MT
-M5NSwxMzI0MDg0MjU5LC00NTA1MjY5NzEsLTE2NTYyMjExNzks
-NDY0MTA3NTM4XX0=
+eyJoaXN0b3J5IjpbLTEyMTQyMjgwMjQsMTM4NDU4MTUwOSwxNj
+UwMzg2Nzk2LC05OTE5Mzk5OSwyMTE3MDA0NzI1LDIwNzA2NzMy
+ODMsMTQxNzg1NjM3OCwtMjA0NjMyOTQ4MiwtMjA1NjY3MDI3Ny
+wtOTM0MzM4NTY0LC0xMjIyNDk2MTA2LC01NDI0NDYxOTIsLTEx
+Mjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0NjI1LDExNjg2MT
+Y4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC00NTA1MjY5NzEs
+LTE2NTYyMjExNzldfQ==
 -->

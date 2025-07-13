@@ -31,14 +31,14 @@ Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre qu
 
 ### Représenter la progression du minuteur
 
-Un des objectifs premier des minuteurs et de rendre visible pour les joueurs la progression d'une conséquence narrative, il est donc primordiale de définir sa représentation. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
+Un des objectifs premier des minuteurs et de rendre visible pour les joueurs la progression d'une conséquence narrative, il est donc primordial de définir sa représentation. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
 
 - Une horloge atomique avec 6 segments qu’on noircit au fur et à mesure (AW)
 - Un cercle découpé en 4, 6 ou 8 cadrans que l’on grise au fur et à mesure (BD)
 - Une piste linéaire de 10 cases que l’on coche (IS)
 - Une étoile à cinq branches. Une branche est dessinée à chaque progression (ES)
 
-D'autres représentations seraient tout à fait envisageable :
+D'autres représentations seraient tout à fait envisageables :
 
 - des jetons/pièces/cailloux disposés sur la table ou sur une carte que l’on enlève un par un, technique empruntée aux jeux de société
 - un chiffre sur un post-it que l’on barre pour écrire la nouvelle valeur
@@ -65,7 +65,7 @@ Il est important de noter que les minuteurs ne doivent pas nécessairement être
 
 ## L’utilisation en jeu des minuteurs
 
-Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Il est nécessaire de définir les deux éléments suivants pour chaque minuteurs :
+Une fois la mécanique définie, analysons désormais leur utilisation en jeu. Il est nécessaire de définir les deux éléments suivants pour chaque minuteur :
 
 - la conséquence narrative activée par la résolution du minuteur
 - les conditions qui permettent de le faire progresser
@@ -97,7 +97,7 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 
 Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « Les câbles du système central sont débranchés » n’apporte en effet que peu de possibilités d'action au regard de « Le serveur central est neutralisé », conséquence elle-même plus restrictive que « La sécurité du bâtiment est contournée »
 
-Comme ces Opportunités ont pour vocation, notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux même la création de leurs minuteurs.
+Comme ces Opportunités ont pour vocation, notamment de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux-même la création de leurs minuteurs.
 
 Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
 
@@ -281,7 +281,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDk2NTM1NSwtMTIyMjQ5NjEwNiwtNT
+eyJoaXN0b3J5IjpbMjEyMTk0OTIzMywtMTIyMjQ5NjEwNiwtNT
 QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
 NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
 wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw

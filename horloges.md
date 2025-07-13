@@ -99,7 +99,7 @@ Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne 
 
 Comme ces Opportunités ont notamment pour vocation de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux-même la création de leurs minuteurs.
 
-Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers le leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
+Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d’impact direct au travers de leurs actions : les **Fatalités**. Ce sont des événements inexorables qui se produiront quoi qu’il advienne. Les joueurs doivent juste faire en sorte de s'y préparer. À noter que ces événements peuvent être négatifs, neutres ou positifs pour les personnages :
 
 | Situation fictionnelle | Conséquence narrative |  
 |:--|:--:|  
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTgzODgyMCw2MjUzODE3MjUsMTcyMT
+eyJoaXN0b3J5IjpbMTk0MDg1ODA5Miw2MjUzODE3MjUsMTcyMT
 Y0OTc3NSw5MTE0ODUwNzYsLTQwMjE3MjIyNCwtMTIxNDIyODAy
 NCwxMzg0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMT
 cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5

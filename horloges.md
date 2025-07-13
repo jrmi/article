@@ -13,7 +13,7 @@ Pour donner un aperçu de ce concept en jeu de rôle, imaginons que les personna
 
 A travers cet exemple, on peut voir que le minuteur apporte une plus-value par rapport à la simple narration. En effet, il rend tangible l’approche de la menace, à savoir la découverte des personnages par les gardes du manoir. Lorsqu'un joueur décide de forcer la porte, faisant alors du bruit qui se concrétise par la perte d'un jeton, le minuteur permet ici de refléter les conséquences d'un choix (privilégier la force plutôt que la délicatesse pour ouvrir la porte) qui, autrement, n’aurait eu qu’un effet narratif. Cette matérialisation concrète sur la table de jeu par la progression du minuteur offre une meilleure visibilité sur la temporalité et la dynamique de ce qui se passe dans la fiction et, ainsi, une meilleure évaluation des conséquences des choix des joueurs.
 
-Couramment utilisés dans les jeux de sociétés, et en particulier les jeux coopératifs comme *[L'Île interdite](https://fr.wikipedia.org/wiki/L%27%C3%AEle_interdite)* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus récemment dans l’univers du jeu de rôle avec *[Apocalypse World](http://apocalypse-world.com/)* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *[Blades in the Dark](https://bladesinthedark.com/)* (BD) de John Harper qui raffine et systématise leur usage ou bien *[Ironsworn](https://tomkinpress.com/pages/ironsworn)* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *[Everspark](https://capacle.itch.io/everspark)*. Ses réflexions constituent une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
+Couramment utilisés dans les jeux de sociétés, et en particulier les jeux coopératifs comme *[L'Île interdite](https://fr.wikipedia.org/wiki/L%27%C3%AEle_interdite)* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs n'ont été introduits que plus récemment dans l’univers du jeu de rôle avec *[Apocalypse World](http://apocalypse-world.com/)* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *[Blades in the Dark](https://bladesinthedark.com/)* (BD) de John Harper qui raffine et systématise leur usage ou bien *[Ironsworn](https://tomkinpress.com/pages/ironsworn)* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle ne consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *[Everspark](https://capacle.itch.io/everspark)*. Ses réflexions constituent une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
 Ainsi, le présent article se veut proposer une analyse du fonctionnement des minuteurs à partir de l'étude de ces quatre jeux. La description des mécanismes a alors pour but d'en dégager les principales lignes de force afin de permettre d'intégrer et d'adapter ces minuteurs à n'importe quel univers.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTY0OTc3NSw5MTE0ODUwNzYsLTQwMj
-E3MjIyNCwtMTIxNDIyODAyNCwxMzg0NTgxNTA5LDE2NTAzODY3
-OTYsLTk5MTkzOTk5LDIxMTcwMDQ3MjUsMjA3MDY3MzI4MywxND
-E3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQz
-Mzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MT
-U4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwt
-NDY2ODcxMzk1XX0=
+eyJoaXN0b3J5IjpbNjI1MzgxNzI1LDE3MjE2NDk3NzUsOTExND
+g1MDc2LC00MDIxNzIyMjQsLTEyMTQyMjgwMjQsMTM4NDU4MTUw
+OSwxNjUwMzg2Nzk2LC05OTE5Mzk5OSwyMTE3MDA0NzI1LDIwNz
+A2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMyOTQ4MiwtMjA1NjY3
+MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MTA2LC01NDI0NDYxOT
+IsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0NjI1LDEx
+Njg2MTY4MDBdfQ==
 -->

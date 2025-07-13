@@ -137,7 +137,7 @@ Toutefois, veillez, sauf cas particulier, à rester dans une durée relativement
 
 ### Des durées aléatoires
 
-Deux jeux ont une particularité concernant le système de résolution : la durée des Sparks de ES et des pistes de IS (pour une difficulté donnée) ne sont pas prédéterminées. Dans le cas de ES, le jet de dés à chaque progression rend possible la résolution après seulement une étape ou bien au bout de cinq. Pour IS ce sont les joueurs qui décident de tenter une résolution.
+Deux jeux ont une particularité concernant le système de résolution : la durée avant résolution des Sparks de ES et des pistes de IS (pour une difficulté donnée) ne sont pas prédéterminées. Dans le cas de ES, le jet de dés à chaque progression rend possible la résolution après seulement une étape ou bien au bout de cinq. Pour IS ce sont les joueurs qui décident de tenter une résolution quand ils pensent qu'ils ont suffisamment progressé et un jet de dés permettra de vérifier que la piste se termine ou non.
 
 Cette variante est intéressante  car elle rajoute de l’incertitude que les joueurs doivent prendre en compte dans leur stratégie. Tout en gardant le côté prédictible les choix deviennent plus risqués ce qui peut rendre les réussites ou les échecs plus héroïques.
 
@@ -282,8 +282,8 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsND
-I5Mzg0NjI1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0
-MjU5LC00NTA1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC
-0xNzAwMTM1NDBdfQ==
+eyJoaXN0b3J5IjpbLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMT
+U0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcx
+Mzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OS
+w0NjQxMDc1MzgsLTE3MDAxMzU0MF19
 -->

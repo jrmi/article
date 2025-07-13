@@ -242,8 +242,11 @@ Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n
 
 Nous avons cherché dans ce travail à définir ce qui compose le cœur des minuteurs narratif visant à mieux cerner la manière dont fonctionnent ceux-ci pour mettre au jour à la fois le mécanisme interne tout en ménageant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel par le biais de ces minuteurs. 
 
-Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (faire état de la situation) tout en relevant d'une logique du jeu (faire avancer la situation). Ils ont également une grande flexibilité qui leur permettra d'être convoqués dans des situations très diverses, que ce soit pour compléter un système de règles très riches ou pour représenter to
-L'introduction des minuteurs narratifs ammenent
+Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (faire état de la situation) tout en relevant d'une logique du jeu (faire avancer la situation). Ils ont également une grande flexibilité qui leur permettra d'être convoqués dans des situations très diverses, que ce soit pour compléter un système de règles très riches ou pour représenter tous les situations complexe dans un système de jeu très léger. 
+
+De plus ces minuteurs ont montrés leur efficacité aussi bien en jeux avec meneur qu'en jeu en coopératif et en jeu solo.
+
+Ces minuteurs agissent un peu comme 
 
 On s'approche alors de ce que l'on pourrait trouver dans un jeux de société tout en restant dans le jeux de rôle.
 mécanique générique
@@ -286,7 +289,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MjMwODUyLC0xMjIyNDk2MTA2LC01ND
+eyJoaXN0b3J5IjpbMzc5Mzc1NDUxLC0xMjIyNDk2MTA2LC01ND
 I0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0
 NjI1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC
 00NTA1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAw

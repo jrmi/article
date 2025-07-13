@@ -255,7 +255,7 @@ L’horloge avance d’un segment à chaque fois que les conditions définies pa
 
 Dans **Blades in the Dark**, les minuteurs se nomment « horloges de progression » (progress clock) (mettre le nom en anglais et traduire entre parenthèses ?) et sont représentées par des cercles divisés en 4, 6 ou 8 cadrans.
 
-![Blades in the dark](https://github.com/jrmi/article/blob/master/progress-clocks-v.png?raw=true)
+![Blades in the dark](https://raw.githubusercontent.com/jrmi/article/refs/heads/master/progress-clocks-v.png)
 
 Elles avancent d’un cadran à chaque fois que la narration ou les actions des joueurs le justifient. Le nombre de cadrans dépend de la complexité du problème représenté. On marque le progrès en noircissant un cadran, et l’horloge de progression est terminée lorsque tous les cadrans ont été noircis quand on a noirci tous les cadrans. Elles permettent notamment de suivre la progression d’un effort contre un obstacle narratif ou bien d’afficher la progression de l’approche d’un problème.
 
@@ -263,7 +263,7 @@ Elles avancent d’un cadran à chaque fois que la narration ou les actions des 
 
 Dans **Ironsworn**, les pistes de progrès sont associées à des objectifs que le ou les joueurs se sont donnés (les vœux de fer). Elles sont représentées par une suite de 10 cases que l’on va cocher à chaque fois que la fiction le justifie.
 
-![enter image description here](https://github.com/jrmi/article/blob/master/progressTrck-v2.png?raw=true)
+![Ironsworn](https://raw.githubusercontent.com/jrmi/article/refs/heads/master/progressTrck-v2.png)
 
 En fonction de la difficulté de la tâche, le remplissage de la piste sera plus ou moins rapide. Quand les joueurs le décident, ils peuvent tester vérifier si la tâche est accomplie en comparant un jet de dés à 10 faces avec la valeur actuelle de la piste. En cas de succès, la piste est résolue et l’événement associé également. Dans le cas contraire, elle est remise à zéro, car la difficulté de la tâche s’est révélée sous-estimée.
 
@@ -271,18 +271,18 @@ En fonction de la difficulté de la tâche, le remplissage de la piste sera plus
 
 Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par des étoiles à 5 branches sur une note auto-collante. Elles sont utilisées dans de très nombreuses situations : obstacle, menace, ressource, compétition, amélioration des personnages…
 
-![enter image description here](https://github.com/jrmi/article/blob/master/spark.png?raw=true)
+![Spark](https://raw.githubusercontent.com/jrmi/article/refs/heads/master/spark.png)
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MDUxODYyLDEwMjYzMzYxNzksNjI1Mz
-gxNzI1LDE3MjE2NDk3NzUsOTExNDg1MDc2LC00MDIxNzIyMjQs
-LTEyMTQyMjgwMjQsMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OT
-E5Mzk5OSwyMTE3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3
-OCwtMjA0NjMyOTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC
-0xMjIyNDk2MTA2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1
-NDIyNjkwNjhdfQ==
+eyJoaXN0b3J5IjpbMTQ1MzY0OTE2Myw3MjUwNTE4NjIsMTAyNj
+MzNjE3OSw2MjUzODE3MjUsMTcyMTY0OTc3NSw5MTE0ODUwNzYs
+LTQwMjE3MjIyNCwtMTIxNDIyODAyNCwxMzg0NTgxNTA5LDE2NT
+AzODY3OTYsLTk5MTkzOTk5LDIxMTcwMDQ3MjUsMjA3MDY3MzI4
+MywxNDE3ODU2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC
+05MzQzMzg1NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEy
+OTg0MTU4NV19
 -->

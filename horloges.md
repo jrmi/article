@@ -10,7 +10,7 @@ Titre à trouver
 
 N’êtes-vous jamais restés en haleine lors d’une scène où la caméra se focalise sur le minuteur d’une bombe sur le point d’exploser ? Que ressentez-vous ? La respiration s'accélère et la tension augmente. Cette technique cinématographique, qui a pour objectif de tenir le spectateur en haleine en matérialisant visuellement l’escalade de la tension, trouve son équivalent dans l’univers du jeu de rôle sous la forme des minuteurs narratifs.[^1] 
 
-Pour donner un aperçu de ce concept en jeu de rôle, imaginons que les personnages des joueurs tentent de s’infiltrer discrètement dans un manoir gardé. Vous créez alors un minuteur « Les gardes vous surprennent » qui commence avec 8 jetons.  Chaque fois qu’un joueur rate un jet de discrétion, un jeton est retiré. Quand un joueur décide de forcer une serrure plutôt que de chercher la clé, cela génère évidemment du bruit : un jeton de moins. Quand il ne reste plus que trois jetons, on entend des voix qui se rapprochent. À un jeton, un garde commence à faire sa ronde dans leur direction. Quand tous les jetons sont retirés, les personnages sont découverts et doivent fuir au plus vite.
+Pour donner un aperçu de ce concept en jeu de rôle, imaginons que les personnages des joueurs tentent de s’infiltrer discrètement dans un manoir gardé. Vous créez alors un minuteur « Les gardes vous surprennent » qui commence avec 8 jetons.  Chaque fois qu’un joueur rate un jet de discrétion, un jeton est retiré. Quand un joueur décide d'enfoncer une porte plutôt que d'en chercher la clé, cela génère évidemment davantage de bruit : un jeton de moins. Quand il ne reste plus que trois jetons, on entend des voix qui se rapprochent. À un jeton, un garde commence à faire sa ronde dans leur direction. Quand tous les jetons sont retirés, les personnages sont découverts et doivent fuir au plus vite.
 
 A travers cet exemple, on peut voir que le minuteur rend tangible l’approche de la menace, à savoir la découverte des personnages par les gardes du manoir.  Il permet également de refléter les conséquences de certains choix qui, autrement, n’auraient eu qu’un effet narratif, comme le fait de privilégier la force plutôt que la délicatesse pour ouvrir la porte. Cette transparence a pour objectif *in fine* d’améliorer l’expérience ludique des joueurs qui auront une meilleure visibilité sur la temporalité et la dynamique de ce qui se passe dans la fiction et donc un meilleur contrôle du résultat de leurs actions.
 
@@ -282,10 +282,10 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzg1NjM3OCwtMjA0NjMyOTQ4MiwtMj
-A1NjY3MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MTA2LC01NDI0
-NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0Nj
-I1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC00
-NTA1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAwMT
-M1NDBdfQ==
+eyJoaXN0b3J5IjpbNzY4NTgxOTEzLDE0MTc4NTYzNzgsLTIwND
+YzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NCwtMTIyMjQ5
+NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MD
+Y4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMy
+NDA4NDI1OSwtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNz
+UzOCwtMTcwMDEzNTQwXX0=
 -->

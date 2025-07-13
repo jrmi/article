@@ -173,7 +173,7 @@ Si les personnages tentent de semer les gardes de la ville qui les poursuivent, 
 
 #### Influence entre minuteur
 
-Comme vu précédemment, on peut imaginer que la résolution d’un minuteur influence la progression d’un autre, par exemple une remise à zéro ou encore l’excès de progression d’un minuteur peut “déborder” sur un autre minuteur. Un minuteur peut également avoir des conséquences intermédiaires, changer le rythme ou générer d’autres minuteurs.
+Comme vu précédemment, on peut imaginer que la résolution d’un minuteur influence la progression d’un autre, par exemple une remise à zéro ou encore l’excès de progression d’un minuteur peut « déborder » sur un autre minuteur. Un minuteur peut également avoir des conséquences intermédiaires qui vont changer le rythme ou générer d’autres minuteurs.
 
 Imaginons trois minuteurs pour représenter le siège d’une ville par des pillards :
 
@@ -286,8 +286,9 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMT
-EyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYx
-NjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MS
-wtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbMTQzNTU1NTE1NSwtMTIyMjQ5NjEwNiwtNT
+QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
+NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
+wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
+MDEzNTQwXX0=
 -->

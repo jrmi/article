@@ -20,7 +20,7 @@ Ainsi, le présent article se veut proposer une analyse du fonctionnement des mi
 
 Si vous ne connaissez pas les quatre jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de leur minuteur.
 
-Si chacun de ces quatre jeux a développé sa propre approche des minuteurs, en optant pour des choix visuels et mécaniques différents, nous pouvons toutefois extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit l représentation et le mode de résolution d’un minuteur. Nous nous pencherons ensuite sur leur utilisation pour définir, pour chaque minuteur, sa conséquence et ses déclencheurs. Enfin, nous examinerons les multiples variantes proposées par les jeux pour rendre vos minuteurs encore plus riches.
+Si chacun de ces quatre jeux a développé sa propre approche des minuteurs, en optant pour des choix visuels et mécaniques différents, nous pouvons toutefois extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit leur représentation ainsi que leur mode de résolution. Nous nous pencherons ensuite sur leur utilisation pour définir, pour chaque minuteur, sa conséquence et ses déclencheurs. Enfin, nous envisagerons les multiples variantes proposées par les jeux pour rendre vos minuteurs encore plus riches et flexibles.
 
 ## La mécanique des minuteurs
 
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzA1NDIyNCwyMDcwNjczMjgzLDE0MT
+eyJoaXN0b3J5IjpbMTgwODYxMDkyMiwyMDcwNjczMjgzLDE0MT
 c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
 ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
 g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00

@@ -241,7 +241,7 @@ Pour le moment, nous avons parlé d’une seule mécanique de minuteurs mais rie
 
 ## Conclusion
 
-Nous avons cherché dans cet article à définir ce qui compose le cœur des minuteurs narratifs visant à mieux cerner leur fonctionnement interne tout en préservant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux s'immerger dans l'univers fictionnel. Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (représenter la situation) tout en relevant d'une logique ludique (faire progresser l'action) créant ainsi un pont entre le jeu de rôle et le jeu de société.
+Nous avons cherché dans cet article à définir ce qui compose le cœur des minuteurs narratifs et ce afin de mieux cerner leur fonctionnement interne. Nous avons également mis en avant les espaces de liberté et de créativité qui permettront aux joueurs de mieux s'immerger dans l'univers fictionnel. Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (représenter la situation) tout en relevant d'une logique ludique (faire progresser l'action) créant ainsi un pont entre le jeu de rôle et le jeu de société.
 
 Leur grande adaptabilité leur permet d'intervenir dans des contextes variés : compléter un système de règles complexe ou gérer des situations élaborées dans un système épuré et cela aussi bien avec meneur de jeu qu'en mode coopératif ou en solo.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDM4Njc5NiwtOTkxOTM5OTksMjExNz
-AwNDcyNSwyMDcwNjczMjgzLDE0MTc4NTYzNzgsLTIwNDYzMjk0
-ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NCwtMTIyMjQ5NjEwNi
-wtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQy
-OTM4NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4ND
-I1OSwtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwt
-MTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbNTczNDQwNDU3LDE2NTAzODY3OTYsLTk5MT
+kzOTk5LDIxMTcwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4
+LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLT
+EyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0
+MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMz
+k1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0
+NjQxMDc1MzhdfQ==
 -->

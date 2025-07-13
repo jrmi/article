@@ -109,7 +109,7 @@ Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d
 
 ### Choisir les déclencheurs
 
-Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage du temps dans la fiction, une action spécifique des joueurs ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début, il est possible d'attendre que ces conditions se produisent dans la fictions.
+Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage du temps dans la fiction, une action spécifique des joueurs ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début, il est possible d'attendre que ces conditions se produisent dans la fiction.
 
 Exemples de déclencheurs pour les conséquences décrites dans la section précédente.
 
@@ -281,7 +281,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTk0OTIzMywtMTIyMjQ5NjEwNiwtNT
+eyJoaXN0b3J5IjpbLTUyODkzNDYwNCwtMTIyMjQ5NjEwNiwtNT
 QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
 NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
 wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw

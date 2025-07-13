@@ -16,9 +16,9 @@ A travers cet exemple, on peut voir que le minuteur apporte une plus-value par r
 
 Couramment utilisés dans les jeux de sociétés, et en particulier les jeux coopératifs comme *[L'Île interdite](https://fr.wikipedia.org/wiki/L%27%C3%AEle_interdite)* de Matt Leacock dans lesquels ils représentent souvent l’adversité ou l’ennemi à vaincre, ces minuteurs ne sont introduits que plus récemment dans l’univers du jeu de rôle avec *[Apocalypse World](http://apocalypse-world.com/)* (AW) de Vincent Baker.  Ils seront ensuite perfectionnés par d’autres jeux tels que *[Blades in the Dark](https://bladesinthedark.com/)* (BD) de John Harper qui raffine et systématise leur usage ou bien *[Ironsworn](https://tomkinpress.com/pages/ironsworn)* (IS) de Shawn Tomkin qui exploite leur flexibilité dans le jeu de rôle en solo et en coopératif. Plus récemment, Cezar Capacle consacre pas moins d'une centaine de pages à détailler le fonctionnement et l'utilisation des minuteurs dans son jeu *[Everspark](https://capacle.itch.io/everspark)*. Ses réflexions constituent une véritable mine de conseils et d'exemples pour ceux qui veulent aller plus loin.
 
-Ainsi, le présent article se veut proposer une analyse du fonctionnement des minuteurs à partir de l'étude de ces quatre jeux. La description des mécanismes a pour but d'en dégager les principales lignes de force afin de permettre d'adapter les minuteurs à n'importe quel univers. En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.
+Ainsi, le présent article se veut proposer une analyse du fonctionnement des minuteurs à partir de l'étude de ces quatre jeux. La description des mécanismes a alors pour but d'en dégager les principales lignes de force afin de permettre d'intégrer et d'adapter ces minuteurs à n'importe quel univers. ~~En effet, même si un jeu de rôle ne formalise pas explicitement cette mécanique, elle peut facilement y être intégrée.~~
 
-Avant de rentrer dans le vif du sujet et si vous ne connaissez pas les 4 jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique pour vous faire une idée.
+Si vous ne connaissez pas les 4 jeux cités, n'hésitez pas à aller consulter en annexe leur description succinctee.
 
 Chacun de ces quatre jeux a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes proposées par les jeux pour rendre vos minuteurs encore plus riches.
 
@@ -282,10 +282,10 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMD
-Q2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0
-OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OT
-A2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEz
-MjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMD
-c1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTk5NzYyMzQsMjA3MDY3MzI4MywxNDE3OD
+U2Mzc4LC0yMDQ2MzI5NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1
+NjQsLTEyMjI0OTYxMDYsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NS
+wtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwtNDY2
+ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMT
+E3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
 -->

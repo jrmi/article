@@ -111,7 +111,7 @@ Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d
 
 Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage du temps dans la fiction, une action spécifique des joueurs ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début. Il est en effet possible d'attendre que ces conditions se produisent dans la fiction.
 
-Exemples de déclencheurs pour les conséquences décrites dans la section précédente :
+Voici quelques exemples de déclencheurs pour les conséquences décrites dans la section précédente :
 
 | Conséquence narrative | Déclencheurs possibles  |
 |:--|:--|
@@ -125,7 +125,7 @@ Exemples de déclencheurs pour les conséquences décrites dans la section préc
 | La tempête de sable est sur nous | Toutes les dix minutes de jeu réel. |
 | Les renforts alliés arrivent | Après chaque événement marquant de la bataille. |
 
-## Quelques variations pour enrichir les minuteurs
+## Propositions de variations pour enrichir les minuteurs
 
 En réalité, les sections précédentes n'ont fait qu’effleurer les possibilités offertes par ce système simple en apparence mais extrêmement flexible. Certains des jeux étudiés proposent des améliorations afin de rendre les minuteurs encore plus riches. Voici une liste non exhaustive de variantes que vous pouvez adopter afin d’augmenter davantage la tension narrative et/ou l'aspect ludique.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMDY2MjYzLDYyNTM4MTcyNSwxNzIxNj
-Q5Nzc1LDkxMTQ4NTA3NiwtNDAyMTcyMjI0LC0xMjE0MjI4MDI0
-LDEzODQ1ODE1MDksMTY1MDM4Njc5NiwtOTkxOTM5OTksMjExNz
-AwNDcyNSwyMDcwNjczMjgzLDE0MTc4NTYzNzgsLTIwNDYzMjk0
-ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NCwtMTIyMjQ5NjEwNi
-wtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQy
-OTM4NDYyNV19
+eyJoaXN0b3J5IjpbLTIwNDU4NTQyODMsNjI1MzgxNzI1LDE3Mj
+E2NDk3NzUsOTExNDg1MDc2LC00MDIxNzIyMjQsLTEyMTQyMjgw
+MjQsMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OTE5Mzk5OSwyMT
+E3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMy
+OTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MT
+A2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgs
+NDI5Mzg0NjI1XX0=
 -->

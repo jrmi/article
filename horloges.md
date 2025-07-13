@@ -48,7 +48,7 @@ D'autres représentations seraient du reste tout à fait envisageables :
 - un paquet de cartes qui contient une carte de fin que l’on place au hasard dans le paquet
 - …
 
-En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de faire briller l’univers du jeu. Le jeu d’horreur *[Dread](https://www.tiltingatwindmills.net/games/dread/)* de Epidiah Ravachol propose une idée tout à fait originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple que le minuteur est utilisé pour renforcer l'immersion des joueurs dans la fiction.
+En fait, se joue ici l’aspect le plus créatif et le plus libre des minuteurs. Choisir la représentation de son minuteur est l'occasion de mettre en valeur l’univers du jeu. Le jeu d’horreur *[Dread](https://www.tiltingatwindmills.net/games/dread/)* de Epidiah Ravachol propose une idée tout à fait originale : il invite les joueurs à reprendre une tour de Jenga® dont on doit enlever au fur et à mesure les pièces pour réussir des actions. Quand la tour s’effondre, un personnage doit mourir. L’instabilité de la tour reflète ainsi l’inconfort des personnages dans la fiction et l’imminence de la catastrophe. Il est intéressant de noter dans cet exemple que le minuteur est utilisé pour renforcer l'immersion des joueurs dans la fiction.
 
 De manière générale, n'hésitez pas à aller chercher du côté de vos jeux de société ou jeux vidéo favoris afin d'en extraire tout ce qui ressemble à un minuteur qui pourrait être utilisé pour votre jeu.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY4Njg1NDMsNjI1MzgxNzI1LDE3Mj
-E2NDk3NzUsOTExNDg1MDc2LC00MDIxNzIyMjQsLTEyMTQyMjgw
-MjQsMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OTE5Mzk5OSwyMT
-E3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMy
-OTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MT
-A2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgs
-NDI5Mzg0NjI1XX0=
+eyJoaXN0b3J5IjpbLTY5Mjg0NzY0Nyw2MjUzODE3MjUsMTcyMT
+Y0OTc3NSw5MTE0ODUwNzYsLTQwMjE3MjIyNCwtMTIxNDIyODAy
+NCwxMzg0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMT
+cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5
+NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMD
+YsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0
+MjkzODQ2MjVdfQ==
 -->

@@ -143,7 +143,13 @@ Cette variante est intéressante  car elle rajoute de l’incertitude que les jo
 
 ### Des conséquences intermédiaires
 
-Pour le moment nous avons définit une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. Par exemple, si une bâtisse est en train de s’effondrer, on peut imaginer que l'effondrement soit marqué par des étapes : des morceaux de murs tombent, les aventuriers doivent les éviter.  On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression rendant la situation de plus en plus complexe au fur et à mesure de la progression du minuteur.
+Pour le moment nous avons définit une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. 
+
+« L'explosion détruit le laboratoire » peut progresser par étapes : d'abord les alarmes se déclenchent, puis les conduits de vapeur éclatent, ensuite les machines surchauffent, et enfin la réaction en chaîne commence.
+
+Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que l'effondrement soit marqué par des étapes : les alarmes se déclenchent, puis les systèmes d'é
+
+On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression rendant la situation de plus en plus complexe au fur et à mesure de la progression du minuteur.
 
 ### Un renversement de situation
 
@@ -282,8 +288,8 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMT
-U0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcx
-Mzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OS
-w0NjQxMDc1MzgsLTE3MDAxMzU0MF19
+eyJoaXN0b3J5IjpbLTUxNTQ1ODc4NywtNTQyNDQ2MTkyLC0xMT
+I5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2
+ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC
+0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
 -->

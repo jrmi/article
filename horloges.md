@@ -242,13 +242,7 @@ Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n
 
 Nous avons cherché dans ce travail à définir ce qui compose le cœur des minuteurs narratifs visant à mieux cerner leur fonctionnement interne tout en préservant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux s'immerger dans l'univers fictionnel. Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (représenter la situation) tout en relevant d'une logique ludique (faire progresser l'action) créant ainsi un pont entre le jeu de rôle et le jeu de société.
 
-
-Leur grande adaptabilité leur permet d'intervenir dans des contextes variés : compléter un système de règles complexe ou gérer des situations élaborées dans un système épuré et cela aussi bien avec meneur qu'en mode coopératif ou solo.
-
-
-
-[^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
-
+Leur grande adaptabilité leur permet d'intervenir dans des contextes variés : compléter un système de règles complexe ou gérer des situations élaborées dans un système épuré et cela aussi bien avec meneur de jeu qu'en mode coopératif ou en solo.
 
 ## Annexes
 
@@ -283,10 +277,13 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 ![enter image description here](https://github.com/jrmi/article/blob/master/spark.png?raw=true)
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
+
+
+[^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjI2MDQ2OCwtMTIyMjQ5NjEwNiwtNT
-QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
-NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
-wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
-MDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTEyNDIwMjUxNDQsLTEyMjI0OTYxMDYsLT
+U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
+ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
+ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3
+MDAxMzU0MF19
 -->

@@ -83,16 +83,16 @@ Les **Menaces** représentent tous les événements indésirables auxquels les j
 
 | Situation fictionnelle | Conséquence du minuteur |
 |:--|:--:|
-| Les personnages sont en présence d'un dragon endormi qui menace de se réveiller à chaque instant. | Le dragon se réveille |
-| La coque du vaisseau vient d'être percée par un astéroïde et la cabine est dépressurisée. Il faut colmater la fuite et rétablir la pression en gaspillant le moins possible l’oxygène des combinaisons. | Plus d’oxygène |
-| Le groupe possède une trousse de premiers soins mais elle ne pourra soigner qu'un nombre limité de blessures. | La trousse de premiers soins est vide |
+| Les personnages sont en présence d'un dragon endormi qui menace de se réveiller à chaque instant. | Le dragon se réveille. |
+| La coque du vaisseau vient d'être percée par un astéroïde et la cabine est dépressurisée. Il faut colmater la fuite et rétablir la pression en gaspillant le moins possible l’oxygène des combinaisons. | Plus d’oxygène. |
+| Le groupe possède une trousse de premiers soins mais elle ne pourra soigner qu'un nombre limité de blessures. | La trousse de premiers soins est vide. |
  
-Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Elles peuvent recouvrir le franchissement d'obstacles /  d'ennemis, des actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou pour le groupe.
+Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Elles peuvent recouvrir le franchissement **d'obstacles /  d'ennemis, d**es actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou pour le groupe.
 
 
 | Situation fictionnelle | Conséquence narrative |
 |:--|:--:|
-| Les personnages doivent combattre un dragon afin de continuer leur quête. | Le dragon est vaincu |
+| Les personnages doivent combattre un dragon afin de continuer leur quête. | Le dragon est vaincu. |
 | Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé |  
 | Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers | J'ai appris le sort de soin  |
 
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODUyODkzOSwyMDcwNjczMjgzLDE0MT
+eyJoaXN0b3J5IjpbMTMzODAyMzE5OSwyMDcwNjczMjgzLDE0MT
 c4NTYzNzgsLTIwNDYzMjk0ODIsLTIwNTY2NzAyNzcsLTkzNDMz
 ODU2NCwtMTIyMjQ5NjEwNiwtNTQyNDQ2MTkyLC0xMTI5ODQxNT
 g1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2ODAwLC00

@@ -248,7 +248,7 @@ Nous avons cherché dans cet article à disséquer les minuteurs narratifs et ce
 
 ## Annexes
 
-Voici une description simplifiée des différentes horloges des jeux mentionnés dans cet article. Je vous renvoie bien évidement à la lecture des œuvres associées pour une description complète.
+Voici une description simplifiée des différentes horloges des jeux mentionnés dans cet article. Je vous renvoie bien évidement à la lecture des œuvres associées pour une description plus complète.
 
 Dans **Apocalypse World**, il s’agit d’une horloge dite « atomique », héritage direct de la guerre froide. Elle contient 4 segments mais le dernier segment est divisé en 3, ce qui donne 6 segments au total.
 
@@ -283,7 +283,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDkzNDQxMSwxNjUwMzg2Nzk2LC05OT
+eyJoaXN0b3J5IjpbMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OT
 E5Mzk5OSwyMTE3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3
 OCwtMjA0NjMyOTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC
 0xMjIyNDk2MTA2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1

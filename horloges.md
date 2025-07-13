@@ -109,7 +109,7 @@ Pour finir, il existe des événements sur lesquels les joueurs n’auront pas d
 
 ### Choisir les déclencheurs
 
-Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage du temps dans la fiction, une action spécifique des joueurs ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début.
+Pour chaque minuteur, il faut veiller à définir au moins une condition qui va déclencher son évolution. Cela peut être un événement purement narratif récurrent comme le passage du temps dans la fiction, une action spécifique des joueurs ou encore une mécanique du système de jeu comme les réussites ou échecs aux tests de compétences. Il n’y a pas véritablement de limite à ce qui peut déclencher l’évolution d’un minuteur. Il n’est pas forcément nécessaire de définir explicitement tous les déclencheurs dès le début, il est possible d'attendre que ces conditions se produisent dans la fictions.
 
 Exemples de déclencheurs pour les conséquences décrites dans la section précédente.
 
@@ -282,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTM4OTMxNCwtMTU0MjI2OTA2OCw0Mj
+eyJoaXN0b3J5IjpbMTc0NjcyMzY2MywtMTU0MjI2OTA2OCw0Mj
 kzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQy
 NTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLT
 E3MDAxMzU0MF19

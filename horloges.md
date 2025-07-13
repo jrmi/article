@@ -217,26 +217,26 @@ Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spati
 
 Une fois les navettes réparées et les survivants rassemblés, il devient possible de résoudre les minuteurs suivants :
 
-- « Décollage coordonnée réussie »
+- « Décollage coordonné réussi »
 - « Mise en orbite autours de la planète »
 
 Plus on rassemble de survivants, plus il devient facile de faire progresser la réparation des navettes.
 
 Si le système de maintenance est piraté, Le minuteur du réacteur est reculé car les droids de maintenance vont refroidir le réacteur.
 
-Les joueurs peuvent décider d'utiliser la réserve d’énergie de la station pour améliorer leurs chances de succès en utilisant des outils puissants lors de leurs actions mais s'il n'y a plus d’énergie, il ne pourront plus utiliser les droids.
+Les joueurs peuvent décider d'utiliser la réserve d’énergie de la station pour améliorer leurs chances de succès en utilisant des outils puissants lors de leurs actions mais s'il n'y a plus d’énergie, ils ne pourront plus utiliser les droids.
 
-Plus il y aura de survivants sauvés, plus ils leur sera facile de survivre sur la planète qu'ils vont rejoindre.
+Plus il y aura de survivants sauvés, plus il leur sera facile de survivre sur la planète qu'ils vont rejoindre.
 
 Voilà de quoi assurer quelques heures de jeux !
 
-### Des minuteur anonymes
+### Des minuteurs anonymes
 
 Dans certains cas, il peut être intéressant de ne pas révéler la conséquence du minuteur dès sa création. Cela permet d’aller encore plus loin dans le suspense. Les joueurs vont se demander ce qui peut se passer et feront probablement des suppositions. La menace est là  mais elle ne se révélera qu’au dernier moment. À utiliser judicieusement car cela va à l’encontre  entre en contradiction avec le principe de visibilité avec l’objectif de visibilité...
 
 ### Différentes mécaniques
 
-Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n’empêche d’avoir des mécaniques différentes en fonction de la catégorie de conséquence (Menace, Objectif, Fatalité) ou de tout autre critère. Par exemple, proposer une résolution décidée par les joueurs comme dans IS fonctionnera bien pour les Opportunités mais moins pour les Menaces. Ou encore on pourrait également rendre certain minuteurs aléatoires et conserver des durées fixes pour d’autres.
+Pour le moment, nous avons parlé d’une seule mécanique de minuteurs mais rien n’empêche d’avoir des mécaniques différentes en fonction de la catégorie de conséquence (Menace, Objectif, Fatalité) ou de tout autre critère. Par exemple, proposer une résolution décidée par les joueurs comme dans IS fonctionnera bien pour les Opportunités mais moins pour les Menaces. Ou encore on pourrait également rendre certain minuteurs aléatoires et conserver des durées fixes pour d’autres.
 
 ## Conclusion
 
@@ -246,7 +246,7 @@ Leur grande adaptabilité leur permet d'intervenir dans des contextes variés : 
 
 ## Annexes
 
-Voici une description simplifié des différentes horloges des jeux utilisé comme source d'inspiration dans cet articles. Je vous renvoie bien évidement à la lecture des œuvres associé pour une description complète.
+Voici une description simplifiée des différentes horloges des jeux utilisé comme source d'inspiration dans cet article. Je vous renvoie bien évidement à la lecture des œuvres associées pour une description complète.
 
 Dans **Apocalypse World**, il s’agit d’une horloge dite « atomique », héritage direct de la guerre froide. Elle contient 4 segments mais le dernier segment est divisé en 3, ce qui donne 6 segments au total.
 
@@ -281,9 +281,9 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzA1NTQzNSwtMTIyMjQ5NjEwNiwtNT
-QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
-NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
-wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
-MDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTIwNTY2NzAyNzcsLTEyMjI0OTYxMDYsLT
+U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
+ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
+ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3
+MDAxMzU0MF19
 -->

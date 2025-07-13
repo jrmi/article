@@ -188,7 +188,7 @@ Interactions possibles :
 
 #### Épreuves en série ou en parallèle
 
-Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur comme vu plus haut pour rendre la résolution plus longue et donc plus mémorable. Mais il existe une autre possibilité qui donne plus de relief au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou en bien parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. 
+Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur comme vu plus haut pour rendre la résolution plus longue et donc plus mémorable. Mais il existe une autre possibilité qui donne plus de relief au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou bien en parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis. 
 
 Dans cette variante, chaque minuteur représente un aspect différent du problème. Cela permet de rendre ces obstacles plus intéressants à résoudre car ils se décomposent en plusieurs sous obstacles qui auront leurs propre spécificités donnant ainsi à chaque personnages la possibilité de briller.
 
@@ -196,7 +196,7 @@ Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel
 
 Nous pouvons par exemple imaginer un combat contre un scorpion géant pour lequel nous créerons les minuteurs suivants :
 
-- La pince gauche est neutralisée
+- « La pince gauche est neutralisée
 - La pince droite est neutralisée
 - Le tête est touchée
 - La queue est neutralisé
@@ -286,7 +286,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTU1NTE1NSwtMTIyMjQ5NjEwNiwtNT
+eyJoaXN0b3J5IjpbMTgwMDY4MzEzNywtMTIyMjQ5NjEwNiwtNT
 QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
 NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
 wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw

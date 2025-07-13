@@ -87,7 +87,7 @@ Les **Menaces** représentent tous les événements indésirables auxquels les j
 | La coque du vaisseau vient d'être percée par un astéroïde et la cabine est dépressurisée. Il faut colmater la fuite et rétablir la pression en gaspillant le moins possible l’oxygène des combinaisons. | Plus d’oxygène. |
 | Le groupe possède une trousse de premiers soins mais elle ne pourra soigner qu'un nombre limité de blessures. | La trousse de premiers soins est vide. |
  
-Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Elles peuvent recouvrir le franchissement **d'obstacles /  d'ennemis, d**es actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou pour le groupe.
+Ensuite, les **Opportunités** désignent les conséquences  que les joueurs vont au contraire essayer de favoriser. Elles peuvent recouvrir le franchissement d'obstacles ou  d'ennemis, des actions à réaliser pour résoudre une quête ou bien des occasions de gagner certains avantages personnels ou pour le groupe.
 
 
 | Situation fictionnelle | Conséquence narrative |
@@ -96,7 +96,7 @@ Ensuite, les **Opportunités** désignent les conséquences  que les joueurs von
 | Le vaisseau doit être réparé avant que l’oxygène ne manque. | Le vaisseau spatial est réparé. |  
 | Un personnage a décidé d’apprendre un sort pour soigner ses coéquipiers. | J'ai appris le sort de soin.  |
 
-Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer de manière prématurée de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « Les câbles du système central sont débranchés » n’apporte en effet que peu de possibilités d'action au regard de « Le serveur central est neutralisé », conséquence elle-même plus restrictive que « La sécurité du bâtiment est contournée »
+Veillez à bien garder les conséquences les plus ouvertes possibles afin de ne pas présumer prématurément de la manière de les résoudre. Les Opportunités gagnent ainsi à être définies et formulées avec soin afin d'offrir un maximum de liberté d'action. « Les câbles du système central sont débranchés » n’apporte en effet que peu de possibilités d'action au regard de « Le serveur central est neutralisé », conséquence elle-même plus restrictive que « La sécurité du bâtiment est contournée »
 
 Comme ces Opportunités ont notamment pour vocation de suivre des projets personnels, il est tout à fait possible que les joueurs prennent la main et demandent eux-même la création de leurs minuteurs.
 
@@ -283,11 +283,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ5MTM5NzcsLTEyMTQyMjgwMjQsMT
-M4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OTE5Mzk5OSwyMTE3MDA0
-NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMyOTQ4Mi
-wtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MTA2LC01
-NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mz
-g0NjI1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5
-LC00NTA1MjY5NzFdfQ==
+eyJoaXN0b3J5IjpbLTQwMjE3MjIyNCwtMTIxNDIyODAyNCwxMz
+g0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMTcwMDQ3
+MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5NDgyLC
+0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMDYsLTU0
+MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzOD
+Q2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTks
+LTQ1MDUyNjk3MV19
 -->

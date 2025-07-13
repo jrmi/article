@@ -240,13 +240,7 @@ Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n
 
 ## Conclusion
 
-Le minuteur narratif est une mécanique à la fois simple, flexible et polyvalente qui permet de d’améliorer l’immersion des joueurs.
-
--> mettre le terme de "typologie".
-
-Nous avons cherché dans ce travail à élaborer une typologie visant à mieux décomposer et mieux cerner la manière dont fonctionnent les minuteurs pour mettre au jour à la fois le mécanisme interne et bien huilé de ces horloges tout en ménageant des espaces de liberté et de créativité qui permettent aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel.
-
-Les horloges narratives ont ceci de riche qu'elles répondent à une logique narrative (faire avancer l'action) tout en relevant d'un logique du jeu.
+Nous avons cherché dans ce travail à élaborer définir le coeur de ce qui compose les minuteurs narratif visant à mieux cerner la manière dont fonctionnent les minuteurs pour mettre au jour à la fois le mécanisme interne et bien huilé de ces horloges tout en ménageant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel. Les horloges narratives ont ceci de riche qu'elles répondent à une logique narrative (faire avancer l'action) tout en relevant d'un logique du jeu.
 
 -> on s'approche des mécanique des JDS
 
@@ -286,9 +280,9 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTQ1NjY0OCwtMTIyMjQ5NjEwNiwtNT
-QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
-NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
-wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
-MDEzNTQwXX0=
+eyJoaXN0b3J5IjpbNTk1MTQ1OTMyLC0xMjIyNDk2MTA2LC01ND
+I0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgsNDI5Mzg0
+NjI1LDExNjg2MTY4MDAsLTQ2Njg3MTM5NSwxMzI0MDg0MjU5LC
+00NTA1MjY5NzEsLTE2NTYyMjExNzksNDY0MTA3NTM4LC0xNzAw
+MTM1NDBdfQ==
 -->

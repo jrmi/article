@@ -19,7 +19,7 @@ Ainsi, cet article propose une analyse du fonctionnement des minuteurs dans ces 
 
 Avant de rentrer dans le vif du sujet et  si vous ne connaissez pas les 4 jeux cités, n'hésitez pas à aller consulter en annexe la description succincte de chaque mécanique pour vous faire une idée.
 
-Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes possibles pour rendre vos minuteurs encore plus riches.
+Chacun de ces quatre jeux  a développé sa propre approche des minuteurs, mais malgré leurs différences visuelles et mécaniques, nous pouvons extraire un certain nombre de principes fondamentaux communs à tous. Nous verrons donc comment l’intégration des minuteurs passe d'abord par le choix d’une mécanique qui définit la représentation et le mode de résolution d’un minuteur puis lors de son utilisation on va définir pour chaque minuteur sa conséquence et ses déclencheurs. Pour finir nous verrons les variantes proposées par les jeux pour rendre vos minuteurs encore plus riches.
 
 ## La mécanique des minuteurs
 
@@ -31,14 +31,14 @@ Tout d’abord, côté mécanique, l’analyse de ces quatre systèmes montre qu
 
 ### Représenter la progression du minuteur
 
-Un des objectifs premier des minuteurs et de rendre visible pour les joueurs la progression du d'une conséquence, il est donc primordiale de définir sa représentation. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
+Un des objectifs premier des minuteurs et de rendre visible pour les joueurs la progression d'une conséquence narrative, il est donc primordiale de définir sa représentation. Cette représentation visant la transparence, elle doit être facile à lire pour tout le monde et doit montrer l’imminence ou non du dénouement associé. Nos 4 jeux ont fait les choix suivants :
 
 - Une horloge atomique avec 6 segments qu’on noircit au fur et à mesure (AW)
 - Un cercle découpé en 4, 6 ou 8 cadrans que l’on grise au fur et à mesure (BD)
 - Une piste linéaire de 10 cases que l’on coche (IS)
 - Une étoile à cinq branches. Une branche est dessinée à chaque progression (ES)
 
-D'autres représentation seraient tout à fait envisageable :
+D'autres représentations seraient tout à fait envisageable :
 
 - des jetons/pièces/cailloux disposés sur la table ou sur une carte que l’on enlève un par un, technique empruntée aux jeux de société
 - un chiffre sur un post-it que l’on barre pour écrire la nouvelle valeur
@@ -282,7 +282,7 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM4NzA3NjQsMTE2ODYxNjgwMCwtND
+eyJoaXN0b3J5IjpbLTEyOTMyNTA2MzMsMTE2ODYxNjgwMCwtND
 Y2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MSwtMTY1NjIy
 MTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
 -->

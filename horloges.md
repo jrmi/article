@@ -242,7 +242,8 @@ Pour le moment, nous avons parlé de d’une mécanique de minuteurs mais rien n
 
 Nous avons cherché dans ce travail à définir ce qui compose le coeur des minuteurs narratif visant à mieux cerner la manière dont fonctionnent ceux-ci pour mettre au jour à la fois le mécanisme interne et bien huilé tout en ménageant des espaces de liberté et de créativité qui permettrons aux joueurs de mieux adhérer et s'immerger dans l'univers fictionnel. 
 
-Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (faire état de la situationon) tout en relevant d'une logique du jeu. 
+Les minuteurs narratifs ont ceci de riche qu'ils répondent à une logique narrative (faire état de la situation) tout en relevant d'une logique du jeu (faire avancer la situation). 
+L'introduction des minuteurs narratifs ammenent
 
 On s'approche alors de ce que l'on pourrait trouver dans un jeux de société tout en restant dans le jeux de rôle.
 mécanique générique
@@ -252,6 +253,8 @@ approche JDS
 
 
 ## Annexes
+
+Voici une description simplifié des differentes horologes des jeux utilisé comme 
 
 Dans **Apocalypse World**, il s’agit d’une horloge dite « atomique », héritage direct de la guerre froide. Elle contient 4 segments mais le dernier segment est divisé en 3, ce qui donne 6 segments au total.
 
@@ -283,9 +286,9 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDcwMzc4MSwtMTIyMjQ5NjEwNiwtNT
-QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
-NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
-wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
-MDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTE3MDQyODMxNDAsLTEyMjI0OTYxMDYsLT
+U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
+ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
+ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3
+MDAxMzU0MF19
 -->

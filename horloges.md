@@ -189,7 +189,7 @@ Interactions possibles :
 
 #### Épreuves en série ou en parallèle
 
-Lorsque l’on affronte un obstacle majeur il est possible de rallonger le minuteur comme vu plus haut pour rendre la résolution plus longue et donc plus mémorable. Mais il existe une autre possibilité qui donne plus de relief au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou bien en parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis.
+Lorsque l’on affronte un obstacle majeur, il est possible de rallonger le minuteur comme vu précédemment pour rendre la résolution plus longue et donc plus mémorable. Mais il existe une autre possibilité qui donne plus de relief au défi et qui consiste en la création de plusieurs minuteurs qu’il faut résoudre en série ou bien en parallèle. Les minuteurs en parallèle pourront évoluer indépendamment les uns des autres alors que les minuteurs en série devront être résolus dans un ordre bien précis.
 
 Dans cette variante, chaque minuteur représente un aspect différent du problème. Cela permet de rendre ces obstacles plus intéressants à résoudre car ils se décomposent en plusieurs sous obstacles qui auront leurs propres spécificités donnant ainsi à chaque personnage la possibilité de briller.
 
@@ -202,7 +202,7 @@ Nous pouvons par exemple imaginer un combat contre un scorpion géant pour leque
 - « La tête est touchée »
 - « La queue est neutralisée »
 
-La tête ne pourra être attaquée qu'à condition que les deux pinces soient neutralisées. Tant que la queue ne sera pas neutralisée le scorpion pourra continuer à attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie du scorpion ce qui permet d'envisager plusieurs stratégies.
+La tête ne pourra être attaquée qu'à condition que les deux pinces soient neutralisées. Tant que la queue ne sera pas neutralisée, le scorpion pourra continuer à attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie du scorpion ce qui permet d'envisager plusieurs stratégies.
 
 #### Scénario à base de minuteurs
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Nzk1Njk2MCwtOTkxOTM5OTksMjExNz
-AwNDcyNSwyMDcwNjczMjgzLDE0MTc4NTYzNzgsLTIwNDYzMjk0
-ODIsLTIwNTY2NzAyNzcsLTkzNDMzODU2NCwtMTIyMjQ5NjEwNi
-wtNTQyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQy
-OTM4NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4ND
-I1OSwtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwt
-MTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTEwOTA3MDQwMDEsLTk5MTkzOTk5LDIxMT
+cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5
+NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMD
+YsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0
+MjkzODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwOD
+QyNTksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1Mzgs
+LTE3MDAxMzU0MF19
 -->

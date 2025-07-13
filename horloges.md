@@ -196,16 +196,16 @@ Cette variante n’est pas sans rappeler l’univers des jeux vidéo dans lequel
 
 Nous pouvons par exemple imaginer un combat contre un scorpion géant pour lequel nous créerons les minuteurs suivants :
 
-- « La pince gauche est neutralisée
-- La pince droite est neutralisée
-- Le tête est touchée
-- La queue est neutralisé
+- « La pince gauche est neutralisée »
+- « La pince droite est neutralisée »
+- « Le tête est touchée »
+- « La queue est neutralisé »
 
-La tête ne pourra être touchée qu'à condition que les deux pinces soient neutralisées. Tant que la queue ne sera pas neutralisée le scorpion pourra continuer a attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie du scorpion ce qui laisse la possibilité d'envisager plusieurs stratégies.
+La tête ne pourra être attaquée qu'à condition que les deux pinces soient neutralisées. Tant que la queue ne sera pas neutralisée le scorpion pourra continuer à attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie du scorpion ce qui permet d'envisager plusieurs stratégies.
 
 #### Scénario à base de minuteurs
 
-Pour finir, on peut développer encore davantage la piste précédente pousser le point précédent encore plus loin et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
+Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, // ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
 
 Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
 
@@ -286,9 +286,9 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDY4MzEzNywtMTIyMjQ5NjEwNiwtNT
-QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
-NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
-wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
-MDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTEwNjEwMjM4NDcsLTEyMjI0OTYxMDYsLT
+U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
+ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
+ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3
+MDAxMzU0MF19
 -->

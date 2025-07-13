@@ -202,11 +202,11 @@ Nous pouvons par exemple imaginer un combat contre un scorpion géant pour leque
 - « La tête est touchée »
 - « La queue est neutralisée »
 
-La tête ne pourra être attaquée qu'à condition que les deux pinces soient neutralisées. Tant que la queue ne sera pas neutralisée, le scorpion pourra continuer à attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie du scorpion ce qui permet d'envisager plusieurs stratégies.
+La tête ne pourra être attaquée qu'à condition que les deux pinces soient neutralisées. Tant que la queue ne sera pas neutralisée, le scorpion pourra continuer à attaquer les personnages avec son dard empoisonné. Les joueurs doivent donc faire le choix de se focaliser sur telle ou telle partie du scorpion, ce qui permet d'envisager plusieurs stratégies.
 
 #### Scénario à base de minuteurs
 
-Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, ce qui permet de construire des scénarios complexes avec de multiple possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
+Pour finir, on peut développer encore davantage la piste précédente et combiner des minuteurs de différents types en série et en parallèle, ce qui permet de construire des scénarios complexes avec de multiples possibilités. Il est tout à fait possible de préparer ce type de scénario à l'avance ou de l'improviser sur le moment avec un peu d'habitude.
 
 Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spatiale en perdition (2 heures avant explosion du réacteur). Il est possible d’imaginer ces minuteurs en parallèle :
 
@@ -223,7 +223,7 @@ Une fois les navettes réparées et les survivants rassemblés, il devient possi
 
 Plus on rassemble de survivants, plus il devient facile de faire progresser la réparation des navettes.
 
-Si le système de maintenance est piraté, Le minuteur du réacteur est reculé car les droids de maintenance vont refroidir le réacteur.
+Si le système de maintenance est piraté, le minuteur du réacteur est reculé car les droids de maintenance vont refroidir le réacteur.
 
 Les joueurs peuvent décider d'utiliser la réserve d’énergie de la station pour améliorer leurs chances de succès en utilisant des outils puissants lors de leurs actions mais s'il n'y a plus d’énergie, ils ne pourront plus utiliser les droids.
 
@@ -282,7 +282,7 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA3MDQwMDEsLTk5MTkzOTk5LDIxMT
+eyJoaXN0b3J5IjpbLTIwNTQ1MTI2NTgsLTk5MTkzOTk5LDIxMT
 cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5
 NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMD
 YsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0

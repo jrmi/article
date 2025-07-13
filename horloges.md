@@ -145,9 +145,7 @@ Cette variante est intéressante  car elle rajoute de l’incertitude que les jo
 
 Pour le moment nous avons définit une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. 
 
-« L'explosion détruit le laboratoire » peut progresser par étapes : d'abord les alarmes se déclenchent, puis les conduits de vapeur éclatent, ensuite les machines surchauffent, et enfin la réaction en chaîne commence.
-
-Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que l'effondrement soit marqué par des étapes : les alarmes se déclenchent, puis les systèmes d'é
+Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que la progression soit marqué par des étapes : des fumées t se répand dans le complexe rendant la progression plus difficile, puis des gaz toxiques envahissent certaines partie rendant le cheminement plus complexe.
 
 On peut pousser cette variante plus loin et imaginer un nouvel effet à chaque progression rendant la situation de plus en plus complexe au fur et à mesure de la progression du minuteur.
 
@@ -288,8 +286,8 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTQ1ODc4NywtNTQyNDQ2MTkyLC0xMT
-I5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4NDYyNSwxMTY4NjE2
-ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OSwtNDUwNTI2OTcxLC
-0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcwMDEzNTQwXX0=
+eyJoaXN0b3J5IjpbLTE5MzQ5NzQ1MjQsLTU0MjQ0NjE5MiwtMT
+EyOTg0MTU4NSwtMTU0MjI2OTA2OCw0MjkzODQ2MjUsMTE2ODYx
+NjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNTksLTQ1MDUyNjk3MS
+wtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3MDAxMzU0MF19
 -->

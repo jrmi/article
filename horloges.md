@@ -213,11 +213,11 @@ Pour illustrer ce concept, prenons l’évacuation d'urgence d'une station spati
 - « Tous les survivants sont rassemblés »
 - « Le système de maintenance est piraté »
 - « Le réacteur explose »
-- « Il n'y a plus de d’énergie »
+- « Il n'y a plus de d’énergie dans les réserves de secours »
 
 Une fois les navettes réparées et les survivants rassemblés, il devient possible de résoudre les minuteurs suivants :
 
-- « Décollage coordonnée »
+- « Décollage coordonnée réussie »
 - « Mise en orbite autours de la planète »
 
 Plus on rassemble de survivants, plus il devient facile de faire progresser la réparation des navettes.
@@ -286,9 +286,9 @@ Dans Everspark, les minuteurs s’appellent des Sparks et sont représentés par
 
 Pour représenter l’évolution, on dessine une branche à chaque fois que le minuteur avance. À chaque progrès, on lance 1d6 : si le résultat est inférieur ou égal au nombre de branches dessinées, l’événement se déclenche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ3MjkzMDQsLTEyMjI0OTYxMDYsLT
-U0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0Mjkz
-ODQ2MjUsMTE2ODYxNjgwMCwtNDY2ODcxMzk1LDEzMjQwODQyNT
-ksLTQ1MDUyNjk3MSwtMTY1NjIyMTE3OSw0NjQxMDc1MzgsLTE3
-MDAxMzU0MF19
+eyJoaXN0b3J5IjpbMTUwOTQ1NjY0OCwtMTIyMjQ5NjEwNiwtNT
+QyNDQ2MTkyLC0xMTI5ODQxNTg1LC0xNTQyMjY5MDY4LDQyOTM4
+NDYyNSwxMTY4NjE2ODAwLC00NjY4NzEzOTUsMTMyNDA4NDI1OS
+wtNDUwNTI2OTcxLC0xNjU2MjIxMTc5LDQ2NDEwNzUzOCwtMTcw
+MDEzNTQwXX0=
 -->

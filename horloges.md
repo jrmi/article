@@ -143,7 +143,7 @@ Cette variante rajoute une incertitude que les joueurs doivent prendre en compte
 
 ### Des conséquences intermédiaires
 
-Pour le moment, nous avons défini une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. 
+Pour le moment, nous n'avons défini qu'une seule conséquence par minuteur lorsque celui-ci se résout, mais comme le propose ES, il est également envisageable d’avoir des seuils dans la progression, seuils qui vont déclencher des conséquences intermédiaires. 
 
 Par exemple, si un laboratoire est sur le point d'exploser, on peut imaginer que la progression soit marquée par des étapes : des fumées se répandent dans le bâtiment forçant les personnages à progresser plus lentement, puis des gaz toxiques envahissent certaines salles rendant le cheminement plus complexe et dangereux.
 
@@ -282,11 +282,11 @@ Pour représenter l’évolution, on dessine une branche à chaque fois que le m
 
 [^1]: Nous ici faisons le choix de nommer cette technique "minuteur narratif", mais elle peut porter différents  noms tels que :  horloge, compteur, compte à rebours, sablier, clepsydre, chrono, décompte, jauge de progression, piste d’évolution, indicateur de tension, timer ou encore baromètre de crise… N'hésitez pas à choisir le nom qui conviendra le mieux à votre univers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU4NTQyODMsNjI1MzgxNzI1LDE3Mj
-E2NDk3NzUsOTExNDg1MDc2LC00MDIxNzIyMjQsLTEyMTQyMjgw
-MjQsMTM4NDU4MTUwOSwxNjUwMzg2Nzk2LC05OTE5Mzk5OSwyMT
-E3MDA0NzI1LDIwNzA2NzMyODMsMTQxNzg1NjM3OCwtMjA0NjMy
-OTQ4MiwtMjA1NjY3MDI3NywtOTM0MzM4NTY0LC0xMjIyNDk2MT
-A2LC01NDI0NDYxOTIsLTExMjk4NDE1ODUsLTE1NDIyNjkwNjgs
-NDI5Mzg0NjI1XX0=
+eyJoaXN0b3J5IjpbMTAyNjMzNjE3OSw2MjUzODE3MjUsMTcyMT
+Y0OTc3NSw5MTE0ODUwNzYsLTQwMjE3MjIyNCwtMTIxNDIyODAy
+NCwxMzg0NTgxNTA5LDE2NTAzODY3OTYsLTk5MTkzOTk5LDIxMT
+cwMDQ3MjUsMjA3MDY3MzI4MywxNDE3ODU2Mzc4LC0yMDQ2MzI5
+NDgyLC0yMDU2NjcwMjc3LC05MzQzMzg1NjQsLTEyMjI0OTYxMD
+YsLTU0MjQ0NjE5MiwtMTEyOTg0MTU4NSwtMTU0MjI2OTA2OCw0
+MjkzODQ2MjVdfQ==
 -->
